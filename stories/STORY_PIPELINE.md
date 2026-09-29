@@ -47,10 +47,12 @@ YouTube saturation is now informational only. A heavily covered case can still b
 
 Research a balanced group before choosing:
 
-1. **Jennings 8 / Jeff Davis 8**
+1. **Jennings 8 / Jeff Davis 8 — SELECTED FLAGSHIP SERIES**
    - Louisiana multi-victim unsolved homicide cluster.
-   - Strong fit for the channel's new direction.
+   - Will be produced as a long-form multi-part series rather than one episode.
+   - Current production plan: at least 13 parts, expandable if research requires it.
    - Requires careful attribution of disputed law-enforcement / corruption theories.
+   - See `series/JENNINGS8_SERIES_PLAN.md`.
 
 2. **High-profile serial killer case**
    - Choose one with strong records, timeline, and distinctive investigative angle.
