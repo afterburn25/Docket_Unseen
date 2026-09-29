@@ -114,6 +114,34 @@ Labels:
 - **REPORTED ALLEGATION**
 - **UNRESOLVED THEORY** where appropriate
 
+## Archival Video / Real Footage
+
+Real video should be a major part of Docket Unseen whenever legally usable.
+
+Prioritize:
+- police interviews / interrogations;
+- press conferences;
+- body-camera or dash-camera footage released as public record;
+- courtroom footage;
+- local TV news reports;
+- family interviews;
+- law-enforcement briefings;
+- public-record video;
+- archival location footage;
+- search / recovery / evidence-processing footage where appropriate;
+- historical interviews with suspects, witnesses, investigators, attorneys, or journalists.
+
+Use short, purposeful clips tied directly to narration or analysis. Do not run long unedited segments.
+
+Whenever third-party copyrighted footage is used:
+- add substantial original narration, analysis, context, editing, graphics, or comparison;
+- use only the portion needed for the documentary point;
+- identify the source in project notes;
+- prefer public-domain, licensed, Creative Commons, public-record, or permission-cleared footage when available;
+- remember that fair use is case-specific and is not guaranteed merely because a clip is short or credited.
+
+For YouTube monetization, reused footage should be meaningfully transformed with original commentary and substantive editing rather than presented as a compilation.
+
 ## Motion
 
 Animation must be visibly perceptible.
