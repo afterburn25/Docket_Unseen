@@ -209,7 +209,7 @@ Cover:
 - mistakes alleged by journalists/families;
 - law-enforcement explanations or responses.
 
-### Part 10 — Law Enforcement, Alleged Corruption, and Competing Accounts
+### Part 10 — Law Enforcement, Alleged Corruption, Political/Institutional Questions, and Competing Accounts
 
 This should be one of the most carefully sourced episodes.
 
@@ -225,6 +225,32 @@ Cover:
 - reasons others reject broader conspiracy theories.
 
 Never narrate an unresolved corruption theory as fact.
+
+This part should explicitly distinguish:
+- proven ethics violations / disciplinary actions;
+- documented investigative failures;
+- missing or mishandled evidence;
+- conflicts of interest;
+- informant / sexual-relationship allegations;
+- claims of deliberate cover-up;
+- elected-office / political oversight questions;
+- official denials and alternative explanations.
+
+Use `research/jennings8/COVERUP_AND_FAILURES.md` as the fact ledger.
+
+### Part 10B — Witnesses, Informants, and the "People Who Knew Too Much" Pattern
+
+If research is deep enough, split this from Part 10.
+
+Investigate person-by-person:
+- victims questioned about earlier deaths;
+- informants;
+- witnesses who recanted;
+- people who later died;
+- Frankie Richard's later statements and 2020 death;
+- whether any later death was officially linked to the case.
+
+Do not claim that "everyone who came forward died" unless the evidence supports it. Use `research/jennings8/WITNESSES_INFORMANTS_AND_DEATHS.md`.
 
 ### Part 11 — Ethan Brown, Murder in the Bayou, and the Case Re-Examined
 
