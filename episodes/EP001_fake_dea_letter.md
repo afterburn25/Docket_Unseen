@@ -72,6 +72,8 @@ Rules:
 
 - No "Part 1 / Part 2..." markers.
 - Use narration-driven animations between still images.
+- Animation must be visibly noticeable: moving callouts, animated timeline progress, document highlighting, evidence-chain reveals, monetary/charge/sentence reveals, and story-beat transitions.
+- Slow zooms/pans remain useful as background motion but are not enough by themselves.
 - Use slow camera pushes, pans, evidence reveals, maps, timelines and transitions.
 - Keep documentary transitions restrained.
 - Background score should remain at one consistent low level under speech.
@@ -81,7 +83,9 @@ Rules:
 
 Latest working export produced in ChatGPT:
 
-`Docket_Unseen_Episode_01_Motion_Constant_Music.mp4`
+`Docket_Unseen_Episode_01_Real_Animations.mp4`
+
+This supersedes the earlier `Motion_Constant_Music` version. After review, the earlier motion was judged too subtle. The newer pass uses clearly visible narration-driven animation rather than relying mainly on slow zooms and dissolves.
 
 Current state:
 **Full assembled first episode exists and is ready for review / final polish.**
