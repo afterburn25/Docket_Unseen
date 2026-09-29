@@ -115,6 +115,8 @@ For allegations from arrest reports or unresolved proceedings, use:
 
 The finished video should not be static.
 
+**Important:** "animation" for Docket Unseen must be visibly perceptible. Do not count a barely noticeable Ken Burns zoom or simple dissolve as the primary animation treatment. Key narration beats should cause something meaningful to move, appear, trace, highlight, connect, or reveal on screen.
+
 Recommended motion:
 - slow push-in / pull-out
 - pan across documents
@@ -125,6 +127,11 @@ Recommended motion:
 - evidence-board connections
 - restrained dissolve / slide transitions
 - dramatic but brief reveal cards
+- keyword/case-fact callouts entering as the narrator reaches them
+- timeline bars visibly traveling across dates
+- source-document highlights appearing on the referenced lines
+- evidence-board connections building in sequence
+- numeric/sentencing reveals landing at the relevant narration beat
 
 Text-heavy official source panels should remain more stable so the audience can read them.
 
