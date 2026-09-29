@@ -44,7 +44,9 @@ Current completed work:
 - Narration-driven animation/motion added between still images.
 
 Latest working export created in ChatGPT:
-`Docket_Unseen_Episode_01_Motion_Constant_Music.mp4`
+`Docket_Unseen_Episode_01_Real_Animations.mp4`
+
+This newer cut replaces the earlier "motion" pass. The earlier pass relied too heavily on subtle Ken Burns zooms and dissolves. The current cut adds visible narration-driven animation: animated keyword callouts, moving timeline bars, source highlights, charge/reveal cards, sentencing reveals, comment-choice emphasis, and stronger scene handoffs while preserving the constant-volume music mix.
 
 The MP4 currently exists as a generated conversation artifact and has **not** been committed to GitHub.
 
@@ -54,7 +56,7 @@ See: `episodes/EP001_fake_dea_letter.md`
 
 1. Do not use "Part 1", "Part 2", etc. in finished narration or on-screen chapter titles.
 2. Background music should stay consistent in volume under the narration.
-3. Use animations and motion between images according to narration changes.
+3. Use visible animations and motion according to narration changes. A simple zoom/pan plus dissolve is not sufficient by itself; important narration beats should visibly animate information onto the screen.
 4. Prefer documentary motion: slow pushes, pans, document slides, maps, timelines, evidence reveals, and dissolves.
 5. Real case records should be included when possible.
 6. Clearly label reconstructed material.
