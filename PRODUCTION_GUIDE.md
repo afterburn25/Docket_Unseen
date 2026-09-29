@@ -2,166 +2,154 @@
 
 ## Goal
 
-Produce polished 8–15 minute narrated mini-documentaries about overlooked real cases, with enough original reporting, writing, graphics, motion, and analysis that the videos feel like documentary productions rather than automated slideshows.
+Produce polished 8–20 minute narrated true-crime mini-documentaries about compelling murder cases, serial killers, juvenile killers, cold cases, multi-victim investigations, major disappearances, and other serious criminal investigations.
+
+The channel may cover famous or saturated cases. **Viewer interest, story strength, evidence depth, and documentary potential matter more than novelty.**
 
 ## Research Standard
 
 Prefer:
-- DOJ / U.S. Attorney releases
-- FBI releases
-- Court filings and dockets
-- State attorneys general
-- Police/public-record releases
-- Reliable local reporting
-- Other primary or high-quality secondary sources
+- court filings / opinions / dockets;
+- police and sheriff releases;
+- FBI / DOJ records;
+- coroner / medical-examiner public findings where appropriate;
+- state attorneys general;
+- reliable local reporting;
+- established national investigative reporting;
+- books / documentaries by credible journalists as secondary context.
 
 For every case:
-- Verify names, dates, charges, pleas, convictions, sentences, and amounts.
-- Distinguish allegation from established fact.
-- Avoid stating that someone committed a crime when the public record only shows an accusation.
-- Record source URLs in the episode file.
+- verify names, ages, dates, locations, charges, pleas, verdicts, sentences, and present status;
+- distinguish confirmed evidence from allegations or theory;
+- distinguish suspect, person of interest, defendant, convicted offender, and acquitted person;
+- for unresolved cases, do not imply guilt without evidence;
+- for institutional-misconduct claims, clearly attribute disputed allegations and competing explanations;
+- record source URLs in the episode file.
 
-### Originality Check
+## Case Selection
 
-Before committing to a story:
-1. Search the defendant / subject's exact name on YouTube.
-2. Search the case description and distinctive hook.
-3. Search likely title phrases.
-4. Reject or deprioritize saturated cases.
-5. "No obvious dedicated YouTube documentary found" is acceptable; never claim that absolutely nobody has ever mentioned the case.
+Strong candidates include:
+- serial killers;
+- juvenile / child killers;
+- child-victim homicide cases;
+- family annihilators;
+- high-profile murders;
+- cold cases;
+- unresolved multi-victim cases;
+- cases with controversial investigations;
+- cases with major forensic breakthroughs;
+- cases with conflicting evidence or theories;
+- Jennings 8 / Jeff Davis 8-style investigations involving multiple connected victims and unresolved institutional questions.
+
+A case does **not** need to be under-covered.
 
 ## Script Style
 
 Tone:
-- Investigative
-- Clear
-- Curious
-- Serious without melodrama
-- Avoid unnecessary sensationalism
+- investigative;
+- clear;
+- cinematic;
+- tense;
+- respectful to victims;
+- serious without melodrama.
 
 Hook:
-- Lead with the strangest or highest-stakes fact.
-- Delay some context so the viewer has a reason to keep watching.
+- lead with the strongest fact, question, contradiction, or investigative mystery;
+- create curiosity without misleading viewers.
 
 Brand intro:
-- Brief.
-- Example structure: "You're watching Docket Unseen. Real cases. Overlooked stories."
+- short and exciting;
+- current working tagline: **"Real cases. Dark truths."**
 
 Mid-video CTA:
-- Place after a reveal or natural transition.
-- Ask viewers to like and subscribe without interrupting the story's momentum.
+- place after a reveal or natural transition;
+- ask viewers to like and subscribe without breaking the story.
 
 Ending:
-- Give the factual outcome.
-- Reflect briefly on why the case is unusual.
-- Ask a comment question specifically tied to the facts of that episode.
+- give the factual outcome or clearly state that the case remains unresolved;
+- briefly explain the strongest unanswered question;
+- ask a case-specific viewer question.
+
+## Sensitive Cases
+
+### Child victims
+- avoid graphic detail unless essential;
+- do not use graphic images of victims;
+- center identity, timeline, investigation, and evidence rather than suffering as spectacle.
+
+### Juvenile / child killers
+- clearly state age at the time of the offense;
+- explain whether they were handled in juvenile or adult court;
+- accurately describe conviction, sentence, release/parole status, and later developments;
+- do not sensationalize minors beyond what the record supports.
 
 ## ElevenLabs Workflow
 
 Current preferred narrator:
 **Anna — British Neutral Narration**
 
-- Write scripts for spoken delivery, not reading.
-- Use short paragraphs and deliberate punctuation.
-- Generate narration in manageable sections.
-- Listen to difficult names before generating the full episode.
-- Once narration is approved, treat the final audio as the master editing timeline.
+- write for spoken delivery;
+- use short paragraphs and deliberate punctuation;
+- test difficult names;
+- once approved, narration becomes the master timeline.
 
 ## Visual System
 
-### Real source material
+Use real source material when legally usable:
+- court filings;
+- police/public records;
+- archival photographs;
+- maps;
+- timelines;
+- press conferences;
+- newspaper/front-page excerpts;
+- reliable news screenshots;
+- public evidence exhibits.
 
-Use real:
-- court filings
-- press releases
-- dockets
-- public booking records
-- official exhibits
-- reliable news screenshots
-
-On-screen labels:
+Labels:
 - **OFFICIAL RECORD**
-- **PRESS RELEASE**
 - **PRESS REPORT**
-
-### Reconstruction material
-
-Use:
-- generic evidence folders
-- redacted documents
-- road / traffic-stop environments
-- offices
-- court exteriors
-- dealership environments
-- silhouettes
-- evidence boards
-
-Label clearly:
-**RECONSTRUCTION**
-
-Do not generate realistic fake:
-- driver's licenses
-- government credentials
-- badges
-- official seals
-- documents designed to be mistaken for authentic government records
-
-### Allegations
-
-For allegations from arrest reports or unresolved proceedings, use:
-**REPORTED ALLEGATION**
+- **ARCHIVAL**
+- **RECONSTRUCTION**
+- **REPORTED ALLEGATION**
+- **UNRESOLVED THEORY** where appropriate
 
 ## Motion
 
-The finished video should not be static.
+Animation must be visibly perceptible.
 
-**Important:** "animation" for Docket Unseen must be visibly perceptible. Do not count a barely noticeable Ken Burns zoom or simple dissolve as the primary animation treatment. Key narration beats should cause something meaningful to move, appear, trace, highlight, connect, or reveal on screen.
+Recommended:
+- document reveals;
+- timeline movement;
+- map routes;
+- evidence links building in sequence;
+- highlighted testimony;
+- date/location transitions;
+- parallax on archival images;
+- animated case-board connections;
+- numeric / verdict / sentence reveals;
+- short scene-specific reenactment motion where appropriate.
 
-Recommended motion:
-- slow push-in / pull-out
-- pan across documents
-- parallax on layered graphics
-- highlighted phrases appearing during narration
-- animated route lines
-- timeline movement
-- evidence-board connections
-- restrained dissolve / slide transitions
-- dramatic but brief reveal cards
-- keyword/case-fact callouts entering as the narrator reaches them
-- timeline bars visibly traveling across dates
-- source-document highlights appearing on the referenced lines
-- evidence-board connections building in sequence
-- numeric/sentencing reveals landing at the relevant narration beat
-
-Text-heavy official source panels should remain more stable so the audience can read them.
+A barely noticeable Ken Burns zoom or dissolve does **not** count as sufficient animation by itself.
 
 ## Music
 
-- Dark, restrained, investigative.
-- Instrumental.
-- Keep at a **constant low level** under the narration.
-- Do not apply automatic speech ducking.
-- Use opening/closing fades.
-- Any intentional music change must be tied to a meaningful story beat, not every sentence.
+- dark, restrained, investigative;
+- constant low level beneath narration;
+- no automatic speech ducking;
+- deliberate musical rises only at meaningful story beats.
 
 ## Output
 
 Default:
-- 1920×1080
-- 16:9
-- 24 fps
-- H.264 video
-- AAC audio
+- 1920×1080;
+- 16:9;
+- 24 fps;
+- H.264;
+- AAC.
 
-## Monetization / Presentation
-
-Keep the emphasis on:
-- investigation
-- evidence
-- unusual facts
-- procedure
-- consequence
-
-Avoid using gore or graphic material as the attraction.
+## Presentation Standard
 
 The goal is a credible documentary channel, not shock content.
+
+The strongest episodes should feel like a compact investigative documentary: gripping enough to retain viewers, but careful enough that facts, allegations, theories, victims, and unresolved issues remain clearly distinguishable.
