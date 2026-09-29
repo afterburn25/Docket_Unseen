@@ -316,6 +316,36 @@ Create:
 
 Each source entry should say exactly what claim it supports.
 
+## Archival / Real Video Plan
+
+The Jennings 8 series should use real footage extensively where legally usable.
+
+Look for:
+- sheriff / police interviews;
+- recorded witness interviews;
+- local-news interviews with family members;
+- press conferences;
+- archival broadcasts from 2005–2009;
+- task-force announcements;
+- footage of recovery locations and Jennings neighborhoods;
+- interviews with journalists, investigators, attorneys, and people connected to the case;
+- courtroom or hearing footage if public;
+- public-record video and law-enforcement releases;
+- clips from later reporting used only when rights / fair-use considerations are addressed.
+
+Each clip should be logged in the research dossier with:
+- source / owner;
+- date;
+- people shown;
+- what factual point it supports;
+- approximate clip duration used;
+- rights / licensing / public-record status;
+- whether it needs an on-screen source credit.
+
+Do not use long uninterrupted clips as filler. Real footage should be cut against narration, timelines, maps, captions, document excerpts, and original analysis.
+
+For disputed claims, the viewer should ideally see the **actual person making the claim** when footage exists, rather than hearing Docket Unseen state the allegation as fact.
+
 ## Production Goal
 
 This should be treated as a flagship Docket Unseen series.
