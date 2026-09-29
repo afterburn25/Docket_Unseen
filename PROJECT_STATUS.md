@@ -75,6 +75,18 @@ See: `episodes/EP001_fake_dea_letter.md`
 - Choose Episode 2 from the story pipeline.
 - Research Episode 2 for originality / existing YouTube saturation before scripting.
 
+## GitHub Tracker
+
+Open issues created for active work:
+- #1 — EP001 final review and publish
+- #2 — Raymond Kenneth Musgrove story candidate
+- #3 — Thomas Lemmen insurance-policy fraud candidate
+- #4 — Jennifer Fleener travel-insurance fraud candidate
+- #5 — Lori Ann Kimball romance-scam money-movement candidate
+- #6 — Homeowners insurance cancellation fraud candidate
+
+Future sessions should check open GitHub issues after reading this file.
+
 ## Continuity Rule
 
 Any future session working on Docket Unseen should update this file before ending if the project's current status changed.
