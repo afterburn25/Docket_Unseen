@@ -8,104 +8,132 @@ Research / Script / Narration / Visual Production / Editing / Review / Published
 
 [Title]
 
+## Case Type
+
+[Murder / Serial Killer / Juvenile Killer / Child-Victim Case / Cold Case / Multi-Victim / Disappearance / Other]
+
 ## One-Sentence Hook
 
-[The surprising fact that makes someone click.]
+[The strongest fact, contradiction, or unanswered question.]
 
-## Case / Subject
+## Case / Subjects
 
-- Subject:
+- Victim(s):
+- Suspect / defendant / offender:
+- Age(s) at key events:
 - Location:
 - Key dates:
-- Final disposition:
-- Current status:
-
-## Originality / YouTube Check
-
-Searches run:
-- [exact name]
-- [case description]
-- [location + subject]
-- [likely title phrase]
-
-Result:
-[Under-covered / saturated / needs more checking]
+- Case status:
+- Verdict / sentence if applicable:
 
 ## Sources
 
-1. [Primary source]
-2. [Court record]
-3. [Reliable local report]
+1. [Primary / court source]
+2. [Law-enforcement / official source]
+3. [Reliable reporting]
+4. [Additional context]
 
 ## Fact Notes
 
-### Confirmed / established
-- 
+### Established / confirmed
+-
 
-### Alleged / unresolved
-- 
+### Alleged / disputed
+-
+
+### Theories
+-
+
+### Official denials / competing interpretations
+-
 
 ### Unknown / do not speculate
-- 
+-
+
+## Special Handling
+
+If child victim:
+-
+
+If juvenile / child offender:
+- age at offense:
+- juvenile or adult court:
+- conviction/status:
+- sentence/release status:
+
+If unresolved case:
+- current official status:
+- persons of interest / suspects:
+- theories that must be attributed:
 
 ## Script Structure
 
 ### Cold Open
-[Hook]
+20–30 seconds, exciting and case-specific.
 
 ### Docket Unseen Intro
-Short branded intro.
+Short branded sting.
+Working tagline: **Real cases. Dark truths.**
 
-### Setup
+### Context
+Victim / subject / community background.
+
+### Timeline
 
 ### Investigation
 
 ### Mid-Video CTA
-Natural like + subscribe request after a meaningful reveal.
+Natural like + subscribe request.
 
-### Breakthrough / Main Reveal
+### Breakthrough / Key Evidence / Main Theory
 
-### Outcome
+### Court Outcome or Current Status
 
 ### Closing Reflection
 
 ### Comment Question
-A question directly relevant to this case.
+Directly relevant to the case.
 
 ## Narration
 
 Voice:
 **Anna — British Neutral Narration** unless deliberately changed.
 
-ElevenLabs notes:
-- spoken-delivery punctuation;
+Rules:
 - no "Part 1 / Part 2" narration;
-- test name pronunciations;
+- spoken-delivery punctuation;
+- test names;
 - final narration becomes master timeline.
 
 ## Visual Plan
 
 Real-source material:
-- 
+-
 
-Reconstructions:
-- 
+Archival photos:
+-
 
 Maps / timelines:
-- 
+-
+
+Reconstructions:
+-
 
 Important labels:
 - OFFICIAL RECORD
-- PRESS RELEASE / PRESS REPORT
+- PRESS REPORT
+- ARCHIVAL
 - RECONSTRUCTION
 - REPORTED ALLEGATION
+- UNRESOLVED THEORY
 
 ## Edit Notes
 
-- 1920x1080 / 24 fps.
+- 1920×1080 / 24 fps.
 - Narration master timeline.
-- Constant low-volume background music; no automatic speech ducking.
-- Narration-driven motion and transitions.
+- Constant low-volume background music.
+- No automatic speech ducking.
+- Strong narration-driven animation.
 - Keep source panels readable.
 
 ## Publish Package
