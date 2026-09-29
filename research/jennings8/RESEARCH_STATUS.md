@@ -1,0 +1,72 @@
+# Jennings 8 — Research Status
+
+**Started:** 2026-09-29
+
+## Phase 1 — Foundation
+Status: **IN PROGRESS**
+
+Completed:
+- created master series plan;
+- created official victim baseline from JDPSO Hot Cases;
+- created initial master timeline;
+- created victim dossier;
+- created people/connections ledger;
+- created evidence ledger;
+- created law-enforcement dossier;
+- created theory ledger;
+- created source ledger;
+- created archival-footage tracker;
+- verified contemporaneous KPLC archive exists for several major events;
+- identified official Showtime YouTube playlist and KPLC video/archive as footage leads.
+
+## Important early findings
+
+1. JDPSO still publicly lists all eight cases under Hot Cases.
+2. Official JDPSO victim pages resolve several age/date inconsistencies found in later news recaps.
+3. Brittney Gary has unusually valuable contemporaneous visual evidence: Family Dollar surveillance described by KPLC.
+4. The 08/20/2009 task-force release is preserved nearly verbatim by KPLC and provides the task force's own offender profile.
+5. Contemporary task-force messaging leaned toward a common offender; Ethan Brown's later investigation argues multiple offenders better fit the file.
+6. Claims of law-enforcement involvement remain disputed and must be attributed.
+
+## Next research batch
+
+### Victims 1–2 deep dive
+- Loretta full last-72-hours timeline;
+- Ernestine full last-48-hours timeline;
+- autopsy/coroner records;
+- Patterson charging/dismissal records;
+- family interviews;
+- recovery-scene reporting;
+- photo/footage provenance.
+
+### Pre-series context
+- Jennings demographics 2005–09;
+- South Jennings geography;
+- I-10 drug corridor claims;
+- Boudreaux Inn ownership/history;
+- local homicide clearance context;
+- Leonard Crochet shooting;
+- Sheila Comeaux / other pre-2005 contextual deaths — only if relevant and sourced.
+
+### Public-record targets
+- 31st JDC clerk / district attorney records;
+- JDPSO task-force records;
+- Louisiana State Police records;
+- Louisiana Board of Ethics records re Warren Gary;
+- FBI FOIA material;
+- coroner/autopsy availability.
+
+### Footage targets
+- KPLC broadcast archive;
+- task-force press conference video;
+- Brittney Family Dollar surveillance;
+- local family interviews;
+- official press conferences;
+- Showtime/ID clips for source comparison;
+- any public-record police interview video.
+
+## Script status
+
+**DO NOT WRITE FINAL PART 1 NARRATION YET.**
+
+Research dossier should be materially deeper before the first comprehensive script is locked.
