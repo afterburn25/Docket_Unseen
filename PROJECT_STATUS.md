@@ -6,88 +6,104 @@
 
 Channel name: **Docket Unseen**
 
-Tagline: **Real cases. Overlooked stories.**
+Working tagline: **Real cases. Dark truths.**
 
-Channel positioning:
-- Narrated / faceless crime-documentary channel.
-- Prioritize unusual, under-covered cases with reliable public records.
-- Core subjects: true crime, fraud, identity theft, scams, heists, cold cases, disappearances, and investigative breakthroughs.
-- Longer-term expansion can include other strange real-world investigations if the audience supports it.
+### Current Positioning
+
+Docket Unseen is a narrated / faceless **true-crime documentary channel**.
+
+The scope has been broadened from under-covered fraud/crime stories to prioritize the most compelling homicide and major-investigation stories, regardless of how much public attention they have already received.
+
+Primary focus going forward:
+- murder cases;
+- serial killers;
+- notorious killers;
+- juvenile / child killers;
+- child-victim homicide cases;
+- cold cases;
+- disappearances tied to criminal investigations;
+- family annihilators;
+- multi-victim or possible serial patterns;
+- major solved and unsolved homicide cases;
+- investigative failures / disputed theories;
+- forensic and investigative breakthroughs.
+
+A **Jennings 8 / Jeff Davis 8-style case** is now a strong model for the channel: multiple victims, interconnected people, community dynamics, competing theories, disputed investigative conduct, and unresolved questions.
+
+These are separate categories:
+1. **Child victims** — cases where children were victims.
+2. **Child / juvenile killers** — cases where the offender was a minor.
+
+High-profile and heavily covered cases are **allowed and encouraged** when the story is especially interesting or likely to attract viewers. Novelty is no longer the primary selection criterion.
+
+## Tone / Ethics
+
+- Serious, cinematic, factual.
+- Avoid gore-for-clicks and exploitative victim imagery.
+- Cases involving child victims should be handled with particular care.
+- Cases involving juvenile offenders should clearly state age at the time of the crime, court status, and what was proven.
+- Clearly separate fact, allegation, disputed interpretation, theory, and reconstruction.
+- For unresolved cases or allegations of police/public-official misconduct, attribute claims to named sources and do not present disputed theories as established fact.
 
 ## Brand Assets Completed
 
-Created during the initial ChatGPT production sessions:
-- Channel profile image / logo.
-- YouTube banner.
-- 150x150 watermark.
-- Channel description.
-- SEO-focused channel description.
+Created during initial ChatGPT production:
+- channel logo / profile image;
+- YouTube banner;
+- 150×150 watermark;
+- channel description;
+- SEO-focused description.
 
-These binary image files are not yet stored in this repository.
+**Brand copy needs revision** because older assets/descriptions use "Real cases. Overlooked stories." The current working tagline is **"Real cases. Dark truths."**
 
 ## Episode 1
 
-Status: **First full video cut completed; continuing polish.**
+Status: **Full first video cut completed; continuing polish.**
 
 Case: Matthew John Sanguine / fake DEA letter identity-fraud case.
 
-Current completed work:
-- Case selected and researched.
-- ElevenLabs-ready script written.
-- Narration generated in ElevenLabs using **Anna — British Neutral Narration**.
-- Full documentary storyboard created.
-- Reconstructions and evidence-style visuals created.
-- Full 1080p video assembled.
-- Numbered "Part 1 / Part 2..." narration/labels removed.
-- Background music added.
-- Music revised to remain at a consistent low volume rather than ducking under speech.
-- Narration-driven animation/motion added between still images.
+Episode 1 remains valid as the pilot even though the channel focus has shifted more strongly toward homicide, serial-killer, juvenile-killer, cold-case, and multi-victim investigations.
 
-Latest working export created in ChatGPT:
+Latest completed export:
 `Docket_Unseen_Episode_01_Real_Animations.mp4`
 
-This newer cut replaces the earlier "motion" pass. The earlier pass relied too heavily on subtle Ken Burns zooms and dissolves. The current cut adds visible narration-driven animation: animated keyword callouts, moving timeline bars, source highlights, charge/reveal cards, sentencing reveals, comment-choice emphasis, and stronger scene handoffs while preserving the constant-volume music mix.
+## Intro Work
 
-The MP4 currently exists as a generated conversation artifact and has **not** been committed to GitHub.
+A stronger animated intro is being developed.
 
-See: `episodes/EP001_fake_dea_letter.md`
+Target:
+- ~20–22 seconds episode-specific cold open;
+- ~8 seconds reusable Docket Unseen branded sting;
+- strong sound design;
+- visible evidence/case-file animation;
+- hard logo reveal;
+- working tagline: **Real cases. Dark truths.**
+
+Do not finalize a reusable intro that says **"Overlooked stories."**
 
 ## Production Decisions That Must Carry Forward
 
-1. Do not use "Part 1", "Part 2", etc. in finished narration or on-screen chapter titles.
-2. Background music should stay consistent in volume under the narration.
-3. Use visible animations and motion according to narration changes. A simple zoom/pan plus dissolve is not sufficient by itself; important narration beats should visibly animate information onto the screen.
-4. Prefer documentary motion: slow pushes, pans, document slides, maps, timelines, evidence reveals, and dissolves.
-5. Real case records should be included when possible.
-6. Clearly label reconstructed material.
-7. Keep real-source panels readable.
-8. Every script should include:
-   - short branded intro,
-   - natural mid-video like/subscribe request,
-   - relevant comment question at the end.
-9. Use the narration audio as the locked master timeline before final scene timing.
+1. No spoken or visual "Part 1 / Part 2..." labels.
+2. Background music stays at a consistent low volume beneath narration.
+3. Visible narration-driven animation is required; subtle zoom/pan alone is insufficient.
+4. Use real records, archival material, photographs, maps, and public/court sources when possible.
+5. Keep source panels readable.
+6. Clearly identify reconstructions and unresolved allegations.
+7. Every episode includes an exciting cold open, branded intro, natural mid-video like/subscribe prompt, and relevant closing comment question.
+8. Narration audio becomes the locked master timeline before final editing.
+9. High-profile / saturated cases are allowed; viewer interest and story strength matter more than novelty.
+10. Child-victim cases must be presented with restraint and respect.
+11. Juvenile-killer cases are a distinct content category and should accurately present offender age, juvenile/adult court handling, conviction status, and sentencing context.
+12. Unresolved multi-victim cases such as the Jennings 8 are strongly in-scope.
+13. Disputed corruption / misconduct theories must be attributed rather than narrated as settled fact.
 
 ## Immediate Next Steps
 
-- Review Episode 1 final cut for any pacing, animation, music, text, or factual corrections.
-- Create final thumbnail.
-- Finalize YouTube title and description.
-- Add source list to video description.
-- Upload/publish Episode 1.
-- Choose Episode 2 from the story pipeline.
-- Research Episode 2 for originality / existing YouTube saturation before scripting.
-
-## GitHub Tracker
-
-Open issues created for active work:
-- #1 — EP001 final review and publish
-- #2 — Raymond Kenneth Musgrove story candidate
-- #3 — Thomas Lemmen insurance-policy fraud candidate
-- #4 — Jennifer Fleener travel-insurance fraud candidate
-- #5 — Lori Ann Kimball romance-scam money-movement candidate
-- #6 — Homeowners insurance cancellation fraud candidate
-
-Future sessions should check open GitHub issues after reading this file.
+- finish and approve the reusable animated intro;
+- revise channel description/tagline to match the new murder/investigation scope;
+- finalize Episode 1 for upload;
+- build a new story pipeline centered on murder, serial killers, juvenile killers, cold cases, child-victim cases, and Jennings 8-style multi-victim investigations;
+- choose Episode 2 from the revised pipeline.
 
 ## Continuity Rule
 
