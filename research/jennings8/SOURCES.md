@@ -237,3 +237,39 @@ Role:
 ### FBI FOIA Log 2022
 FBI log contains a 2022 FOIA entry labeled "Jennings 8/Jeff Davis 8."
 This indicates a records request, **not** necessarily active investigative action.
+
+
+---
+
+## PART 1 CONTEXT SOURCES
+
+### U.S. Census Bureau — Jennings QuickFacts
+https://www.census.gov/quickfacts/fact/csv/jenningscitylouisiana/POP010210
+Supports:
+- 2010 Census population: 10,383.
+Quality: PRIMARY.
+
+### Simon & Schuster — Murder in the Bayou official book page
+https://www.simonandschuster.com/books/Murder-in-the-Bayou/Ethan-Brown/9781982127817
+Supports:
+- publisher summary of Brown's investigation;
+- Boudreaux Inn as a recurring location in victims' social world;
+- Brown's thesis regarding poverty, class, evidence-tampering/corruption allegations.
+Quality: PUBLISHER DESCRIPTION OF INVESTIGATIVE WORK; claims still require attribution.
+
+### Vice interview with Ethan Brown
+https://www.vice.com/en/article/jeff-davis-8-louisiana-bayou-jennings-ethan-brown-sex-workers-murder/
+Supports:
+- Brown's description of South Jennings/class divide;
+- Boudreaux Inn context;
+- critique of "high-risk lifestyle" framing.
+Quality: INVESTIGATIVE SECONDARY.
+
+### A&E updated Ethan Brown interview
+https://www.aetv.com/articles/jeff-davis-8-interview-ethan-brown-murder-in-the-bayou
+Supports:
+- Leonard Crochet theory history;
+- Brown's later uncertainty that most women witnessed the shooting;
+- Danny Barry allegations;
+- informant/law-enforcement relationship claims.
+Quality: INVESTIGATIVE SECONDARY; claims attributed to Brown.
