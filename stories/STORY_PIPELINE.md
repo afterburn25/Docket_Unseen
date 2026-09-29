@@ -1,124 +1,89 @@
 # Docket Unseen — Story Pipeline
 
-The channel should prioritize **under-covered real cases with a strong hook and strong public documentation**.
+## Current Direction
+
+The channel now prioritizes **compelling true-crime stories**, including famous cases. Under-covered cases remain welcome but are no longer required.
+
+### Primary story categories
+
+- serial killers;
+- notorious murder cases;
+- juvenile / child killers;
+- child-victim homicide cases;
+- family annihilators;
+- cold cases;
+- unresolved disappearances with homicide angles;
+- multiple connected victims / possible serial patterns;
+- controversial investigations;
+- forensic breakthroughs;
+- unresolved institutional questions.
+
+### Model case type
+
+**Jennings 8 / Jeff Davis 8-style investigations** are strongly in scope:
+- multiple victims;
+- interconnected victims / witnesses / suspects;
+- tight local community;
+- disputed investigative choices;
+- multiple competing theories;
+- possible institutional failures or conflicts;
+- no definitive resolution.
+
+For cases like this, do not state corruption, conspiracy, or guilt as fact unless established. Attribute claims and explain competing interpretations.
 
 ## Selection Checklist
 
 A candidate should ideally have:
-- a surprising hook explainable in one sentence;
-- reliable public records or official releases;
-- a beginning, investigation, breakthrough, and outcome;
-- enough material for an 8–15 minute documentary;
-- visually useful records, maps, locations, timelines, or evidence;
-- limited obvious dedicated YouTube coverage.
+- a strong hook;
+- reliable records/reporting;
+- enough timeline/evidence depth for 8–20 minutes;
+- strong visual material;
+- meaningful investigative questions;
+- audience recognition or high curiosity potential.
 
-Before scripting, search YouTube for:
-- exact subject name;
-- exact case name;
-- distinctive crime description;
-- key location + subject;
-- likely title phrases.
+YouTube saturation is now informational only. A heavily covered case can still be selected if Docket Unseen can tell it clearly, visually, or from a compelling investigative angle.
 
-Do not call a story "never covered on YouTube." Use language such as **under-covered**, **little obvious dedicated coverage**, or **no obvious dedicated documentary found during research**.
+## Episode 2 Candidate Categories
 
-## Candidate Backlog
+Research a balanced group before choosing:
 
-### Candidate A — Decades-long stolen veteran identity
+1. **Jennings 8 / Jeff Davis 8**
+   - Louisiana multi-victim unsolved homicide cluster.
+   - Strong fit for the channel's new direction.
+   - Requires careful attribution of disputed law-enforcement / corruption theories.
 
-Subject: Raymond Kenneth Musgrove
+2. **High-profile serial killer case**
+   - Choose one with strong records, timeline, and distinctive investigative angle.
 
-Hook:
-A man allegedly lived for decades using the identity of a real Vietnam veteran and was later sentenced in federal court.
+3. **Juvenile / child killer case**
+   - Focus on verified facts, offender age, court treatment, motive evidence if established, and outcome.
 
-Status:
-**Needs full research and YouTube-saturation check.**
+4. **Child-victim homicide case**
+   - Focus on victim, investigation, evidence, and justice process without exploitative imagery.
 
-Initial source:
-https://www.justice.gov/usao-edwa/pr/defendant-sentenced-thirty-months-federal-prison-decades-long-identity-theft-and-fraud
+5. **Cold case solved by DNA / genetic genealogy**
+   - Strong built-in investigation arc.
 
----
+6. **Family annihilator case**
+   - Strong timeline and behavioral / investigative structure.
 
-### Candidate B — More than 2,000 fraudulent life-insurance policies
+## Older Secondary Backlog
 
-Subject: Thomas Lemmen
+Previously identified fraud / identity cases remain valid as occasional secondary episodes:
+- Raymond Kenneth Musgrove;
+- Thomas Lemmen;
+- Jennifer Fleener / travel-insurance fraud;
+- Lori Ann Kimball;
+- homeowners-insurance cancellation fraud.
 
-Hook:
-A former insurance agent was prosecuted in a scheme involving more than 2,000 fraudulent life-insurance policies and millions in commissions.
+They are no longer the primary direction.
 
-Status:
-**Needs full research and YouTube-saturation check.**
+## Story Research Rule
 
-Initial source:
-https://www.justice.gov/usao-ndin/pr/former-schererville-insurance-agent-sentenced-70-months-prison-life-insurance-fraud
-
----
-
-### Candidate C — Travel-insurance employee and hundreds of fraudulent claims
-
-Subject: Jennifer Fleener / related defendants
-
-Hook:
-An insider who understood an insurance claims system became part of a scheme involving hundreds of fraudulent travel-insurance claims.
-
-Status:
-**Needs full research and YouTube-saturation check.**
-
-Initial source:
-https://www.justice.gov/usao-sdin/pr/eight-sentenced-federal-prison-12-million-travel-insurance-fraud-scheme
-
----
-
-### Candidate D — Romance-scam victim who later moved money for scammers
-
-Subject: Lori Ann Kimball
-
-Hook:
-A woman described by prosecutors as initially being a romance-scam victim later moved millions of dollars connected to other victims, even after law-enforcement warnings.
-
-Status:
-**Needs full research and YouTube-saturation check.**
-
-Initial source:
-https://www.justice.gov/usao-co/pr/castle-rock-woman-sentenced-defrauding-victims-romance-scams
-
----
-
-### Candidate E — Homeowners unknowingly lost insurance coverage
-
-Hook:
-A fraud scheme allegedly caused thousands of homeowners' insurance policies to be canceled while customers believed they remained insured.
-
-Status:
-**Needs full research and YouTube-saturation check.**
-
-Initial source:
-https://www.justice.gov/usao-sdfl/pr/fifth-defendant-sentenced-bank-fraud-and-tax-offenses-arising-multi-year-homeowners
-
-## Recommended Episode 2 Workflow
-
-1. Research Candidates A–E.
-2. Run exact YouTube searches for each.
-3. Score each only for internal production use on:
-   - novelty / saturation,
-   - source depth,
-   - visual potential,
-   - hook strength,
-   - resolution / outcome.
-4. Pick the case with the best combination.
-5. Create a new episode file under `episodes/`.
-6. Add all source links before writing narration.
-7. Update this pipeline after selection.
-
-## Future Candidate Sources
-
-Regularly inspect:
-- U.S. Attorney / DOJ releases
-- FBI field-office releases
-- state attorneys general
-- state police / sheriff public releases
-- court opinions
-- local court dockets
-- sentencing releases
-- unusual fraud / cybercrime / identity-theft prosecutions
-
-The goal is not simply "true crime." The goal is **real cases viewers probably have not already seen covered dozens of times.**
+For unresolved/highly contested cases:
+1. establish the uncontested timeline;
+2. separate official findings from witness claims;
+3. identify named theories and their sources;
+4. include relevant counterarguments or official denials;
+5. do not select a perpetrator or declare a disputed conspiracy solved;
+6. end with what is actually known and what remains unresolved.
