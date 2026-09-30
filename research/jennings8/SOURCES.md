@@ -955,3 +955,17 @@ Supports:
 - increased Regional Crime Lab submissions;
 - primary current-agency visual source.
 Quality: PRIMARY CURRENT JDPSO SOURCE.
+
+
+### State of Louisiana v. Lawrence Nixon, 52,202-KA (La. App. 2 Cir. 2018)
+https://law.justia.com/cases/louisiana/second-circuit-court-of-appeal/2018/52-202-ka.html
+Supports:
+- 2016 agreement between Nixon and Jefferson Davis/Jackson Parish prosecutors;
+- agreement conditioned benefit on credible information about an unsolved homicide from ~10 years earlier;
+- Jefferson Davis Parish investigator Chris Myers testimony;
+- Nixon had been questioned about "the murder" roughly ten years earlier;
+- 28-minute 2016 interview;
+- reference to a suspect and a box cutter;
+- investigators found Nixon's information too general/inconsistent.
+Quality: PUBLISHED LOUISIANA APPELLATE DECISION / PRIMARY LEGAL RECORD.
+Important: opinion does not identify the homicide victim.
