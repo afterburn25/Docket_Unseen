@@ -361,3 +361,65 @@ Warren Gary transaction, ethics ruling, inmate allegations, Ewing tapes.
 Victim, discovery, social network, inmate allegation, transition toward later killings.
 
 Do not force all three into one episode if primary records support deeper treatment.
+
+
+---
+
+# Stronger Whitnei ↔ Frankie Richard connection — source hierarchy
+
+## KNOE 2017 independent broadcast summary
+
+KNOE's `ArkLaMiss Mysteries: Who killed the Jeff Davis 8?` reported:
+- Richard had relationships with **six of the eight victims**;
+- he was the **last person to see at least two of them alive**.
+
+Source:
+https://www.knoe.com/content/news/ArkLaMiss-Mysteries-Who-killed-the-Jeff-Davis-8-420659733.html
+
+Important:
+KNOE does **not identify which two women** in that sentence.
+
+Status:
+**INDEPENDENT BROADCAST SECONDARY SOURCE.**
+
+## Ethan Brown / A&E
+
+A&E's updated Brown interview says Brown found reasons to suspect Richard particularly in:
+- Whitnei Dubois's death;
+- Kristen Gary Lopez's death.
+
+Brown says Richard was one of the last people seen with Whitnei and that alibis Richard attempted did not check out.
+
+Source:
+https://www.aetv.com/articles/jeff-davis-8-interview-ethan-brown-murder-in-the-bayou
+
+Status:
+**INVESTIGATIVE JOURNALISM / ATTRIBUTED TO BROWN.**
+
+## Mike Dubois / old local case chronology
+
+An older case chronology based on Mike Dubois's account says:
+- Whitnei returned to her mother's house late May 10;
+- later left;
+- family believed she walked to Frankie Richard's McKinley Street house;
+- the chronology says Richard acknowledged in a KPLC interview seeing Whitnei within hours of her death/discovery.
+
+Source lead:
+https://jdpkiller.wordpress.com/2011/09/27/3008/
+
+Status:
+**FAMILY-DERIVED SECONDARY LEAD.**
+
+### Current Docket Unseen wording
+
+Safe:
+> "Brown says Richard was one of the last people seen with Whitnei, and an older chronology based on her brother's account places her at Richard's house."
+
+Not yet safe:
+> "Whitnei was definitely last seen alive at Frankie Richard's house."
+
+To upgrade:
+- recover Mike Dubois's original 2011 interview/audio;
+- recover KPLC raw Richard clip where he discusses Whitnei;
+- obtain Richard's police interview / alibi;
+- obtain Whitnei's official last-seen statement.
