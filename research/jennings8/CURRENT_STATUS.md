@@ -55,6 +55,9 @@ Jefferson Davis Parish Sheriff's Office published an official first-year recap s
 Official:
 https://www.jdpso.org/press-releases/first-year-recap
 
+Official recap video linked by JDPSO:
+https://youtu.be/_UJ2WtCqpt0
+
 Status:
 **PRIMARY CURRENT SOURCE.**
 
