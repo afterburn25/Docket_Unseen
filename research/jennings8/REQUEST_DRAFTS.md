@@ -675,18 +675,19 @@ Hello,
 
 I am attempting to locate a Western District of Louisiana civil case cited in later federal civil-rights materials as:
 
-**Hubbard v. Edwards**
-filed approximately **February 21, 2003**
-cited as **No. CV-33-0333**
+**Hubbard v. Edwards**  
+**2:03-cv-00333**  
+filed **February 21, 2003**  
+terminated **November 12, 2004**
 
-The historical citation format may not match the current CM/ECF case-number format.
+CourtListener/RECAP confirms the modern docket number.
 
 Could the Clerk's Office please confirm:
 
-1. the full modern docket/case number;
-2. the assigned division/judge;
-3. whether the case is available electronically through PACER;
-4. the final disposition / closure date.
+1. the complete docket sheet;
+2. the assigned division/judge history;
+3. copies of non-sealed filings not available through RECAP;
+4. the final disposition / termination filing, especially **Document 63 filed Nov. 12, 2004**.
 
 If available, I am interested in obtaining the non-sealed:
 - complaint;
