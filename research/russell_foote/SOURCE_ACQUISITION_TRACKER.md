@@ -6,12 +6,12 @@ This tracker records what we need, where it can be obtained, and whether the ite
 
 | ID | Target | Custodian / archive | Access route | Priority | Status | Notes |
 |---|---|---|---|---|---|---|
-| A001 | LPSO initial homicide report, May 17, 1974 | Lafayette Parish Sheriff's Office | Public-record request | CRITICAL | READY TO REQUEST | Should establish scene/time/location/officers and case number |
-| A002 | LPSO incident/offense number + current cold-case ID | LPSO | Same request as A001 | CRITICAL | READY TO REQUEST | Needed to anchor all later requests |
-| A003 | Public property/evidence inventory | LPSO | Public-record request / segregable material | CRITICAL | READY TO REQUEST | Need item-by-item preservation status |
+| A001 | LPSO initial homicide report, May 17, 1974 | Lafayette Parish Sheriff's Office | Public-record request | CRITICAL | REQUEST SENT 2026-09-29 | Gmail thread `1a0f019a38045505`; should establish scene/time/location/officers and case number |
+| A002 | LPSO incident/offense number + current cold-case ID | LPSO | Same request as A001 | CRITICAL | REQUEST SENT 2026-09-29 | Included in Gmail thread `1a0f019a38045505` |
+| A003 | Public property/evidence inventory | LPSO | Public-record request / segregable material | CRITICAL | REQUEST SENT 2026-09-29 | Included in Gmail thread `1a0f019a38045505` |
 | A004 | Evidence destruction/retention documentation | LPSO / relevant lab | Administrative records request | CRITICAL | NOT SENT | Family says physical evidence was destroyed; verify exactly what/when/why |
-| A005 | April 9, 1974 initial fire report | Lafayette Fire Department | Fire Records | HIGH | READY TO REQUEST | Do not assume arson before report |
-| A006 | April 26, 1974 initial fire report | Lafayette Fire Department | Fire Records | HIGH | READY TO REQUEST | Major reported War Memorial/Red Cross fire |
+| A005 | April 9, 1974 initial fire report | Lafayette Fire Department | Fire Records | HIGH | REQUEST SENT 2026-09-29 | Gmail thread `1a0f019aa41b1b4b`; do not assume arson before report |
+| A006 | April 26, 1974 initial fire report | Lafayette Fire Department | Fire Records | HIGH | REQUEST SENT 2026-09-29 | Gmail thread `1a0f019aa41b1b4b`; major reported War Memorial/Red Cross fire |
 | A007 | April 1974 fire investigative/arson file | Lafayette Fire / state/local custodian | Determine custodian, then lawful request | HIGH | CUSTODIAN UNCERTAIN | Family account says file cannot now be located |
 | A008 | Daily Advertiser May 15–31, 1974 | Lafayette Public Library digital archive | Free online archive | CRITICAL | AVAILABLE TO SEARCH | 1974 is digitized |
 | A009 | Daily Advertiser Apr. 8–30, 1974 | Lafayette Public Library digital archive | Free online archive | HIGH | AVAILABLE TO SEARCH | Focus reported fires |
