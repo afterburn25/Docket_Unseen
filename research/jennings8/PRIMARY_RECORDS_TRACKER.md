@@ -383,3 +383,28 @@ Bad:
 > "Send me everything you have about the Jennings 8."
 
 Specific requests are more likely to be processed.
+
+
+---
+
+# 12. Western District of Louisiana — Allen v. Edwards
+
+Case:
+`2:07-cv-01675-CMH`
+
+Known:
+- complaint filed 10/09/2007;
+- PJI 2020 cites **Judgment of Dismissal of 60 Days**, dated 04/27/2010.
+
+### Request P — final federal docket / dismissal judgment
+Obtain:
+- complete docket sheet;
+- April 27, 2010 Judgment of Dismissal of 60 Days;
+- any settlement notice / stipulation if public;
+- orders resolving claims/defendants;
+- final closure entry.
+
+Goal:
+Determine exact procedural disposition rather than speculating from the judgment title.
+
+Status: **DISPOSITION DATE/TITLE IDENTIFIED; JUDGMENT TEXT NOT YET RECOVERED**
