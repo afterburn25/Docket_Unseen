@@ -216,6 +216,19 @@ Use victim-specific findings.
 
 ---
 
+# Published task-force data-mining finding
+
+The 2013 Helbich/Hagenauer/Leitner/Edwards paper analyzed 172 FBI Orion records related to Necole and found:
+- three distinct textual clusters;
+- Kristen/Brittney investigative material was closely related;
+- Laconia/Muggy material was notably different;
+- cluster geography differed between Jennings, Lafayette, and Lake Charles;
+- the task force said the analysis surfaced previously unknown potentially important clues.
+
+See `ORION_DATA_MINING_STUDY.md`.
+
+This independently supports **testing victim subsets / sub-networks**, but it does not identify an offender and does not prove multiple killers.
+
 # Discriminating evidence ranked by analytical power
 
 ## Tier 1 — Could fundamentally restructure the case
