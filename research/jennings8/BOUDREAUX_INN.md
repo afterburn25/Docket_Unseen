@@ -137,3 +137,66 @@ It would still not establish who killed anyone.
 - Showtime/Brown footage used only under rights plan.
 
 Avoid recreating the motel as a "den of crime" unless facts support the details shown.
+
+
+---
+
+# Stronger source separation — lease, operation, politics
+
+## Brown's lease claim
+
+Timestamped Chapter 5 subtitles place Brown's lease discussion at approximately **32:09–32:31**.
+
+Brown says he pulled a lease for the Boudreaux Inn and found **Martin Guillory** named on it.
+
+Research locator:
+https://www.subtitlecat.com/subs/869/5krhgisrhgorghors.html
+
+Status:
+**BROWN/DOCUMENTARY CLAIM ABOUT A PRIMARY DOCUMENT.**
+
+The actual lease remains a primary-record target. Until it is obtained, Docket Unseen should say:
+> "Brown said he found a lease naming Martin Guillory."
+
+not:
+> "The lease proves Guillory owned the motel."
+
+## Martin Guillory's response
+
+Chapter 5 places Brown's phone call with Martin Guillory at roughly **32:46–34:16**.
+
+In that exchange, Guillory:
+- denied knowing about criminal activity at the inn;
+- said he had met only a small number of the women / people Brown asked about.
+
+This matters because the series must include Guillory's own response alongside Brown's claims.
+
+## Washington Post political context
+
+The Washington Post reported in September 2016:
+- Brown's book said Martin Guillory, then a field representative for U.S. Rep. Charles Boustany, operated the Boudreaux Inn;
+- Brown cited anonymous sources alleging Boustany had been a client of sex workers including some victims;
+- Boustany denied the allegations;
+- Boustany also said he did not know of Guillory's motel connection.
+
+Source:
+https://www.washingtonpost.com/national/a-new-prostitution-scandal-roils-a-louisiana-senate-race/2016/09/21/0d19d586-7bb5-11e6-bd86-b7bbd53d2b5d_story.html
+
+Critical:
+Brown did **not** allege that Boustany participated in the murders.
+
+## PJI call-for-service allegation
+
+The Promise of Justice Initiative's 2020 DOJ letter alleges:
+- the Boudreaux Inn generated hundreds of sheriff's-office calls involving drugs and violence;
+- at least one call involved a body on the property.
+
+Source:
+https://louisianavoice.com/wp-content/uploads/2020/08/letter-to-justice-dept..pdf
+
+Status:
+**ADVOCACY CLAIM CITING UNDERLYING RECORDS.**
+
+This makes the actual dispatch/call-for-service logs a high-priority primary-record request.
+
+Do not state the "hundreds of calls" figure as neutral fact until those logs or the source records are obtained.
