@@ -705,3 +705,39 @@ Known Necole custodial lead:
 
 Status:
 **PUBLIC-REPORT ROUTE IDENTIFIED; REQUESTS NOT YET SENT**
+
+
+---
+
+# 14. Lawrence Nixon 2016 homicide-information agreement/interview
+
+Published appellate source:
+`State v. Nixon`, 52,202-KA (La. App. 2 Cir. 2018)
+
+Known:
+- October 2016 agreement signed by Jefferson Davis Parish DA and Jackson Parish ADA;
+- benefit conditioned on credible information about an unsolved homicide from ~10 years earlier;
+- ~28-minute recorded interview;
+- Jefferson Davis Parish investigator Chris Myers testified at enforcement hearing;
+- Nixon discussed a suspect / box cutter;
+- investigators found information not sufficiently credible/helpful.
+
+### Request V — underlying 2016 agreement/interview/hearing record
+Request from:
+- Jefferson Davis Parish DA;
+- Jackson Parish Clerk / Second Judicial District Court file 45,311;
+- any agency custodian for the recorded interview.
+
+Seek:
+- signed October 2016 agreement;
+- 28-minute interview video/audio;
+- transcript;
+- motion to enforce;
+- hearing transcript/minutes;
+- Chris Myers testimony/exhibits;
+- order denying enforcement.
+
+Goal:
+Identify which homicide was being discussed and what suspect Nixon referred to.
+
+Status: **APPELLATE DESCRIPTION RECOVERED; UNDERLYING RECORD NOT YET OBTAINED**
