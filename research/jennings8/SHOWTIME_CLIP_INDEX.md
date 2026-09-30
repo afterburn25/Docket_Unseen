@@ -540,3 +540,31 @@ If footage is used in final Docket Unseen edit:
 ## Principle
 
 The Showtime series is best used as a **map to interviews and claims**, not the project's source of truth.
+
+
+## Chapter Five exact knowledge-chain locators
+
+### ~15:40–16:54 — earlier-victim knowledge
+Documentary narration says:
+- witnesses told task force Muggy saw Loretta's body before official discovery;
+- Kristen was questioned in Loretta's case;
+- Muggy was interviewed in Ernestine's case.
+
+These are partly supported by Brown's published book excerpt, which says he obtained a task-force report for the Muggy/Loretta claim.
+
+### ~16:57–17:19 — Brittney / Crystal knowledge chain
+Documentary narration says:
+- Brittney publicly said "Uncle Frankie" killed Whitnei;
+- Crystal told Brittney she knew who killed Muggy.
+
+**Underlying witness/task-force records not yet recovered.**
+Treat these as archive/research leads, not established facts.
+
+### ~14:53–15:22 and ~17:25–17:53 — Necole knowledge/fear
+Barbara Guillory says:
+- Necole told family she had seen someone murdered.
+Later sequence says:
+- family believed Necole knew who was responsible;
+- a witness had warned the task force before Necole's death that she might be next.
+
+Necole's separate 2002 jail-corruption witness role is independently supported by AP's review of state/FBI records.
