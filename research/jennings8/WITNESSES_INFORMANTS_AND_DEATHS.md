@@ -135,6 +135,30 @@ Required:
 - contemporaneous newspaper/news report;
 - family statements if any.
 
+## Danny Barry
+
+Later Ethan Brown / Showtime reporting says:
+- a witness allegedly saw Brittney Gary enter a vehicle driven by Danny Barry after her last known Family Dollar visit;
+- Barry later denied knowing Brittney;
+- Barry subsequently died.
+
+Current evidentiary status:
+- no original witness statement logged;
+- no Barry interview transcript logged;
+- no primary record of his death/cause logged;
+- no official source establishes he abducted or killed Brittney.
+
+Status:
+**PERSON-OF-INTEREST / WITNESS-ALLEGATION RESEARCH LEAD ONLY.**
+
+Required:
+- identify exact witness;
+- obtain task-force report/interview;
+- Barry police interview;
+- employment/role records;
+- death certificate/coroner record;
+- whether investigators ever named him publicly.
+
 ## Series language rule
 
 Acceptable:
