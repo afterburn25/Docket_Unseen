@@ -6,6 +6,13 @@ This file contains only dates/events that have a cited source in `SOURCES.md`. D
 
 ## 2005
 
+### April 20, 2005
+**Leonard Crochet shot and killed during drug raid.**
+- Later records/reporting identify Louisiana Probation and Parole officer John Briggs Becton as the shooter.
+- PJI's 2020 federal-investigation request says no weapon was found near Crochet and cites a witness account conflicting with Becton's.
+- Later reporting says a parish grand jury returned no true bill on negligent-homicide consideration.
+- Status: SHOOTING IS ESTABLISHED; CROCHET-AS-MOTIVE THEORY IS UNRESOLVED.
+
 ### May 17, 2005
 **Loretta Lynn Chaisson Lewis last seen.**
 - JDPSO Hot Case page lists last seen: 05/17/2005.
@@ -75,6 +82,13 @@ This file contains only dates/events that have a cited source in `SOURCES.md`. D
 - Age 26.
 - KPLC reported her body near Bobby Road and Earl Duhon Road.
 - Status: OFFICIAL RECORD + contemporaneous reporting.
+
+### July 25, 2007
+**Harvey Leigh "Bird Dog" Burleigh murdered.**
+- KPLC's 2009 review of unsolved parish murders says Burleigh was found stabbed inside his home.
+- Later Brown-related reporting ties Burleigh to the Crochet raid and says he had told Mike Dubois he was close to learning who killed Whitnei.
+- No official link between Burleigh's murder and Jeff Davis 8 is established in the dossier.
+- Status: UNSOLVED HOMICIDE + UNRESOLVED CONNECTION THEORY.
 
 ## 2008
 
