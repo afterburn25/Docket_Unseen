@@ -1029,3 +1029,32 @@ Supports:
 - ~700 pages of reports;
 - increased use of Regional Crime Lab.
 Quality: PRIMARY CURRENT AGENCY SOURCE.
+
+
+### Louisiana State Police — Public Records Center
+Official LSP site:
+https://lsp.org/
+Public Records Center:
+https://louisianadps.govqa.us/WEBAPP/_rs/supporthome.aspx
+Supports:
+- current official State Police public-record request route.
+Quality: PRIMARY OFFICIAL.
+
+### Western District of Louisiana — CM/ECF / PACER
+https://www.lawd.uscourts.gov/cmecf-pacer
+Supports:
+- public PACER access to non-sealed federal case records.
+Quality: PRIMARY OFFICIAL.
+
+### Western District of Louisiana — Lake Charles Clerk's Office
+https://www.lawd.uscourts.gov/content/lake-charles
+Supports:
+- current Lake Charles Clerk address/phone;
+- Jefferson Davis Parish served by Lake Charles federal courthouse.
+Quality: PRIMARY OFFICIAL.
+
+### Western District of Louisiana — records availability FAQ
+https://www.lawd.uscourts.gov/content/can-i-access-your-records-online
+Supports:
+- non-sealed/restricted cases with scanned documents from 1999 forward can be accessed via PACER.
+Quality: PRIMARY OFFICIAL.
