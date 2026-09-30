@@ -318,3 +318,21 @@ cityhall@cityofjennings.com
 
 Louisiana State Police online Public Records Request:
 https://louisianadps.govqa.us/
+
+
+## Targeted fallback if full task-force report is withheld
+
+If an agency invokes an active-investigation exemption for the full report, send a narrowed follow-up:
+
+> If the full task-force report identified as JPD K-06184-08 / JDPSO 2008110110 / LSP 09-576 is exempt from disclosure, please provide any reasonably segregable non-exempt material, specifically:
+>
+> - the report cover sheet and table of contents/index;
+> - page 46;
+> - page 104;
+> - any page(s) identifying persons classified as suspects or persons of interest;
+> - any lead-disposition index or administrative lead log;
+> - any portion previously disclosed, quoted in a public filing, or otherwise released to a third party.
+>
+> If any requested page is withheld in full, please identify the specific statutory basis for withholding it.
+
+This narrower request is justified because pages 46 and 104 have already been specifically referenced in a publicly available federal civil-rights submission.
