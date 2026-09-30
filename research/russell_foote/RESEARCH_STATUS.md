@@ -149,3 +149,21 @@ Two additional acquisition requests were transmitted:
    - The request expressly does **not** seek identification of any confidential source.
 
 All four outgoing acquisition requests are now pending.
+
+
+## Clerk Records Request Sent — 2026-09-29
+
+5. **Lafayette Parish Clerk of Court — Criminal Department**
+   - Subject: `Historical Criminal Records Research — 1974 Red Cross embezzlement / Russell Foote case`
+   - Gmail thread/message ID: `1a0f01bc1edbad1a`
+   - Requested: public criminal case file identifying the 1974 Red Cross-related embezzlement/theft prosecution and December 1974 guilty plea/sentencing, including docket sheet, bill/charging instrument, minute entries, plea/sentencing records, motions/orders, exhibit index if public, and disposition.
+   - Separately requested only any lawfully public administrative index/minute capable of establishing the date/term/disposition of the reported grand-jury presentation.
+   - The request expressly excludes secret grand-jury testimony, deliberations, juror identities, or other protected material.
+
+### Evidentiary separation
+
+Current reporting supports two distinct propositions that must not be merged:
+- KPLC reports that the former Red Cross secretary pleaded guilty to embezzlement in December 1974.
+- KPLC also reports that the grand jury did **not** indict her for Russell Foote's murder.
+
+The financial conviction is not evidence, by itself, that she committed the homicide.
