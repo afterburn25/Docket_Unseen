@@ -305,3 +305,40 @@ Supports:
 - official five-episode series availability and descriptions;
 - footage/interview source lead.
 Quality: OFFICIAL DISTRIBUTOR / SECONDARY DOCUMENTARY.
+
+
+### Louisiana Board of Ethics Opinion 2007-489 — Warren Gary
+Surviving copy:
+https://www.scribd.com/document/465739986/2008-06-26-Warren-Gary-Ruling
+Supports:
+- official ethics findings regarding vehicle purchase;
+- dates and purchase/resale amounts;
+- Sections 1115B/1116A violations;
+- $10,000 penalty;
+- Gary's consent to findings.
+Quality: PRIMARY DOCUMENT COPY, but obtain direct Louisiana Board of Ethics archive copy if possible.
+
+### KPLC — Deputy fired over missing funds
+https://www.kplctv.com/story/10927506/deputy-fired-over-missing-funds/
+Supports:
+- Paula Guillory suspension;
+- outside Vermilion Parish investigation;
+- >$3,700 missing;
+- firing and prosecutor notification.
+Quality: CONTEMPORANEOUS LOCAL REPORTING.
+
+### KPLC — Louisiana State Police statement on Jesse Ewing
+https://www.kplctv.com/story/7520844/dec-19th-jennings-city-police-sgt-arrested/
+Supports:
+- arrest date;
+- State Police description of confidential-information release;
+- original charges/allegations.
+Quality: CONTEMPORANEOUS ARTICLE REPRINTING OFFICIAL STATE POLICE STATEMENT.
+
+### KPLC — Officer Arrested: His Side of the Story
+https://www.kplctv.com/story/7527604/officer-arrested-his-side-of-the-story/
+Supports:
+- Menard account of two inmate recordings;
+- allegation involving a high-elected parish official;
+- recordings delivered to FBI and Attorney General.
+Quality: CONTEMPORANEOUS LOCAL; inmate cover-up allegation remains unverified.
