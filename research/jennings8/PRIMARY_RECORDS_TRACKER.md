@@ -903,3 +903,43 @@ Purpose:
 Determine exactly what Necole knew and whether the 2009 task force ever assessed that history as a possible motive.
 
 Status: **CASE NUMBERS PARTLY IDENTIFIED — PRIMARY FILES NOT YET ACQUIRED**
+
+
+### Request X — Louisiana State Police files WDD010102 / WDD010102C
+
+Exact identifiers recovered from cited federal civil-rights material:
+
+- **WDD010102** — Louisiana State Police Bureau of Investigations, dated Nov. 26, 2002
+- **WDD010102C** — "Malfeasance in Office/Sexual Conduct with Inmates — Follow-Up Investigation Requested by District Attorney's Office," dated Nov. 27, 2002
+
+Request, if releasable:
+- complete reports;
+- supplements;
+- witness interview index;
+- Necole Guillory interview / written statement;
+- correspondence referenced in report;
+- final disposition / referral memo.
+
+If exemptions apply, request any segregable closed-case administrative/disposition material.
+
+Status: **EXACT FILE NUMBERS IDENTIFIED — NOT REQUESTED**
+
+### Request Y — Federal civil case CV-33-0333 / Hubbard v. Edwards
+
+Known federal filings cited in later civil-rights research:
+- Complaint, Hubbard v. Edwards — Feb. 21, 2003
+- Memorandum re default — Aug. 15, 2003
+- Complaint of Intervention — Dec. 11, 2003
+- multiple counsel-withdrawal motions in 2003–04
+- Pretrial Statement — Oct. 20, 2004
+
+Request/recover:
+- complete federal docket sheet;
+- complaint;
+- intervention complaint;
+- pretrial statement;
+- discovery/exhibit lists;
+- settlement/dismissal documents;
+- any publicly filed witness statements / State Police exhibits.
+
+Status: **CASE NUMBER / FILING DATES IDENTIFIED — PUBLIC DOCKET NOT YET RECOVERED**
