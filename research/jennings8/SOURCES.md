@@ -487,3 +487,37 @@ https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/freedo
 Supports:
 - federal records request process.
 Quality: PRIMARY OFFICIAL.
+
+
+### Promise of Justice Initiative — federal investigation request announcement
+https://promiseofjustice.org/news/2020/07/08/the-promise-of-justice-initiative-demands-launch-of-federal-investigation-into-violent-corrupt-jefferson-davis-parish-law-enforcement
+Supports:
+- PJI's 2020 request for DOJ investigation;
+- advocacy allegations of broader Jefferson Davis Parish law-enforcement misconduct;
+- links to full CRIPA request.
+Quality: ADVOCACY ORGANIZATION / SOURCE OF ITS OWN ALLEGATIONS, NOT NEUTRAL ADJUDICATION.
+
+### 64 Parishes — Review: Murder in the Bayou
+https://64parishes.org/review-murder-bayou
+Supports:
+- Brown-related summary of Crochet shooting;
+- Burleigh / Boudreaux Inn context;
+- Brown's investigative thesis.
+Quality: LOUISIANA CULTURAL PUBLICATION / SECONDARY REVIEW.
+
+### KPLC — Jeff Davis Parish investigating 13 unsolved murders
+https://www.kplctv.com/story/11172484/jeff-davis-parish-investigating-13-unsolved-murders/
+Supports:
+- Harvey Leigh Burleigh murdered July 25, 2007;
+- found stabbed inside home;
+- listed among parish's unsolved murders;
+- contemporaneous Mike Dubois victim-centered comments.
+Quality: CONTEMPORANEOUS LOCAL.
+
+### Vice — Ethan Brown interview
+https://www.vice.com/en/article/jeff-davis-8-louisiana-bayou-jennings-ethan-brown-sex-workers-murder/
+Supports:
+- Boudreaux Inn as Brown-identified hub;
+- South Jennings/class context;
+- Brown's investigative claims.
+Quality: INVESTIGATIVE SECONDARY.
