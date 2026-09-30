@@ -49,6 +49,23 @@ Research needed:
 
 ## Danny Barry
 
+### Death-record verification status
+
+Multiple later investigative/secondary sources say:
+- Barry died in **2010**;
+- age **63**;
+- he had been a long-serving Jefferson Davis Parish jail/deputy figure.
+
+Current web search has **not produced a clean obituary, death certificate, coroner record, or official agency notice unambiguously tied to this Danny Barry**.
+
+Therefore:
+- year/age remain **secondary-source facts pending primary verification**;
+- do not describe his death as suspicious;
+- do not infer cause/manner;
+- do not say the killings stopped "because he died." That is Richard's later argument, not an established causal finding.
+
+
+
 Later reporting identifies Barry as a figure questioned in relation to Brittney Gary and says he later died.
 
 Research required:
@@ -113,6 +130,21 @@ For each, document whether they are living/deceased and whether any death was of
 ---
 
 ## Russell Carrier
+
+### Death-record verification status
+
+Later Brown-related retellings repeatedly say:
+- Carrier died Oct. 10, 2010;
+- he was struck by a Burlington Northern Santa Fe train in Jennings;
+- then-Police Chief Todd D'Albor was quoted as saying Carrier had lain on the tracks.
+
+Current web search has **not located a clean contemporaneous KPLC/AP/police/coroner record** independently verifying the quoted circumstances.
+
+Therefore:
+- treat the train-death account as **later journalistic/secondary reporting pending primary confirmation**;
+- do not label Carrier a murdered or "silenced" witness.
+
+
 
 Later retellings of Ethan Brown's research say:
 - Carrier contacted the Jefferson Davis Parish District Attorney's Office after Crystal Zeno's body was found;
