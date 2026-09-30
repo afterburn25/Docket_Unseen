@@ -105,7 +105,28 @@ Need:
 - whether Necole ever reported this concern to investigators;
 - whether she identified any specific person.
 
-### Possible knowledge
+### Documented prior knowledge role
+
+Associated Press reviewed state and FBI records and reported that Necole, then 19, had been a **witness in the 2002 Jefferson Davis Parish jail misconduct investigation**.
+
+AP reports:
+- investigators interviewed Necole about misconduct and contraband inside the jail;
+- archival footage of that interview exists;
+- the broader investigation led to criminal charges against multiple jail officers.
+
+Sources:
+- https://www.wdsu.com/article/documentary-highlights-rape-allegations-at-louisiana-jail/29441314
+- https://www.courthousenews.com/women-traded-as-currency-inside-louisiana-jail/
+
+Status:
+**RECORD-BASED SECONDARY CONFIRMATION OF A REAL PRIOR WITNESS ROLE.**
+
+This is stronger than a later family belief or generalized informant rumor.
+
+It still does not establish that the 2002 case motivated her 2009 death.
+
+### Other possible knowledge
+
 Frankie Richard later told Ethan Brown:
 > "Necole knew a whole lot... about a whole lot."
 
@@ -160,7 +181,7 @@ Do not expand the pattern to all eight unless records support it.
 
 The evidence currently supports a careful statement:
 
-> **At least several of the women had expressed fear before they died, and some had reportedly been questioned about earlier deaths or worked as informants.**
+> **At least several of the women had expressed fear before they died; some were reportedly questioned about earlier deaths, and Necole is now independently documented as having served as a witness in an earlier parish-jail misconduct investigation.**
 
 That is a real pattern worth investigating.
 
