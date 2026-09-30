@@ -29,3 +29,8 @@ A lead is not evidence of guilt.
 - Do not contact a person as a "suspect" unless that status is documented by an authoritative source.
 - Preserve screenshots/PDFs with date, URL, author, and archive metadata.
 - If a lead could materially affect an active investigation, refer it to LPSO before making it public.
+
+| L009 | Determine whether Kevin Foote's prior case-file access produced a court order under R.S. 44:3(F), and inventory the materials already obtained by family. | S003/S006/S010 | NEW | Family outreach / public civil docket search | Potential path to full-file/evidence access through lawful designation |
+| L010 | Reconcile West Congress / "Route 1" / near Guilbeau descriptions using the original report and 1974 road maps. | S002/S008 | RESEARCHING | Initial report + historical maps | No definitive map pin yet |
+| L011 | Obtain the complete May 16–20, 2018 Daily Advertiser "Unforgotten" package. | S011/S012 | RESEARCHING | Gannett archive/library/Kevin Foote | Main article URL and video URL now preserved |
+| L012 | Request April 9 and April 26, 1974 initial fire reports directly from Lafayette Fire Department. | S003/S009 | READY | Fire Records request | Department says initial fire reports are obtainable; exact historical retention unknown |
