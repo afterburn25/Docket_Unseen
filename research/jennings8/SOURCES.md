@@ -521,3 +521,33 @@ Supports:
 - South Jennings/class context;
 - Brown's investigative claims.
 Quality: INVESTIGATIVE SECONDARY.
+
+
+### Louisiana Court of Appeal — Gunter v. Jefferson Davis Parish
+https://law.justia.com/cases/louisiana/third-circuit-court-of-appeal/2012/ca-11-1018.html
+Supports:
+- Steven Gunter wrongful-death litigation;
+- defendants/roles;
+- appellate disposition;
+- existence of depositions, police logs, video and other exhibits.
+Quality: PUBLISHED APPELLATE DECISION / PRIMARY LEGAL RECORD.
+
+### KPLC — Body found in Lake Arthur identified as Lacie Fontenot
+https://www.kplctv.com/story/24609114/body-found-in-lake-arthur-identified-at-lacie/
+Supports:
+- identity, age, date/place of discovery;
+- Lake Arthur Police / JDPSO involvement.
+Quality: CONTEMPORANEOUS LOCAL.
+
+### KPLC — No ruling yet on death of Lacie Fontenot
+https://www.kplctv.com/story/24619789/no-ruling-yet-on-lacie-fontenots-death/
+Supports:
+- no immediate cause-of-death ruling as of Feb. 3, 2014.
+Quality: CONTEMPORANEOUS LOCAL / CORONER-BASED.
+
+### KPLC — Attorney General addresses Jeff Davis Eight
+https://www.kplctv.com/story/24658058/attorney-general/
+Supports:
+- Lacie Fontenot had not been linked to the Jeff Davis 8;
+- AG Buddy Caldwell jurisdiction explanation.
+Quality: CONTEMPORANEOUS LOCAL / OFFICIAL INTERVIEW.
