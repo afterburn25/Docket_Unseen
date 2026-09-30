@@ -52,6 +52,8 @@ Completed:
 
 - created associated-deaths/incidents dossier covering Sheila Comeaux, Steven Gunter, Lacie Fontenot, Russell Carrier, Crochet and Burleigh with connection strength labels;
 
+- created confirmed archival-video index with official KPLC YouTube links, 2009 special/raw interview recovery leads, and surveillance targets;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
