@@ -102,9 +102,39 @@ Do not finalize a reusable intro that says **"Overlooked stories."**
 - finish and approve the reusable animated intro;
 - revise channel description/tagline to match the new murder/investigation scope;
 - finalize Episode 1 for upload;
-- build a new story pipeline centered on murder, serial killers, juvenile killers, cold cases, child-victim cases, and Jennings 8-style multi-victim investigations;
-- choose Episode 2 from the revised pipeline.
+- treat **Jennings 8 / Jeff Davis 8 as the flagship next series**;
+- continue primary-record acquisition before final Jennings 8 narration;
+- recover/licence archival KPLC/KATC/police/family footage;
+- begin final Part 1 narration only after the highest-value primary gaps are reduced.
 
 ## Continuity Rule
 
 Any future session working on Docket Unseen should update this file before ending if the project's current status changed.
+
+
+## Jennings 8 Flagship Status
+
+The Jennings 8 / Jeff Davis 8 project now has a comprehensive research structure under `research/jennings8/`.
+
+Completed scaffolding includes:
+- Parts 1–13 research files;
+- victim and master timelines;
+- relationship network;
+- fear/foreknowledge evidence;
+- witnesses/informants/later deaths;
+- DNA/forensics;
+- cover-up and investigative-failure ledger;
+- political/institutional ledger;
+- contradictions/gaps;
+- associated deaths/incidents;
+- alternative serial-offender leads;
+- primary-record acquisition tracker;
+- ready-to-send record request drafts;
+- archival footage index and by-part footage map.
+
+GitHub issues:
+- **#7** — flagship Jennings 8 series
+- **#8** — primary court/agency records
+- **#9** — archival video recovery/licensing
+
+Final Jennings 8 scripts should not be written from summaries alone. Continue reducing the primary-record gaps first.
