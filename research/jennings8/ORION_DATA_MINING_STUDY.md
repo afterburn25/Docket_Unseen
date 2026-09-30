@@ -317,3 +317,19 @@ A later 2014 publication titled `Building Multi-modal Crime Profiles with Growin
 
 Next step:
 See `ORION_RESEARCHER_OUTREACH.md`.
+
+
+---
+
+# Researcher contact status — 2026-09-29
+
+Verified public contacts:
+- Marco Helbich — Utrecht University — **m.helbich@uu.nl**
+- Michael Leitner — Louisiana State University — **mleitne@lsu.edu**
+- Julian Hagenauer — later 2016 publication lists **j.hagenauer@ioer.de** (recheck before sending)
+
+No outreach has been sent.
+
+The publication search still has **not** identified a verified full-eight Jennings Orion follow-up.
+
+A general 2014 chapter, `Building Multi-modal Crime Profiles with Growing Self Organising Maps`, is by different authors (Yee Ling Boo and Damminda Alahakoon) and should not be treated as the promised Jennings follow-up.
