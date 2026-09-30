@@ -87,6 +87,9 @@ Completed:
 
 - separated the "women knew too much" chain into evidence tiers: Brown/task-force-backed claims versus documentary-only claims; Brittney/Whitnei and Crystal/Muggy original statements are now explicit top record targets;
 
+- created information-exposure/retaliation pathway map testing not only what victims may have known, but who could plausibly have known they were cooperating;
+- verified 2013 peer-reviewed Orion analysis of 172 Necole-related task-force records and found no verified published full-eight follow-up; the 2013 paper's stated future work shifted to a different LSU solved-crime dataset rather than reporting an all-eight Jennings expansion;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
