@@ -64,6 +64,24 @@ No theory receives a score or winner.
 3. One offender possessing nonpublic details from multiple cases.
 4. Strong common MO/signature across victims.
 
+## New primary legal development — Nixon 2016 interview
+
+A published 2018 Louisiana appellate opinion confirms Jefferson Davis Parish prosecutors sought homicide information from Lawrence Nixon in 2016.
+
+This creates a new high-value test:
+- identify the homicide;
+- identify the "suspect" Nixon referenced;
+- compare Nixon's 2016 account with his original 2005–06 statements;
+- determine whether the box-cutter detail existed in original Patterson evidence or was new/general information.
+
+If the homicide is confirmed as Patterson, the interview could materially clarify whether prosecutors viewed Nixon as:
+- a possible participant;
+- a witness;
+- a source against another person;
+- or some combination.
+
+The appellate court says investigators found the 2016 information insufficiently credible/helpful.
+
 ## Highest-value records
 
 - Patterson court/lab file;
