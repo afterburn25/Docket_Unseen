@@ -148,3 +148,24 @@ Confirms the Lafayette Public Library archive is free to the public and covers l
 **URL:** https://lalgs.org/wp-content/uploads/2021/11/obituary1974alpha.pdf
 
 Notes that 1974 Daily Advertiser material was historically available on microfilm at Lafayette Public Library. Useful as corroboration that local archival copies existed, but the digitized Lafayette Public Library archive is the preferred first route.
+
+
+### S016 — UL Lafayette Dupré Library, Lafayette City Maps index
+**Class:** A archival finding aid  
+**URL:** https://library.louisiana.edu/sites/library/files/MAPS_07_LaRm.pdf
+
+Relevant holdings include:
+- 1970 Lafayette base map — Lafayette Regional Planning Commission;
+- 1973 `Lafayette: A City Map` — Sun Star Map Service for Greater Lafayette Chamber of Commerce, call no. LaRm G 4014 .L3 1973 .L3;
+- 1975 Lafayette city map;
+- 1972 Lafayette Parish land-use maps.
+
+**Research value:** primary-era cartographic sources for reconstructing West Congress/Guilbeau as it existed at the time of the homicide.
+
+### S017 — UL Lafayette Special Collections / Louisiana Collection
+**Class:** A archival repository  
+**URLs:**
+- https://library.louisiana.edu/collections/louisiana-collection
+- https://library.louisiana.edu/collections
+
+Confirms historical maps are available in Special Collections/Jefferson Caffery Reading Room and that digitization/research services are available.
