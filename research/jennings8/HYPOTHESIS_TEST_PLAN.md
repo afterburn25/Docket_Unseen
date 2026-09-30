@@ -392,3 +392,30 @@ No theory should be promoted because it is more dramatic.
 10. Build exact GIS map.
 
 These ten items have the highest probability of changing the current theory map.
+
+
+## Necole-specific test — 2002 jail witness role
+
+New documented fact:
+- Necole was a witness in a 2002 Jefferson Davis Parish jail misconduct investigation that resulted in criminal pleas by former correction officers.
+
+This strengthens only one proposition:
+> Necole had documented firsthand knowledge of prior law-enforcement misconduct.
+
+It does **not** establish:
+> she was killed because of that knowledge.
+
+### Evidence that would connect the 2002 case to motive
+- threat referencing her 2002 testimony;
+- later witness saying she was targeted over those statements;
+- task-force motive memo connecting the cases;
+- communication/contact with a 2002-case subject shortly before death;
+- Necole naming the 2002 case when expressing fear.
+
+### Evidence that would weaken the connection
+- no later contact or threat;
+- task force investigated and found no relevance;
+- her fear concerned unrelated people/events;
+- 2002 cooperation ended years earlier with no continuing dispute.
+
+Primary files are required before moving beyond "documented knowledge."
