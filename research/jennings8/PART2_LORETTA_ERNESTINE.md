@@ -187,6 +187,20 @@ Important procedural discrepancy:
 - May 2007 article: Jones and Nixon — awaiting trial on manslaughter;
 - later coverage: charges dismissed.
 
+A surviving older case-research page says it was summarizing court records and reports that investigators:
+- conducted numerous interviews;
+- took fiber samples from a vehicle trunk thought potentially to have transported Ernestine;
+- removed/tested portions of a porch identified by a witness as a possible body-placement location;
+- obtained no blood/DNA result tying those items to the killing;
+- DA Michael Cassidy characterized the remaining case as dependent on an uncorroborated witness.
+
+Source lead:
+https://ernestinepatterson.wordpress.com/2008/12/15/13/
+
+Status:
+**COURT-RECORD-DERIVED SECONDARY LEAD ONLY.**
+Do not treat these details as verified until the underlying court/forensic exhibits are obtained.
+
 Need actual 31st Judicial District Court docket to establish:
 1. original booking charge;
 2. indictment/bill of information;
