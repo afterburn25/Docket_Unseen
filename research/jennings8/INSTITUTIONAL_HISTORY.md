@@ -64,6 +64,31 @@ What it does not establish:
 
 ---
 
+## Breaux v. Jefferson Davis Sheriff's Department — 1997
+
+Published Louisiana Third Circuit case:
+**Breaux v. Jefferson Davis Sheriff's Department**, No. 96-944 (La. App. 3 Cir. Feb. 5, 1997).
+
+Public:
+https://caselaw.findlaw.com/court/la-court-of-appeal/1240800.html
+
+The case arose from allegations of:
+- unlawful entry/search of a home;
+- unlawful arrest;
+- civil-rights violations under §1983.
+
+Named defendants included the Sheriff's Department, former Sheriff Dallas Cormier, and deputies.
+
+This is another documented civil-rights lawsuit from the Cormier-era institutional history.
+
+Status:
+**PUBLISHED APPELLATE RECORD.**
+
+Important:
+The existence of the suit does not by itself prove the Jennings 8-era sheriff's office engaged in similar conduct.
+
+---
+
 ## Cormier public-records case
 
 Louisiana Supreme Court:
