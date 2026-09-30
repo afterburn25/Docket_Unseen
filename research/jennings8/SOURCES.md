@@ -881,3 +881,24 @@ Supports:
 - claim no criminal prosecution followed;
 - citation to Donald Woods July 19, 2007 letter.
 Quality: ADVOCACY FILING / RECORD-LOCATOR; underlying LSP/DA records preferred.
+
+
+### Ethan Brown — Who Killed the Women Known as the Jeff Davis 8? (book excerpt / Medium)
+https://medium.com/galleys/murder-in-the-bayou-7460c048db0e
+Supports:
+- Brown's statement that Muggy was interrogated about Ernestine Patterson;
+- Brown's statement that a task-force report recorded a witness saying Muggy saw Loretta's body before official discovery;
+- Brown's statement that Kristen was interrogated about Loretta;
+- Brown's broader claim that all eight informed for local law enforcement;
+- Brown's account of Loretta's final-day social contacts and Boudreaux Inn;
+- Brown's multiple-offender / "knew too much" thesis.
+Quality: DIRECT INVESTIGATIVE-JOURNALIST SOURCE, including a quoted underlying task-force report; primary police/task-force records remain preferred.
+
+### Showtime Chapter Five subtitle research locator
+https://www.subtitlecat.com/subs/869/5krhgisrhgorghors.html
+Supports only as a research locator for:
+- documentary narration that Brittney publicly accused Frankie Richard in Whitnei's death;
+- documentary narration that Crystal told Brittney she knew who killed Muggy;
+- Barbara Guillory's on-camera statements about Necole's knowledge/fear;
+- Brown's narrated pre-death task-force-warning claim.
+Quality: USER-UPLOADED SUBTITLE MIRROR OF COPYRIGHTED SECONDARY DOCUMENTARY. Use to locate claims/footage, not as primary proof.
