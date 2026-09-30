@@ -250,3 +250,44 @@ Ask separately for:
 8. public-record metadata/index even where investigative narrative is withheld.
 
 These should be pursued before broad active-investigation requests.
+
+
+---
+
+# Request mechanics under R.S. 44:32 / 44:35
+
+Current Louisiana law requires a written determination when the custodian disputes whether a requested record is public.
+
+R.S. 44:32(D):
+- if a disclosure question is raised, the custodian must respond in writing within **five days**, excluding Saturdays, Sundays, and legal public holidays;
+- the response must state the determination and the legal basis for any exemption.
+
+R.S. 44:35:
+- after five days without a written determination or reasonable estimate for collection/segregation/redaction/review, enforcement remedies may become available.
+
+Official:
+- https://www.legis.la.gov/legis/Law.aspx?d=99691
+- https://www.legis.la.gov/legis/Law.aspx?d=99703
+
+Operational rule for Docket Unseen:
+- log the exact date every request is received;
+- preserve acknowledgement;
+- preserve fee estimate;
+- preserve any exemption citation;
+- do not characterize delay/denial as misconduct without reviewing the statutory basis.
+
+## Fees
+
+R.S. 44:32:
+- inspection/review of public records is generally not subject to a fee;
+- copies may carry lawful fees;
+- custodians may require copying fees in advance.
+
+Ask for electronic copies where possible and request fee notice before production.
+
+## Coroner records
+
+See:
+`CORONER_RECORDS_STRATEGY.md`
+
+Current R.S. 44:19 makes the coroner's report public while generally keeping the full autopsy/death-investigation work product nonpublic to ordinary requesters.
