@@ -571,3 +571,24 @@ Supports:
 - Mike Dubois request for outside leadership;
 - Menard comments on street sources and Necole surveillance.
 Quality: CONTEMPORANEOUS LOCAL.
+
+
+### Louisiana State Police — Steven Gunter police-involved shooting investigation (surviving uploaded copy)
+https://www.scribd.com/document/465742999/Terrie-Guillory-2007-Shooting-pdf
+Supports:
+- June 9, 2007 scene chronology;
+- LSP request/investigation;
+- Gunter armed with .22 rifle according to report;
+- gunfire / officer wound;
+- Terrie Guillory shotgun;
+- coroner pronouncement and death-certificate cause;
+- evidence seizure / officer interviews.
+Quality: PRIMARY AGENCY REPORT COPY UPLOADED TO THIRD-PARTY SITE; seek certified LSP copy.
+
+### KPLC 7 News — Unsolved Mystery in Jeff Davis Parish Part 3
+https://www.youtube.com/watch?v=EBcneUPSbus
+Quality: OFFICIAL KPLC YOUTUBE ARCHIVE.
+
+### KPLC 7 News — Unsolved mystery in Jeff Davis Parish Part 5
+https://www.youtube.com/watch?v=VI8DjB3w898
+Quality: OFFICIAL KPLC YOUTUBE ARCHIVE.
