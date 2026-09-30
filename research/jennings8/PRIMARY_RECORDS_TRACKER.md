@@ -645,3 +645,28 @@ Contact authors Marco Helbich, Julian Hagenauer, Michael Leitner regarding:
 
 Status:
 **PUBLISHED STUDY RECOVERED; NONPUBLIC CLUES/PROJECT OUTPUT NOT YET RECOVERED**
+
+
+---
+
+# 18. Louisiana Public Records Law targeting
+
+Current strategy documented in:
+`LOUISIANA_PUBLIC_RECORDS_STRATEGY.md`
+
+For Patterson and Lopez-related arrests, request **public core records first**:
+- initial investigating-officer report;
+- booking records under C.Cr.P. Art. 228;
+- filed bill(s) of information;
+- public docket/minutes/dispositions.
+
+Legal anchor:
+Louisiana R.S. 44:3(A)(4).
+
+For active task-force materials:
+- expect R.S. 44:3(A)(1) exemption claims;
+- request cover/index/metadata/previously released/segregable material;
+- ask for statutory basis for withheld portions.
+
+Status:
+**STRATEGY UPDATED — REQUESTS NOT YET SENT**
