@@ -24,6 +24,7 @@ Completed:
 - created Loretta/Ernestine deep-dive dossier;
 - created Kristen/Whitnei deep-dive dossier, including Richard/Conner arrest-record discrepancy and truck-evidence issues;
 - created Muggy/Crystal deep-dive dossier, including contemporaneous fear statements, cause-of-death sourcing, informant claims, and Russell Carrier lead;
+- created Brittney/Necole deep-dive dossier, including Family Dollar surveillance timeline, family search, Necole fear statements, I-10 recovery, task-force offender profile, and Danny Barry lead;
 - verified contemporaneous KPLC archive exists for several major events;
 - identified official Showtime YouTube playlist and KPLC video/archive as footage leads.
 
