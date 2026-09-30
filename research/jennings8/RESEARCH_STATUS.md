@@ -90,6 +90,8 @@ Completed:
 - created information-exposure/retaliation pathway map testing not only what victims may have known, but who could plausibly have known they were cooperating;
 - verified 2013 peer-reviewed Orion analysis of 172 Necole-related task-force records and found no verified published full-eight follow-up; the 2013 paper's stated future work shifted to a different LSU solved-crime dataset rather than reporting an all-eight Jennings expansion;
 
+- created case-clustering analysis combining Orion results, prosecution clusters, disposal patterns, fear/information pathways, and institutional links while explicitly separating investigative clusters from offender clusters;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
