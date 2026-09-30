@@ -943,3 +943,27 @@ Request/recover:
 - any publicly filed witness statements / State Police exhibits.
 
 Status: **CASE NUMBER / FILING DATES IDENTIFIED — PUBLIC DOCKET NOT YET RECOVERED**
+
+
+### Official submission route — Louisiana State Police
+
+Verified current route:
+**Louisiana Department of Public Safety Public Records Center (GovQA)**  
+https://louisianadps.govqa.us/WEBAPP/_rs/supporthome.aspx
+
+The official Louisiana State Police site links its **Public Records Request** function directly to this portal.
+
+Use this route for Requests X / WDD010102 / WDD010102C and other State Police records.
+
+### Federal 2003 civil docket retrieval route
+
+Western District of Louisiana confirms non-sealed civil cases and scanned documents from 1999 forward are generally available through PACER.
+
+PACER:
+https://www.lawd.uscourts.gov/cmecf-pacer
+
+Lake Charles Clerk:
+- 611 Broad St., Lake Charles, LA 70601
+- 337-437-3870
+
+Use party-name/case-locator search if the historical citation `CV-33-0333` does not map cleanly to modern CM/ECF numbering.
