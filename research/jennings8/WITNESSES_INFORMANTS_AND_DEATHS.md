@@ -112,6 +112,29 @@ For each, document whether they are living/deceased and whether any death was of
 
 ---
 
+## Russell Carrier
+
+Later retellings of Ethan Brown's research say:
+- Carrier contacted the Jefferson Davis Parish District Attorney's Office after Crystal Zeno's body was found;
+- he allegedly identified three men he said he saw leaving the wooded recovery area;
+- he later died in October 2010 after being struck by a train in Jennings.
+
+Current evidentiary status:
+- Docket Unseen has not yet obtained Carrier's original tip/interview;
+- no contemporaneous local-news or police record confirming his exact statement has yet been logged;
+- no coroner/police record has yet been logged establishing manner of death;
+- no official source reviewed links his death to the Jeff Davis 8.
+
+Status:
+**HIGH-PRIORITY WITNESS-DEATH RESEARCH LEAD; CONNECTION TO CASE UNPROVEN.**
+
+Required:
+- DA/task-force tip record;
+- Jennings Police railroad-death report;
+- coroner/death certificate;
+- contemporaneous newspaper/news report;
+- family statements if any.
+
 ## Series language rule
 
 Acceptable:
