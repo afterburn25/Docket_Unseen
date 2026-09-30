@@ -637,3 +637,19 @@ Purpose:
 - locate interviews/scenes/timestamps for archive/licensing;
 - not treated as primary factual findings.
 Quality: COPYRIGHTED SECONDARY DOCUMENTARY + USER-UPLOADED SUBTITLE INDEX.
+
+
+### Associated Press — Boustany drops defamation lawsuit
+https://theind.com/articles/24354/
+Published Dec. 14, 2016.
+Supports:
+- Boustany voluntarily ended lawsuit after Senate loss;
+- lawyer confirmed decision not to proceed;
+- AP explicitly notes Brown's book did not allege Boustany participated in the killings.
+Quality: ASSOCIATED PRESS REPRINT.
+
+### Breaux v. Jefferson Davis Sheriff's Department (La. App. 3 Cir. 1997)
+https://caselaw.findlaw.com/court/la-court-of-appeal/1240800.html
+Supports:
+- civil-rights litigation arising from Cormier-era sheriff-department conduct.
+Quality: PUBLISHED STATE APPELLATE CASE.
