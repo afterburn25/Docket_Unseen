@@ -1,0 +1,385 @@
+# Jennings 8 — Primary Records Acquisition Tracker
+
+## Purpose
+
+This file tracks primary records needed before final narration.
+
+Status codes:
+- **NOT REQUESTED**
+- **REQUEST DRAFTED**
+- **REQUESTED**
+- **RECEIVED**
+- **PARTIAL**
+- **DENIED / EXEMPT**
+- **UNAVAILABLE**
+
+Because the eight murders remain open, investigative records may be withheld under Louisiana public-record exemptions. Court records, ethics opinions, filed pleadings, minute entries, and other completed public records may be more accessible.
+
+---
+
+# 1. Jefferson Davis Parish Clerk of Court / 31st Judicial District
+
+Official Clerk:
+https://www.jeffdavisclerk.org/civilCriminal
+
+Current contact:
+- Jefferson Davis Parish Clerk of Court
+- 300 North State Street, Room 106
+- Jennings, LA 70546
+- Civil/Criminal/Probate: **337-824-8340**
+- Recording/main: **337-824-1160**
+
+The clerk's site states:
+- criminal department files criminal bills of information / indictments / motions / subpoenas;
+- copies of pleadings and minutes are available;
+- criminal searches are available;
+- electronic filings use ClerkConnect.
+
+### Request A — Ernestine Patterson prosecution
+Subjects:
+- Byron Chad Jones
+- Lawrence Nixon
+- victim: Ernestine Daniels Patterson
+
+Request:
+- criminal docket numbers;
+- bills of information / indictments;
+- minute entries;
+- charging amendments;
+- motions;
+- dismissal/nolle prosequi documents;
+- orders;
+- exhibits list;
+- any publicly available hearing transcripts/minutes.
+
+Goal:
+Resolve the sequence:
+- Jan. 2006 KPLC: second-degree murder charge pending against Jones;
+- May 2007 KPLC: Jones/Nixon awaiting trial on manslaughter;
+- later: charges dismissed.
+
+Status: **NOT REQUESTED**
+
+### Request B — Kristen Lopez related cases
+Subjects:
+- Frankie Richard
+- Hannah Conner
+- Tracee Chaisson
+
+Request:
+- 2007 docket numbers;
+- warrant/charging documents;
+- booking-related court filings;
+- second-degree-murder charges if filed;
+- accessory-after-the-fact filing for Tracee;
+- dismissal / nolle prosequi;
+- minute entries.
+
+Goal:
+Resolve contradiction between 2007 KPLC statements that Richard/Conner faced murder charges and later Sheriff's Office statement that Richard was not arrested for Lopez's death.
+
+Status: **NOT REQUESTED**
+
+---
+
+# 2. 31st Judicial District Attorney — Jefferson Davis Parish
+
+Official:
+https://jeffdavisda.org/
+
+Contact:
+- 300 State Street, Suite 206
+- Jennings, LA 70546
+- Mailing: P.O. Box 1388, Jennings, LA 70546
+- Phone: **337-824-1893**
+- Fax: **337-824-3311**
+
+### Request C — Patterson prosecution disposition
+Ask for publicly releasable:
+- dismissal / declination records;
+- prosecutor statements explaining evidentiary insufficiency;
+- case numbers;
+- public correspondence/press releases;
+- non-exempt final disposition records.
+
+Status: **NOT REQUESTED**
+
+### Request D — KPLC subpoena records
+The DA sought KPLC raw footage at least in 2009 and again around 2012.
+
+Request:
+- subpoena / motion / application;
+- related court filings;
+- case number;
+- orders / rulings;
+- correspondence that is public.
+
+Goal:
+Document why prosecutors believed the Chaisson/Richard raw interviews were potentially evidentiary.
+
+Status: **NOT REQUESTED**
+
+---
+
+# 3. 31st Judicial District Court
+
+Official:
+https://www.31stjdc.org/
+
+Contact:
+- 300 North State Street
+- Jennings, LA 70546
+- Phone: **337-824-3506**
+- Fax: **337-824-8985**
+- Email listed by court: **pguidry@31stjdc.org**
+
+Use mainly to identify court procedure / judge / record-location questions. The Clerk remains custodian of filed case records.
+
+---
+
+# 4. Jefferson Davis Parish Sheriff's Office
+
+Official:
+https://www.jdpso.org/
+
+Current:
+- Sheriff Kyle C. Miers
+- P.O. Box 863
+- 1530 US-90
+- Jennings, LA 70546
+- Non-emergency: **337-821-2100**
+- Hot Cases remain online.
+- Current tip number: **337-275-8188**
+
+### Request E — current case status
+Request a current public statement answering:
+1. Are all eight cases active?
+2. Is there a current dedicated cold-case unit/team?
+3. Which outside agencies currently assist?
+4. Has evidence been re-inventoried since 2024?
+5. Has new DNA / forensic genealogy testing been attempted?
+6. Has the office re-interviewed witnesses?
+7. Is there a current reward?
+8. What tip line should media/public use?
+9. Does current administration favor one offender / multiple offenders / no stated theory?
+10. Does current administration have a public response to major allegations in `Murder in the Bayou`?
+
+Status: **NOT REQUESTED**
+
+### Request F — public task-force materials
+Request publicly releasable copies of:
+- 2008 task-force formation release;
+- 2009 offender-profile release;
+- 2009 press-conference materials;
+- public posters/flyers;
+- public reward materials;
+- public photographs/maps;
+- agency roster.
+
+These are public communications rather than core investigative files and may be easier to obtain.
+
+Status: **NOT REQUESTED**
+
+### Request G — historical interview / press video
+Ask whether JDPSO retains:
+- press-conference video;
+- sheriff interviews;
+- task-force public briefings;
+- released crime-scene/recovery-area footage.
+
+Status: **NOT REQUESTED**
+
+---
+
+# 5. Jennings Police Department / City of Jennings
+
+City public-record route:
+https://www.cityofjennings.com/city-clerks-office/
+
+City Clerk page states a public-record request form is available.
+
+### Request H — Jesse Ewing records
+Request publicly releasable:
+- employment dates/rank;
+- administrative action related to Dec. 2007 arrest;
+- policy documents relevant to disclosure of investigative recordings;
+- public disposition records;
+- non-exempt correspondence with Louisiana State Police.
+
+Status: **NOT REQUESTED**
+
+### Request I — Brittney Gary missing-person public materials
+Because Brittney's case began as a Jennings Police missing-person investigation:
+- public missing-person flyer;
+- public press releases;
+- public surveillance stills;
+- media releases;
+- public search maps;
+- current archival copy of Family Dollar surveillance if releasable.
+
+Open homicide exemptions may limit access to underlying reports.
+
+Status: **NOT REQUESTED**
+
+---
+
+# 6. Louisiana Board of Ethics
+
+Official search portal:
+https://ethics.la.gov/EthicsOpinion/welcome.aspx?cr=1
+
+The official portal contains opinions issued since 1997.
+
+### Request / Retrieval J — Warren Gary Opinion 2007-489
+Known:
+- opinion date: June 26, 2008;
+- Opinion No. **2007-489**;
+- current secondary copy reproduces the signed consent opinion.
+
+Goal:
+Download official state-hosted copy.
+
+Status: **OFFICIAL SEARCH PORTAL VERIFIED; DIRECT DOCUMENT URL NOT YET RECOVERED**
+
+Known findings from surviving copy:
+- vehicle negotiated during suspect questioning;
+- bought for $8,748.90;
+- sold for $15,500;
+- Sections 1115B and 1116A violated;
+- $10,000 penalty;
+- Gary consented to findings.
+
+---
+
+# 7. Louisiana State Police
+
+Need official public-record route / custodian confirmed before request.
+
+### Request K — Jesse Ewing arrest
+Request:
+- Dec. 2007 arrest/incident report;
+- State Police press release;
+- arrest affidavit / probable cause;
+- disposition materials in agency possession if public.
+
+Status: **NOT REQUESTED**
+
+### Request L — Jeff Davis task-force public materials
+Request non-exempt:
+- public press releases;
+- public task-force presentations;
+- public offender profile;
+- public agency participation roster.
+
+Status: **NOT REQUESTED**
+
+---
+
+# 8. FBI FOIA
+
+Official FOIA page:
+https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/freedom-of-information-privacy-act
+
+FBI allows eFOIPA requests.
+
+### Request M — Jeff Davis 8 / Jennings 8
+Potential scope:
+- public/closed administrative records;
+- task-force liaison records;
+- public press material;
+- records concerning receipt of Jesse Ewing/Kirk Menard recordings;
+- records suitable for release concerning the multi-agency task force.
+
+Caution:
+Open-investigation / privacy / law-enforcement exemptions are likely.
+
+Status: **NOT REQUESTED**
+
+A 2022 FBI FOIA log entry reportedly used the description "Jennings 8/Jeff Davis 8"; locate request number before submitting a duplicative request.
+
+---
+
+# 9. Coroner / autopsy records
+
+Jurisdictions differ by recovery location / autopsy facility.
+
+Known:
+- Calcasieu Parish Coroner performed some autopsies, including Necole.
+- Acadia Parish coroner participated in Necole case.
+- Jefferson Davis Parish death investigations may involve parish coroner / regional autopsy arrangements.
+
+Need to identify exact custodian for each victim before requests.
+
+### Request N — victim-by-victim autopsy / coroner
+For each victim:
+- autopsy report;
+- toxicology;
+- death certificate if accessible;
+- cause/manner;
+- identification method;
+- scene/coroner narrative.
+
+Priority:
+1. Ernestine — confirm neck wounds / homicide;
+2. Muggy — confirm throat wounds / bleach claims;
+3. Crystal — confirm asphyxiation;
+4. Brittney — confirm asphyxiation + mixed intoxication;
+5. Necole — confirm asphyxiation;
+6. Loretta/Kristen/Whitnei — document why cause remained undetermined.
+
+Status: **CUSTODIAN RESEARCH IN PROGRESS**
+
+---
+
+# 10. KPLC / Gray Media archive
+
+Verified archival facts:
+- KPLC reported in 2014 that an unmarked hard drive contained **seven raw clips** of Tracee Chaisson and Frankie Richard interviews;
+- KPLC published them at historical category:
+  `/category/278184/jeff-davis-outtake-video-landing-page`
+- current KPLC article confirms those clips existed and were publicly posted;
+- current site no longer resolves that old category page through our retrieval path.
+
+Official article:
+https://www.kplctv.com/story/24594268/unedited-video-released-from-2009-special-report-on-jeff-davis-murders/
+
+### Request O — archive/licensing inquiry
+Ask KPLC/Gray for:
+- seven 2009 raw Chaisson/Richard clips;
+- 2009 one-hour Jeff Davis special;
+- 2008 Brittney Family Dollar surveillance package;
+- Dec. 2008 task-force press conference;
+- Aug./Oct. 2009 task-force press conferences;
+- 2019 six-part Jeff Davis Unsolved Mysteries;
+- family interviews;
+- original broadcast masters / licensing terms.
+
+Status: **ARCHIVE VERIFIED; FOOTAGE REQUEST NOT YET SENT**
+
+---
+
+# 11. Record request strategy
+
+Start with records that should be easiest/public:
+1. official Warren Gary ethics opinion;
+2. court docket/minutes for Patterson;
+3. court docket/minutes for Lopez-related defendants;
+4. KPLC archive/licensing inquiry;
+5. current JDPSO public statement / public press material.
+
+Then proceed to:
+- law-enforcement files;
+- coroner records;
+- FBI/State Police requests.
+
+Do not ask an agency to "explain the whole case." Request narrowly defined records with dates/names.
+
+## Request wording principle
+
+Good:
+> "Please provide the public docket sheet, minute entries, bill(s) of information or indictment, and dismissal/nolle prosequi documents in the criminal matters involving Byron Chad Jones and Lawrence Nixon relating to Ernestine Daniels Patterson, approximately 2005–2008."
+
+Bad:
+> "Send me everything you have about the Jennings 8."
+
+Specific requests are more likely to be processed.
