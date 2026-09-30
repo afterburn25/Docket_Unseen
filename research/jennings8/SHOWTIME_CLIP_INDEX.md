@@ -197,6 +197,38 @@ Verify:
 - KPLC 2007 coverage;
 - State Police and court records.
 
+### ~14:34–15:21 — Patterson prosecution collapse
+Topics:
+- Brown says Jones and Nixon had been arrested on second-degree-murder charges;
+- Ernestine's mother states her belief that the two men killed her daughter;
+- an official/law-enforcement voice explains the DA controlled prosecution and that charges were dismissed.
+
+Use:
+- Part 2;
+- Part 9;
+- contradictions ledger.
+
+Verify:
+- court docket;
+- indictment/bill of information;
+- dismissal order.
+
+### ~15:26–20:13 — Patterson case-file reconstruction
+Topics:
+- Brown describes reading the Patterson case file;
+- witness narrative involving Jones/Nixon and an alleged body-placement location;
+- reported knife lead;
+- reported delay before floorboard testing;
+- law-enforcement response that evidence in an open case could not be discussed;
+- Brown questions the delayed testing and dismissal.
+
+Use:
+- Part 2;
+- Part 9 evidence-failures episode.
+
+Critical:
+This sequence is **Brown's interpretation of case-file material plus documentary interviews**. Do not present the alleged murder narrative, knife, or 16-month testing delay as established fact until the underlying reports/lab records are obtained.
+
 ### Additional Chapter Three material
 Exact timestamp extraction still needed for:
 - Brittney / Danny Barry allegations;
