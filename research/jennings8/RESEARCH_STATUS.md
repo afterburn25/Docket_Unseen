@@ -54,6 +54,8 @@ Completed:
 
 - created confirmed archival-video index with official KPLC YouTube links, 2009 special/raw interview recovery leads, and surveillance targets;
 
+- created contradictions/gaps ledger to preserve conflicts between contemporary reporting, later official statements, and documentary retellings;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
