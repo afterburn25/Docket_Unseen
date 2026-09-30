@@ -43,6 +43,23 @@ Status:
 Important:
 This is what Miers promised as a candidate, not proof that every promised step was later completed.
 
+## July 2, 2025 — JDPSO official first-year recap
+
+Jefferson Davis Parish Sheriff's Office published an official first-year recap stating:
+- Miers' administration had reached its one-year mark;
+- investigators had handled 2,033 cases since July 2024;
+- the Investigations Division had spent **over 1,000 hours** on the eight unsolved cases;
+- investigators had typed approximately **700 pages of reports** concerning those eight cases;
+- the office had sent more items to the Regional Crime Lab than in previous years.
+
+Official:
+https://www.jdpso.org/press-releases/first-year-recap
+
+Status:
+**PRIMARY CURRENT SOURCE.**
+
+This confirms the 1,000+ hour / ~700-page figures directly from JDPSO.
+
 ## July 2025 — KPLC confirms active cold-case work
 
 KPLC reported July 10, 2025:
