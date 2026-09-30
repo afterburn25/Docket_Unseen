@@ -857,3 +857,49 @@ Ask JDPSO/FBI only for public status:
 - whether the current 2024–26 cold-case re-review is using modern text/network/geospatial analysis.
 
 Status: **NOT REQUESTED**
+
+
+---
+
+# 15. 2002 jail misconduct criminal files
+
+### Eric Myron Phillips
+Known 31st JDC case numbers:
+- **CR-706-02**
+- **CR-711-02-2**
+
+Request:
+- complete docket sheets;
+- bills of information;
+- minute entries after Nov. 2003;
+- no-contest plea;
+- Jan. 26, 2004 sentencing judgment;
+- witness/exhibit lists that are public;
+- Louisiana State Police report referenced in 2003 minute entries.
+
+### Allarate John Franks
+Request:
+- case number;
+- bill/charge;
+- no-contest plea;
+- sentencing/probation judgment;
+- investigative reports that are public.
+
+### Jacquelyn Lennett Varner
+Request:
+- case number;
+- bill/charge;
+- guilty plea;
+- sentencing/probation judgment.
+
+### Necole Guillory
+Request, if lawfully releasable:
+- 2002 witness/interview statement;
+- written statement;
+- related correspondence cited by later civil-rights research;
+- FBI/state records documenting her witness role.
+
+Purpose:
+Determine exactly what Necole knew and whether the 2009 task force ever assessed that history as a possible motive.
+
+Status: **CASE NUMBERS PARTLY IDENTIFIED — PRIMARY FILES NOT YET ACQUIRED**
