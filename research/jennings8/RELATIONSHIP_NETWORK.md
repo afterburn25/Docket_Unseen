@@ -19,12 +19,16 @@ Do not draw all connections with equal visual weight in the final animation.
 # 1. Core victim network
 
 ## Kristen Gary Lopez ↔ Brittney Gary
-- Later A&E/Brown reporting identifies Kristen and Brittney as cousins.
-- KPLC contemporaneous coverage confirmed Brittney was related to an earlier victim.
-- Exact family relationship should still be confirmed from family/records.
+- KPLC contemporaneously quoted Brittney's mother Teresa Gary identifying Kristen as Brittney's **cousin**.
+- KPLC also reported Brittney was friends with several of the earlier victims.
+- Later A&E/Oxygen/Brown reporting repeats the cousin relationship.
+
+Sources:
+https://www.kplctv.com/story/9301809/jennings-mother-fears-worst-in-daughters-disappearance/
+https://www.kplctv.com/story/9317692/new-developments-in-unsolved-jennings-murders/
 
 Status:
-**STRONG FAMILY CONNECTION.**
+**CONTEMPORANEOUS FAMILY-CONFIRMED RELATIONSHIP.**
 
 ## The eight women knew one another / moved in overlapping circles
 - Washington Post's 2019 summary of Brown/Showtime reporting says all eight knew one another.
@@ -36,6 +40,43 @@ Status:
 Individual pairwise relationships still require victim-by-victim documentation.
 
 ---
+
+## Whitnei Dubois ↔ Mike Dubois
+- KPLC repeatedly identified Mike Dubois as Whitnei's brother.
+- Mike became one of the most outspoken family advocates and critics of the investigation.
+- He pushed for outside/federal resources and participated in media/documentary efforts.
+
+Sources:
+https://www.kplctv.com/story/11227556/jeff-davis-victims-in-national-spotlight/
+https://www.kplctv.com/story/11481251/update-dubois-transferred-to-jeff-davis-parish-jail/
+
+Status:
+**CONTEMPORANEOUS FAMILY RELATIONSHIP / PUBLIC ADVOCATE.**
+
+## Crystal Zeno ↔ Sarah Benoit
+- Later documentary/family reporting identifies Sarah Benoit as Crystal's cousin.
+- Sarah provides much of the victim-centered family account used in later coverage.
+
+Status:
+**FAMILY/DOCUMENTARY RELATIONSHIP; ORIGINAL family interview preferred for final clip use.**
+
+## Laconia "Muggy" Brown ↔ Kendra/Kindra Brown
+- KPLC contemporaneously identifies Kendra/Kindra Brown as Muggy's sister.
+- Kendra was a major family voice after Muggy's death and organized memorial activity.
+
+Source:
+https://www.kplctv.com/story/11907572/family-friends-remember-muggy-brown-during-walk/
+
+Status:
+**CONTEMPORANEOUS FAMILY RELATIONSHIP.**
+
+## Necole Guillory ↔ Terrie Guillory
+- Later family/documentary reporting identifies Terrie Guillory and Necole as cousins.
+- Barbara Guillory's Showtime interview describes Terrie as her nephew by marriage and Necole as Terrie's cousin.
+- Secondary local/community sources describe them as first cousins.
+
+Status:
+**FAMILY/DOCUMENTARY RELATIONSHIP; exact genealogical degree should be confirmed with family/public records before using "first cousin."**
 
 # 2. South Main Street / Doyle Street cluster
 
