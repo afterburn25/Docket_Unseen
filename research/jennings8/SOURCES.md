@@ -733,3 +733,12 @@ Supports:
 - later sentencing/custody history unrelated to Jennings 8;
 - useful only for identity/criminal-history corroboration.
 Quality: PUBLISHED APPELLATE DECISION.
+
+
+### FBI Vault — 2022 FOIA Log
+https://vault.fbi.gov/foia-log-2022-part-01/FOIA%20Log%202022%20Part%2001%20%28Final%29/
+Supports:
+- prior FBI FOIA request **1560355**;
+- subject: `Jennings 8/Jeff Davis 8`;
+- opened Sept. 16, 2022.
+Quality: PRIMARY FBI ADMINISTRATIVE RECORD.
