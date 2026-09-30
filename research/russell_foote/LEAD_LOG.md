@@ -34,3 +34,6 @@ A lead is not evidence of guilt.
 | L010 | Reconcile West Congress / "Route 1" / near Guilbeau descriptions using the original report and 1974 road maps. | S002/S008 | RESEARCHING | Initial report + historical maps | No definitive map pin yet |
 | L011 | Obtain the complete May 16–20, 2018 Daily Advertiser "Unforgotten" package. | S011/S012 | RESEARCHING | Gannett archive/library/Kevin Foote | Main article URL and video URL now preserved |
 | L012 | Request April 9 and April 26, 1974 initial fire reports directly from Lafayette Fire Department. | S003/S009 | READY | Fire Records request | Department says initial fire reports are obtainable; exact historical retention unknown |
+
+| L013 | Search the free Lafayette Public Library digitized Daily Advertiser archive for Apr.–Dec. 1974 using structured passes. | S013/S014 | RESEARCHING | Search by date plus variant terms; manually verify scans | Archive confirms 58,135 Daily Advertiser pages for 1974–1978 |
+| L014 | Identify and preserve every contemporaneous May 1974 article before relying on 2018/2025 reconstructions. | S013 | NEW | Search May 15–31, 1974 and follow subsequent issues | Highest-value newspaper task |
