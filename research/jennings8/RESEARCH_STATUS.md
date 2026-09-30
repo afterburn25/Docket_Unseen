@@ -85,6 +85,8 @@ Completed:
 
 - recovered sworn Terrie Guillory deposition confirming Steven Gunter had provided narcotics information to JDPSO; this strengthens the informant-network context but does not establish a murder connection;
 
+- separated the "women knew too much" chain into evidence tiers: Brown/task-force-backed claims versus documentary-only claims; Brittney/Whitnei and Crystal/Muggy original statements are now explicit top record targets;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
