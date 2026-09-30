@@ -17,10 +17,18 @@ These conflicts are not nuisances. They are documentary material.
 # 1. Frankie Richard / Hannah Conner — Kristen Lopez arrest
 
 ### 2007 contemporaneous KPLC
+The May 16, 2007 KPLC report is unusually explicit.
+
 Sheriff Ricky Edwards said:
-- Richard and Conner were arrested in connection with Kristen's murder;
-- informant information gave investigators enough evidence for arrests;
-- KPLC described second-degree-murder charges.
+- an informant tip gave investigators enough evidence to arrest Richard and Conner in Lopez's case;
+- KPLC states: **both faced second-degree murder charges for Lopez's death**;
+- Edwards said they were also being investigated for possible involvement in Loretta, Ernestine and Whitnei's deaths;
+- Edwards cautioned that investigators did not then have evidence proving involvement in the other deaths.
+
+The same article states Jones and Nixon were then **awaiting trial on manslaughter charges** in Ernestine Patterson's death.
+
+Source:
+https://www.kplctv.com/story/6528397/two-arrested-in-murder-of-kristen-gary-lopez/
 
 ### Later Sheriff's Office account
 Oxygen reported the Sheriff's Office later told `Dr. Oz`:
