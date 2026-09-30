@@ -39,10 +39,23 @@ URL: https://www.youtube.com/watch?v=ceEk7rfGbbE
 
 Status: **CONFIRMED**
 
-### Parts 3 and 5
-Not yet recovered through current search.
+### Part 3
+Title: **Unsolved Mystery in Jeff Davis Parish - Part 3**  
+Channel: KPLC 7 News  
+URL: https://www.youtube.com/watch?v=EBcneUPSbus
 
-Status: **MISSING / RECOVERY TARGET**
+Status: **CONFIRMED**
+
+### Part 5
+Title: **Unsolved mystery in Jeff Davis Parish - Part 5**  
+Channel: KPLC 7 News  
+URL: https://www.youtube.com/watch?v=VI8DjB3w898
+
+Recovered from an embedded KPLC/YouTube link preserved by DocumentaryTube.
+
+Status: **CONFIRMED**
+
+The full known 2019 KPLC set is now Parts 1–7.
 
 ---
 
@@ -217,8 +230,7 @@ Use as:
 
 # Recovery tasks
 
-1. Recover KPLC 2019 Parts 3 and 5.
-2. Recover all seven 2009 special segments.
+1. Recover all seven 2009 special segments.
 3. Recover seven 2009 raw Richard/Chaisson outtakes.
 4. Recover Brittney Family Dollar source surveillance or original KPLC package.
 5. Recover Necole Menard surveillance.
