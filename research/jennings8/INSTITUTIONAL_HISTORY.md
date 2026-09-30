@@ -326,3 +326,29 @@ https://www.kplctv.com/story/14878264/former-jennings-officers-running-for-jd-sh
 
 Series rule:
 Always separate the original State Police allegations/admissions from the final plea disposition.
+
+
+## 2002 Jefferson Davis Parish jail prosecution
+
+A 2002 internal/state investigation of Jefferson Davis Parish jail misconduct resulted in criminal cases against former correction officers.
+
+### Contemporaneous KPLC disposition record
+
+KPLC reported Dec. 5, 2003:
+- Eric Myron Phillips pleaded no contest to **felony malfeasance in office**;
+- Allarate John Franks pleaded no contest to criminal mischief and received a fine/costs plus one year supervised probation;
+- Jacquelyn Lennett Varner pleaded guilty to criminal mischief and received a fine/costs plus one year supervised probation.
+
+Associated Press later reported Phillips was sentenced to **one year in prison**.
+
+A surviving 31st Judicial District minute collection identifies Phillips matters:
+- CR-706-02
+- CR-711-02-2
+
+### Jennings 8 relevance
+
+AP's review of state/FBI records establishes that **Necole Jean Guillory was a witness in the underlying 2002 investigation**.
+
+That fact is legitimate institutional context. It is not proof that the jail case caused her 2009 death.
+
+See `JAIL_2002_CASE.md`.
