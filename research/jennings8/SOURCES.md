@@ -386,3 +386,71 @@ Supports:
 - Muggy family fear/paranoia account;
 - Crystal family/social-network description.
 Quality: SECONDARY SUMMARY OF SHOWTIME INTERVIEWS.
+
+
+### KPLC — Surveillance shows last moments before Jennings teen's disappearance
+https://www.kplctv.com/story/9326888/surveillance-shows-last-moments-before-jennings-teens-disappearance/
+Supports:
+- Brittney Family Dollar surveillance;
+- 5:30 p.m. timing;
+- prepaid-minute purchase;
+- leaving alone/on foot.
+Quality: CONTEMPORANEOUS LOCAL / POLICE-BASED.
+
+### KPLC — Jennings mother fears worst in daughter's disappearance
+https://www.kplctv.com/story/9301809/jennings-mother-fears-worst-in-daughters-disappearance/
+Supports:
+- early missing-person response;
+- surveillance confirmation;
+- Teresa Gary fear due earlier six deaths.
+Quality: CONTEMPORANEOUS LOCAL.
+
+### KPLC — Body discovered believed to be missing Jennings teen
+https://www.kplctv.com/story/9357379/body-discovered-believed-to-be-missing-jennings-teen/
+Supports:
+- family search-party discovery;
+- Keystone Road scene;
+- multi-agency evidence collection;
+- Brittney had expressed concern for safety.
+Quality: CONTEMPORANEOUS LOCAL.
+
+### KPLC — 8th Jeff Davis victim laid to rest
+https://www.kplctv.com/story/10974708/8th-jeff-davis-victim-laid-to-rest/
+Supports:
+- Necole age 26;
+- I-10 recovery;
+- last seen getting into car on Doyle Street;
+- Dr. Mark Dawson preliminary likely-asphyxiation statement.
+Quality: CONTEMPORANEOUS LOCAL / CORONER-BASED.
+
+### KPLC — One year since the death of Necole Guillory
+https://www.kplctv.com/story/12982823/one-year-since-the-death-of-necole-guillory/
+Supports:
+- Barbara Guillory quote that Necole said she would not live long;
+- one-year investigative status.
+Quality: CONTEMPORANEOUS/LATER LOCAL FAMILY INTERVIEW.
+
+### KPLC — Body identified as Necole Guillory
+https://www.kplctv.com/story/10966767/body-identified-as-necole-guillory-of-jeff-davis-parish/
+Supports:
+- missing-report/body-discovery timing;
+- task-force offender behavioral profile;
+- common-offender public working theory;
+- Jennings/Jeff Davis ties.
+Quality: CONTEMPORANEOUS LOCAL + VERBATIM TASK FORCE RELEASE.
+
+### KPLC — Necole Guillory death inflames community concerns
+https://www.kplctv.com/story/10972536/necole-guillory-death-inflames-community-concerns/
+Supports:
+- mother of four;
+- family/community victim-centered details;
+- public fear.
+Quality: CONTEMPORANEOUS LOCAL.
+
+### Oxygen — Jeff Davis 8 key players
+https://www.oxygen.com/martinis-murder/murder-in-the-bayou-who-are-the-jeff-davis-8-key-players
+Supports:
+- later family claim Necole believed police were involved;
+- Danny Barry/Brittney witness allegation;
+- broader documentary interviews.
+Quality: SECONDARY SUMMARY OF SHOWTIME / BROWN; attribute.
