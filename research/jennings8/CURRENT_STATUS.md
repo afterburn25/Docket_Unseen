@@ -22,6 +22,43 @@ https://www.jdpso.org/hot-cases
 Louisiana Sheriffs' Association:
 https://lsa.org/directory/jefferson-davis-parish/
 
+## 2023 campaign promise — Kyle Miers
+
+KPLC published written responses from sheriff candidates on Sept. 19, 2023.
+
+Miers said that if elected he would:
+- give the eight unsolved murders dedicated detective time;
+- seek federal assistance and modern technology;
+- review the condition of evidence that had passed through prior administrations;
+- investigate not only the murders but also **"the breakdown of the initial investigations"**;
+- question people claiming information;
+- keep the cases open until resolved.
+
+Source:
+https://www.kplctv.com/2023/09/20/candidates-jeff-davis-sheriff-answer-questions-about-issues-parish/
+
+Status:
+**CONTEMPORANEOUS CAMPAIGN STATEMENT.**
+
+Important:
+This is what Miers promised as a candidate, not proof that every promised step was later completed.
+
+## July 2025 — KPLC confirms active cold-case work
+
+KPLC reported July 10, 2025:
+- Miers had been in office for about one year;
+- his investigative team was actively working cold cases;
+- KPLC wrote that the department had spent **"over 1,000"** on the eight unsolved women's cases. The article's wording omits the unit, but context strongly suggests investigative hours; Docket Unseen should quote the article carefully rather than silently adding "hours."
+- Miers also described new investigative technology and stronger interagency communication.
+
+Source:
+https://www.kplctv.com/2025/07/11/jeff-davis-sheriffs-office-now-answering-calls-city-limits/
+
+Status:
+**DIRECT KPLC INTERVIEW / CURRENT OFFICIAL STATEMENT.**
+
+This provides a primary-news bridge between Miers' 2023 campaign promise and later 2026 secondary reporting.
+
 ## Reported 2024–2026 re-review
 
 An August 2026 Bayou Justice report says Sheriff Kyle Miers told the Jennings Daily News:
