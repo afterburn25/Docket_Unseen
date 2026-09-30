@@ -112,3 +112,22 @@ Created:
 - `SCENE_GEOSPATIAL.md`
 
 The 2018 KPEL description that West Congress was "Route 1" in 1974 remains **unverified** and should not be repeated as established fact until checked against the historical maps/road records.
+
+
+## Records Requests Sent — 2026-09-29
+
+Two primary-record requests were transmitted through the connected Gmail account:
+
+1. **Lafayette Parish Sheriff's Office Records**
+   - Subject: `Public Records Request — Russell Foote homicide, May 17, 1974`
+   - Gmail thread/message ID: `1a0f019a38045505`
+   - Requested: initial homicide report, incident/cold-case IDs, segregable evidence/property inventory, evidence retention/destruction records, and any releasable scene/dispatch/location material.
+
+2. **Lafayette Fire Department**
+   - Subject: `Historical Fire Report Request — Lafayette Red Cross / War Memorial Building, April 1974`
+   - Gmail thread/message ID: `1a0f019aa41b1b4b`
+   - Requested: initial fire reports for approximately April 9 and April 26, 1974, including incident numbers, response/alarm times, location, units, cause/origin classification, and disposition.
+
+Both are currently **PENDING RESPONSE**.
+
+No inference should be drawn from response time, retention status, or any future denial until the agency states the basis.
