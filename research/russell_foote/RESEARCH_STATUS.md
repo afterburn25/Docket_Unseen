@@ -51,3 +51,33 @@ A Docket Unseen episode can eventually discuss:
 - what the official record does and does not establish.
 
 It should not declare an uncharged person guilty or state that a cover-up occurred without strong documentary support.
+
+
+## Research Update — 2026-09-29 (continued)
+
+New findings/actions:
+- Preserved the exact URL for the 2018 Daily Advertiser main investigation (article ID 600487002).
+- Preserved the exact URL for the 2018 Daily Advertiser Kevin Foote video (video ID 609034002).
+- Identified six indexed Daily Advertiser titles from the May 2018 package for archive recovery.
+- Added KPEL 2018 as an independent secondary source narrowing the reported homicide window to about 8:00–8:30 a.m. and describing the scene as the then-two-lane West Congress roadway.
+- Verified Lafayette Fire Department's current direct process for requesting initial fire reports.
+- Verified R.S. 44:3(F)'s ten-year immediate-family access route and its provision allowing family to designate another person for evidence access, after required district-court approval.
+- Added a dedicated legal-access strategy and archive-target file.
+
+### Current best strategic move
+
+The project now has two parallel tracks:
+
+**Public-record track**
+1. LPSO initial report.
+2. April 9 and April 26 initial fire reports.
+3. archive recovery of the 2018 Daily Advertiser package.
+4. 1974 newspaper/broadcast research.
+
+**Family-cooperation track**
+1. inventory the case file Kevin Foote already obtained;
+2. locate any R.S. 44:3(F) court order;
+3. identify whether surviving evidence can be inspected under a lawful family designation;
+4. avoid duplicating records already held by the family.
+
+The family-cooperation track could potentially unlock far more than ordinary public-record requests, but no outreach should be sent without explicit project authorization.
