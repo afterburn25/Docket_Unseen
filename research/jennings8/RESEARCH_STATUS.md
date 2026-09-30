@@ -71,6 +71,8 @@ Completed:
 
 - created geography/disposal-pattern matrix showing the first-three canal pattern, later roadside shift, and Necole's I-10 change without treating geography as proof of one offender;
 
+- created vehicle/transport matrix separating confirmed last-movement evidence from disputed vehicle claims and identifying title/witness/phone records needed for testing;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
