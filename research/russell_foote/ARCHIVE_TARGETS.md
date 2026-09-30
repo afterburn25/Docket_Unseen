@@ -89,3 +89,82 @@ Before mapping:
 - verify nearest cross street;
 - obtain 1974 city/parish road maps and aerial imagery;
 - distinguish modern street names from 1974 naming.
+
+
+## Confirmed Free Lafayette Newspaper Archive
+
+Lafayette Public Library now provides a free online archive at:
+
+https://lafayette.advantage-preservation.com/
+
+Confirmed holdings:
+- **Daily Advertiser (1974–1978): 58,135 pages**
+- **Sunday Advertiser (1974–1978): 25,880 pages**
+
+This should be treated as the primary newspaper-search environment for 1974 before paying for a commercial archive.
+
+### Search passes to run
+
+#### Pass A — victim / homicide
+Date range: May 15–31, 1974
+
+Terms/variants:
+- "Russell Foote"
+- "Foote"
+- "Red Cross"
+- "West Congress"
+- "Guilbeau"
+- "station wagon"
+- "murder"
+- "slaying"
+- "homicide"
+- "shooting"
+
+#### Pass B — April fires
+Date range: April 8–30, 1974
+
+Terms/variants:
+- "Red Cross"
+- "War Memorial"
+- "fire"
+- "arson"
+- "memorial building"
+- "Foote"
+
+#### Pass C — financial investigation
+Date range: May 1–December 31, 1974
+
+Terms/variants:
+- "Red Cross"
+- "embezzlement"
+- "audit"
+- "Guaranty Bank"
+- "forgery"
+- "Foote"
+
+#### Pass D — grand jury / prosecutorial activity
+Date range: October 1–December 31, 1974
+
+Terms/variants:
+- "Russell Foote"
+- "Foote murder"
+- "grand jury"
+- "Red Cross"
+- "arson"
+- "embezzlement"
+
+### Capture standard
+
+For every relevant result save:
+1. publication title;
+2. publication date;
+3. page number;
+4. headline/byline;
+5. full-page scan/PDF where permitted;
+6. cropped article image for internal review;
+7. OCR/transcription;
+8. exact archive URL;
+9. notes identifying fact vs quoted allegation;
+10. any follow-up/correction found in later issues.
+
+Do not rely on archive OCR without visually checking the scanned page.
