@@ -207,6 +207,27 @@ KPLC 2010:
 Source:
 https://www.kplctv.com/story/12982823/one-year-since-the-death-of-necole-guillory/
 
+## Verified earlier witness role — 2002 jail misconduct investigation
+
+Associated Press reviewed state and FBI records and reported:
+- Necole, then 19, had been a **witness in the 2002 Jefferson Davis Parish jail corruption case**;
+- archival footage shows her speaking with investigators about misconduct and contraband inside the jail;
+- the broader investigation led to criminal charges against multiple jail officers.
+
+Sources:
+- https://www.wdsu.com/article/documentary-highlights-rape-allegations-at-louisiana-jail/29441314
+- https://www.courthousenews.com/women-traded-as-currency-inside-louisiana-jail/
+
+Status:
+**STRONG RECORD-BASED SECONDARY CONFIRMATION OF A REAL WITNESS ROLE.**
+
+This substantially strengthens the factual proposition that Necole had firsthand knowledge of local law-enforcement misconduct years before her death.
+
+It still does not establish that knowledge as the motive for her 2009 killing.
+
+See:
+`2002_JAIL_CORRUPTION.md`
+
 ## Stronger later family claim
 Later documentary reporting says:
 - Barbara Guillory recalled Necole believing police were somehow involved in the earlier deaths;
