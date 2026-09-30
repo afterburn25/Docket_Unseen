@@ -23,6 +23,7 @@ Completed:
 - created Part 1 foundation dossier;
 - created Loretta/Ernestine deep-dive dossier;
 - created Kristen/Whitnei deep-dive dossier, including Richard/Conner arrest-record discrepancy and truck-evidence issues;
+- created Muggy/Crystal deep-dive dossier, including contemporaneous fear statements, cause-of-death sourcing, informant claims, and Russell Carrier lead;
 - verified contemporaneous KPLC archive exists for several major events;
 - identified official Showtime YouTube playlist and KPLC video/archive as footage leads.
 
