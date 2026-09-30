@@ -73,6 +73,8 @@ Completed:
 
 - created vehicle/transport matrix separating confirmed last-movement evidence from disputed vehicle claims and identifying title/witness/phone records needed for testing;
 
+- created hypothesis-test/falsification plan identifying which evidence would strengthen or weaken one-offender, multiple-offender, witness-elimination, institutional-failure, and cover-up theories;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
