@@ -456,3 +456,140 @@ If your office is not the custodian, please let me know, if possible, which offi
 Please advise of any copying fee before production.
 
 Thank you.
+
+
+---
+
+# Draft I — Louisiana State Police
+## Necole 2002 witness / jail-misconduct files
+
+Subject:
+Public records request — LSP Cases WDD010102 and WDD010102C
+
+Body:
+
+Hello,
+
+I am requesting all publicly releasable records associated with the following Louisiana State Police Bureau of Investigations case numbers:
+
+- **WDD010102** — dated approximately Nov. 26, 2002
+- **WDD010102C** — follow-up dated approximately Nov. 27, 2002
+
+These cases have been publicly cited in later federal civil-rights materials concerning an investigation into Jefferson Davis Parish jail misconduct.
+
+I am specifically requesting, where releasable:
+
+- case face sheets / index pages;
+- public narrative reports;
+- interview indexes;
+- exhibit/evidence indexes;
+- final investigative disposition;
+- referral / declination information;
+- any public correspondence;
+- any segregable, releasable interview or written-statement material concerning **Necole Jean Guillory**.
+
+I understand portions involving confidential witnesses, victims, or active/investigative information may be exempt. I request any reasonably segregable non-exempt portions.
+
+Electronic copies are preferred.
+
+Thank you.
+
+Purpose:
+Determine the scope of Necole Guillory's documented 2002 witness role and whether those records were later cross-referenced into the Jeff Davis 8 investigation.
+
+---
+
+# Draft J — Louisiana State Police
+## Leonard Crochet shooting
+
+Subject:
+Public records request — LSP Case WDD004505 (Leonard Crochet)
+
+Body:
+
+Hello,
+
+I am requesting publicly releasable records associated with Louisiana State Police Bureau of Investigations **Case Report #WDD004505**, concerning the April 20, 2005 police-involved shooting death of **Leonard Crochet** in Jefferson Davis Parish.
+
+Please provide any releasable:
+
+- case face sheet;
+- investigative narrative;
+- scene report;
+- witness index;
+- officer statement index;
+- evidence/property index;
+- photographs or diagrams previously released publicly;
+- coroner/autopsy referral information;
+- final investigative disposition;
+- prosecutorial / grand-jury referral documentation in LSP possession.
+
+I understand protected investigative, grand-jury, or personal information may be exempt. I request any reasonably segregable public portions.
+
+Electronic copies are preferred.
+
+Thank you.
+
+Purpose:
+Verify who actually witnessed the shooting and test later claims that Jeff Davis 8 victims were present.
+
+---
+
+# Draft K — Louisiana State Police
+## Steven Gunter certified record
+
+Subject:
+Public records request — LSP Case WDD005507-1 (Steven Gunter)
+
+Body:
+
+Hello,
+
+I am requesting a certified or official electronic copy of Louisiana State Police **Case Report #WDD005507-1**, concerning the June 9, 2007 Lake Arthur incident involving Steven Gunter.
+
+A third-party copy of an LSP investigation circulates publicly, but I would like to rely on the official agency record.
+
+Please provide, if releasable:
+
+- complete case report;
+- case face sheet;
+- investigative narrative;
+- evidence index;
+- officer/witness interview index;
+- final disposition;
+- public photographs/diagrams.
+
+Thank you.
+
+---
+
+# Draft L — Louisiana State Police
+## Jeff Davis 8 task-force identifier
+
+Subject:
+Public records request — LSP Case 09-576 / Jeff Davis 8 public materials
+
+Body:
+
+Hello,
+
+I am researching the unresolved Jefferson Davis Parish cases commonly known as the Jeff Davis 8 / Jennings 8.
+
+A later federal civil-rights filing cites Louisiana State Police **Case #09-576** in connection with the multi-agency investigation.
+
+I am requesting only publicly releasable or segregable materials associated with that case number, especially:
+
+- case index / face sheet;
+- public narrative or administrative summary;
+- agency-assignment / task-force participation records;
+- public press releases;
+- public offender-profile materials;
+- public maps/posters;
+- nonconfidential final or status summaries;
+- cross-referenced case numbers.
+
+I am not requesting confidential informant identities or protected active-investigation details.
+
+Electronic copies are preferred.
+
+Thank you.
