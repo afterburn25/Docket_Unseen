@@ -108,6 +108,8 @@ Completed:
 - created CASE_CLUSTER_ANALYSIS.md combining Orion, prosecution, geography, fear, and social-network evidence into overlapping victim subsets without treating them as offender groups;
 - refined Orion findings strictly from the authors' text after the PDF screenshot service failed on the restricted Heidelberg host;
 
+- created final-contact timeline file separating official last-seen anchors from family, later-journalistic, and unverified contact claims;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
