@@ -69,6 +69,8 @@ Completed:
 
 - created victim-by-victim lead/opportunity matrix plus cross-case lead clusters; no guilt scoring is used;
 
+- created geography/disposal-pattern matrix showing the first-three canal pattern, later roadside shift, and Necole's I-10 change without treating geography as proof of one offender;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
