@@ -295,7 +295,24 @@ Open-investigation / privacy / law-enforcement exemptions are likely.
 
 Status: **NOT REQUESTED**
 
-A 2022 FBI FOIA log entry reportedly used the description "Jennings 8/Jeff Davis 8"; locate request number before submitting a duplicative request.
+The FBI's official 2022 FOIA log identifies a prior request:
+
+- **FOIA number: 1560355**
+- Subject: **Jennings 8/Jeff Davis 8**
+- Date opened: **September 16, 2022**
+- Revision: 000
+
+Official FBI Vault log:
+https://vault.fbi.gov/foia-log-2022-part-01/FOIA%20Log%202022%20Part%2001%20%28Final%29/
+
+Current search has **not located a publicly posted response/release package** tied to 1560355.
+
+Before filing a new broad request, ask FBI FOIA whether:
+- request 1560355 produced releasable records;
+- a copy of the prior released material can be provided;
+- a new requester can reference the prior processing to reduce duplication.
+
+Status: **PRIOR REQUEST NUMBER IDENTIFIED; RELEASE PACKAGE NOT FOUND**
 
 ---
 
