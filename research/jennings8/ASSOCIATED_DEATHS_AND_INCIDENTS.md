@@ -91,6 +91,18 @@ Connection to eight deaths unproven.
 Published Louisiana Court of Appeal case:
 **Gunter v. Jefferson Davis Parish**, 84 So.3d 705 (La. App. 3 Cir. 2012), No. 11-1018.
 
+Official/public text is available through Justia:
+https://law.justia.com/cases/louisiana/third-circuit-court-of-appeal/2012/ca-11-1018.html
+
+The opinion confirms:
+- Steven Gunter died June 9, 2007 in Lake Arthur;
+- wrongful-death/survival litigation followed;
+- defendants included Jefferson Davis Parish, Sheriff Ricky Edwards, Terrie Guillory, other sheriff's personnel, the Town of Lake Arthur, and local officers;
+- the appellate court affirmed summary judgment in favor of the Town/Lake Arthur defendants whose liability was before it;
+- the record included depositions/affidavits, police logs, and a video of the residence.
+
+This is significantly stronger than relying only on later documentary summaries.
+
 The appellate opinion establishes:
 - Steven Gunter died June 9, 2007 in Lake Arthur;
 - civil wrongful-death litigation followed;
@@ -204,6 +216,11 @@ https://www.kplctv.com/story/24658058/attorney-general/
 
 Status:
 **DEATH IN SAME PARISH / OFFICIAL LINK TO EIGHT NOT ESTABLISHED.**
+
+KPLC's Feb. 2014 Attorney General coverage explicitly said Fontenot's death had **not been linked** to the Jeff Davis 8:
+https://www.kplctv.com/story/24658058/attorney-general/
+
+This is the default factual position unless later official records say otherwise.
 
 Need:
 - final cause/manner of death;
