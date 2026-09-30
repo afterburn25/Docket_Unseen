@@ -311,3 +311,20 @@ or:
 That is more credible than forcing a false certainty.
 
 Before final narration, review this file against every script block.
+
+
+---
+
+# 17. Nixon 2016 homicide agreement — victim unnamed
+
+Published 2018 appellate record:
+- Nixon entered a 2016 deal for credible information about an unsolved Jefferson Davis Parish homicide from ~10 years earlier;
+- investigator Chris Myers said Nixon had been questioned about "the murder" a decade earlier;
+- opinion does not name the victim.
+
+Why this matters:
+- contextual inference strongly suggests Ernestine Patterson because Nixon had been prosecuted in her 2005 death;
+- but the victim cannot be identified as Patterson as a fact until underlying interview/agreement/hearing records are obtained.
+
+Status:
+**PRIMARY LEGAL FACT + UNCONFIRMED VICTIM IDENTIFICATION.**
