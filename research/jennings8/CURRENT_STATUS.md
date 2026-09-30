@@ -2,6 +2,14 @@
 
 ## Official public status
 
+### Classification caution
+
+The phrase "Jennings 8 murders" is widely used, and the 2009 task force said it was treating all eight as murders unless proven otherwise. However, KPLC reported in 2019 that Sheriff Ivy Woods said not all eight had officially been ruled homicides and that there was nothing official proving the deaths were all connected or caused by one serial killer.
+
+Docket Unseen should therefore use precise victim-by-victim cause/manner language and avoid implying that a homicide ruling exists where the coroner record remains undetermined.
+
+
+
 As of 2026:
 - Jefferson Davis Parish Sheriff's Office still maintains Hot Case pages for all eight women.
 - No conviction has resolved any of the eight deaths.
