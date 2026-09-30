@@ -99,6 +99,8 @@ Completed:
 Research dossier should be materially deeper before the first comprehensive script is locked.
 
 
+- created episode-by-episode archival footage map prioritizing real interviews, surveillance, press conferences, records, and current footage over reconstructions;
+
 ## Foundation milestone
 
 The planned 13-part series now has research scaffolding for every major part.
