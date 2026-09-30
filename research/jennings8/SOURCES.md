@@ -1019,3 +1019,13 @@ Supports:
 - Ewing's explanation of inmate recordings / alleged cover-up;
 - later return to law-enforcement work.
 Quality: LATER LOCAL RETROSPECTIVE WITH DIRECT EWING INTERVIEW.
+
+
+### JDPSO — The First Year Recap
+https://www.jdpso.org/press-releases/first-year-recap
+Published 07/02/2025.
+Supports:
+- >1,000 investigative hours on the eight cases since July 2024;
+- ~700 pages of reports;
+- increased use of Regional Crime Lab.
+Quality: PRIMARY CURRENT AGENCY SOURCE.
