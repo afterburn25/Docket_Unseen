@@ -37,3 +37,6 @@ An item is not marked **ACQUIRED** unless we have the actual record, scan, trans
 
 | A021 | 1973 Lafayette city map (West Congress/Guilbeau section) | UL Lafayette Dupré Special Collections | Map Case Drawer 7; digitization request | HIGH | REQUEST SENT 2026-09-29 | Gmail thread `1a0f01ac673b5b31`; best pre-homicide map |
 | A024 | November 1974 KLFY report/script/archive material | KLFY News 10 | Newsroom archive inquiry | HIGH | REQUEST SENT 2026-09-29 | Gmail thread `1a0f01acd3555648`; request expressly avoids confidential-source identity |
+
+| A025 | 1974 Red Cross embezzlement plea/sentencing file | Lafayette Parish Clerk of Court | Criminal Records Request | CRITICAL | REQUEST SENT 2026-09-29 | Gmail thread `1a0f01bc1edbad1a`; requested bill, docket history, plea/sentence minutes, motions/orders, exhibit index, disposition |
+| A026 | Public administrative record establishing reported 1974 grand-jury date/term/disposition | Lafayette Parish Clerk of Court | Criminal Records Request | HIGH | REQUEST SENT 2026-09-29 | Same thread; expressly excludes grand-jury testimony, deliberations, juror identities, or secret material |
