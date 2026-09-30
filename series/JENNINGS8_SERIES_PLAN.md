@@ -214,6 +214,27 @@ Cover:
 
 This episode should repeatedly distinguish **confirmed connection** from **theory**.
 
+### Part 8B — Were There More Than Eight?
+
+Optional standalone episode if research supports it.
+
+Cover associated cases that became folded into the Jennings 8 narrative:
+- Sheila Comeaux;
+- Leonard Crochet;
+- Steven Gunter;
+- Harvey "Bird Dog" Burleigh;
+- Russell Carrier;
+- Lacie Fontenot;
+- other parish unsolved homicides only where materially relevant.
+
+For each, distinguish:
+- documented case facts;
+- official connection/no-connection statements;
+- family/journalist theory;
+- whether the person had information about the eight.
+
+Do not inflate the Jennings 8 victim count. Use `research/jennings8/ASSOCIATED_DEATHS_AND_INCIDENTS.md`.
+
 ### Part 9 — Evidence, Crime Scenes, and Investigative Problems
 
 Cover:
