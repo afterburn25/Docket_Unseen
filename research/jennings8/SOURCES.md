@@ -840,3 +840,27 @@ Supports:
 - deposition/exhibit record;
 - appellate procedural outcome.
 Quality: PUBLISHED APPELLATE DECISION.
+
+
+### Amie v. Jennings — W.D. Louisiana memorandum ruling
+https://app.midpage.ai/document/amie-v-jennings-1000017467898
+Docket: 2:03-cv-02011
+Date: July 26, 2005.
+Supports:
+- federal district court finding of inadequate harassment prevention/training;
+- denial of City's Faragher/Ellerth affirmative defense;
+- reference to April 6, 2005 underlying factual ruling.
+Quality: FEDERAL DISTRICT COURT RULING.
+
+### Amie v. City of Jennings — Fifth Circuit No. 05-30855
+https://www.ca5.uscourts.gov/opinions/unpub/05/05-30855.0.wpd.pdf
+Supports:
+- March 3, 2006 dismissal of interlocutory appeal for lack of jurisdiction;
+- leaves district-court ruling subject to later final review rather than reversing it.
+Quality: OFFICIAL FIFTH CIRCUIT OPINION.
+
+### Amie v. City of Jennings — Fifth Circuit No. 05-31137
+https://cases.justia.com/federal/appellate-courts/ca5/05-31137/920070208/0.pdf
+Supports:
+- Feb. 8, 2007 dismissal of interlocutory severance/joinder appeal.
+Quality: FIFTH CIRCUIT OPINION COPY.
