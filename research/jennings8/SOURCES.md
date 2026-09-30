@@ -592,3 +592,48 @@ Quality: OFFICIAL KPLC YOUTUBE ARCHIVE.
 ### KPLC 7 News — Unsolved mystery in Jeff Davis Parish Part 5
 https://www.youtube.com/watch?v=VI8DjB3w898
 Quality: OFFICIAL KPLC YOUTUBE ARCHIVE.
+
+
+### JDPSO — Dallas Cormier history
+https://www.jdpso.org/history/dallas-cormier
+Supports:
+- Dallas Cormier served as Jefferson Davis Parish sheriff 1980–1992.
+Quality: PRIMARY OFFICIAL.
+
+### AP / Times-Picayune archive — Dallas Cormier plea/sentence
+Surviving copy:
+https://www.scribd.com/document/465739707/Dallas-Cormier-Federal-Indictment
+Supports:
+- obstruction plea;
+- March 29, 1993 sentence;
+- probation/community service/$10,000 fine;
+- additional counts dropped in plea.
+Quality: HISTORICAL AP NEWSPAPER COPY; primary federal docket still preferred.
+
+### Fontenot v. Cormier, 56 F.3d 669 (5th Cir. 1995)
+https://law.justia.com/cases/federal/appellate-courts/F3/56/669/624329/
+Supports:
+- 1991 JDPSO civil-rights incident/litigation;
+- prior grand-jury corruption investigation context;
+- trial/appellate procedural history.
+Quality: PUBLISHED FEDERAL APPELLATE DECISION.
+
+### KPLC — Jeff Davis Sheriff's Office sued over complaint
+https://www.kplctv.com/story/7197004/jeff-davis-sheriffs-office-sued-over-sexual-assault-complaint/
+Supports:
+- existence of 2007 Lisa Allen lawsuit;
+- Sheriff Edwards public response;
+- Louisiana State Police investigation opened.
+Quality: CONTEMPORANEOUS LOCAL. Underlying allegations remain allegations unless disposition supports them.
+
+### Showtime / Paramount scene research index
+Official episode guide:
+https://www.paramountplus.com/shows/murder-in-the-bayou/episodes/
+Subtitle research locators:
+https://www.subtitlecat.com/subs/201/Chapter%20One%20A%20Body%20in%20a%20Canal.html
+https://www.subtitlecat.com/subs/201/Chapter%20Three%20An%20Unholy%20Union.html
+https://www.subtitlecat.com/subs/201/Chapter%20Four%20A%20Precarious%20Place.html
+Purpose:
+- locate interviews/scenes/timestamps for archive/licensing;
+- not treated as primary factual findings.
+Quality: COPYRIGHTED SECONDARY DOCUMENTARY + USER-UPLOADED SUBTITLE INDEX.
