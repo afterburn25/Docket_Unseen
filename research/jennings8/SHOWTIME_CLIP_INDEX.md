@@ -523,6 +523,37 @@ Likely use:
 - political controversy;
 - later theories / legacy.
 
+
+
+### ~10:37–12:10 — 2002 jail prosecution / Necole as witness
+Topics:
+- 2007 Lisa Allen litigation used as bridge into older jail misconduct;
+- records from the 2002 malfeasance case;
+- Terrie Guillory described as participating in interviews before becoming warden;
+- Necole identified as a witness in the 2002 case.
+
+Use:
+- Part 5 Necole;
+- Part 8 "what did they know?";
+- Part 10 institutional history.
+
+Verify with:
+- AP state/FBI-record review;
+- LSP WDD010102 / WDD010102C;
+- 31st JDC Phillips cases;
+- federal CV-33-0333.
+
+### ~13:44–14:07 — Barbara on Necole and the jail
+Use:
+- victim context;
+- archive locator only.
+
+### ~14:28–15:22 — Necole's later claimed knowledge/fear
+Topics:
+- later family/documentary claims about what Necole believed she knew regarding the murders.
+
+Critical:
+Keep this separate from the **documented** 2002 witness role. The former is family/documentary testimony; the latter is supported by AP's review of government records.
 ---
 
 ## Clip acquisition rules
