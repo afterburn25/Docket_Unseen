@@ -16,6 +16,12 @@ Completed:
 - created theory ledger;
 - created source ledger;
 - created archival-footage tracker;
+- created cover-up/investigative-failure ledger;
+- created witnesses/informants/later-deaths ledger;
+- created political/institutional ledger;
+- created current-status ledger;
+- created Part 1 foundation dossier;
+- created Loretta/Ernestine deep-dive dossier;
 - verified contemporaneous KPLC archive exists for several major events;
 - identified official Showtime YouTube playlist and KPLC video/archive as footage leads.
 
@@ -29,6 +35,16 @@ Completed:
 6. Claims of law-enforcement involvement remain disputed and must be attributed.
 
 ## Next research batch
+
+### Primary-record acquisition priority
+- 31st Judicial District Court Patterson docket;
+- Louisiana Board of Ethics Warren Gary matter;
+- 2007 Jesse Ewing court/State Police records;
+- KPLC raw-footage landing page / seven clips;
+- current Jennings Daily News Kyle Miers interview;
+- autopsy/coroner records for Loretta and Ernestine.
+
+
 
 ### Victims 1–2 deep dive
 - Loretta full last-72-hours timeline;
