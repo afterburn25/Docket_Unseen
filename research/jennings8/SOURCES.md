@@ -653,3 +653,20 @@ https://caselaw.findlaw.com/court/la-court-of-appeal/1240800.html
 Supports:
 - civil-rights litigation arising from Cormier-era sheriff-department conduct.
 Quality: PUBLISHED STATE APPELLATE CASE.
+
+
+### KPLC — 2023 Jeff Davis sheriff candidates on the eight cases
+https://www.kplctv.com/2023/09/20/candidates-jeff-davis-sheriff-answer-questions-about-issues-parish/
+Supports:
+- Kyle Miers' pre-election plan for the eight cases;
+- promise to review evidence, use federal help/technology, and examine breakdown of initial investigations.
+Quality: CONTEMPORANEOUS POLITICAL/CAMPAIGN STATEMENT; distinguish promises from later actions.
+
+### KPLC — Jeff Davis Sheriff's Office one-year new-administration update
+https://www.kplctv.com/2025/07/11/jeff-davis-sheriffs-office-now-answering-calls-city-limits/
+Published July 10, 2025.
+Supports:
+- active cold-case work under Miers;
+- KPLC statement that investigative team spent "over 1,000" on the eight cases;
+- updated technology and interagency communication.
+Quality: CURRENT LOCAL NEWS / DIRECT SHERIFF INTERVIEW.
