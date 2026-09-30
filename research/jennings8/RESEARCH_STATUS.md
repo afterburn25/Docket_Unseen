@@ -105,6 +105,9 @@ Completed:
 - created exact historical newspaper archive target list for 2006 Patterson and 2007 Lopez/Whitnei charge reporting;
 - created verified current public-record request routes for City of Jennings, LSP, Jefferson Davis Clerk, and JDPSO;
 
+- created CASE_CLUSTER_ANALYSIS.md combining Orion, prosecution, geography, fear, and social-network evidence into overlapping victim subsets without treating them as offender groups;
+- refined Orion findings strictly from the authors' text after the PDF screenshot service failed on the restricted Heidelberg host;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
