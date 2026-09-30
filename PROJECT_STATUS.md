@@ -138,3 +138,25 @@ GitHub issues:
 - **#9** — archival video recovery/licensing
 
 Final Jennings 8 scripts should not be written from summaries alone. Continue reducing the primary-record gaps first.
+
+
+## Russell Foote Cold Case Research
+
+A dedicated research branch now exists:
+
+`research/russell-foote-cold-case`
+
+Workspace: `research/russell_foote/`
+
+Initial research infrastructure completed:
+- case summary;
+- master timeline;
+- source-quality ledger;
+- evidence ledger;
+- people/organization role map;
+- contradiction and missing-record register;
+- lead log;
+- public-records acquisition plan;
+- research status / next-actions file.
+
+Current priority is primary-record acquisition, beginning with the LPSO initial homicide report and April 1974 fire records. The research branch deliberately avoids treating any uncharged person as guilty and treats the family's cover-up concerns as allegations to be tested against documentary evidence.
