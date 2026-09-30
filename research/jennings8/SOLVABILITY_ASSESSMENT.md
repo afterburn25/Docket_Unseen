@@ -242,3 +242,19 @@ The matrix currently suggests several useful analytical directions:
 
 Next analytical file:
 `LEAD_EXCLUSION_TIMELINE.md` — only after custody/alibi/vehicle records are sufficiently verified.
+
+
+---
+
+## Orion / task-force lead-database finding
+
+A peer-reviewed 2013 analysis of **172 FBI Orion Information Packages from Necole Guillory's case** identified three narrative/geographic clusters and relationships that the Jennings Task Force told the researchers were previously unknown and might provide new investigative clues.
+
+See:
+`ORION_DATA_MINING.md`
+
+This changes the solvability picture in one important way:
+
+The public record is not simply missing a few reports. There is evidence of a **large structured internal lead corpus** that has never been publicly visible.
+
+If preserved, modern re-analysis of the entire lead corpus may be more valuable than collecting additional secondary theories.
