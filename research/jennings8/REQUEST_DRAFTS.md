@@ -239,7 +239,13 @@ https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/freedo
 
 Scope should be narrow.
 
-Suggested request:
+Suggested first-contact wording:
+
+I am seeking records concerning FBI FOIA request **1560355**, opened September 16, 2022, with the subject "Jennings 8/Jeff Davis 8," as listed in the FBI's official 2022 FOIA Log.
+
+If request 1560355 resulted in records previously processed and released, please advise whether a duplicate copy of that release package can be provided, including any final response letter and releasable records.
+
+If a new FOIA request is required, please treat the following as the requested scope:
 
 I request records suitable for release under FOIA concerning FBI participation in the multi-agency investigation known as the "Jeff Davis 8" or "Jennings 8" murders in Jefferson Davis Parish, Louisiana, approximately 2005–present.
 
