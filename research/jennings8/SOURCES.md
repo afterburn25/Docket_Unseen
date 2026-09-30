@@ -773,3 +773,51 @@ Supports:
 - $85,000 reward;
 - historical website/tip line.
 Quality: CONTEMPORANEOUS LOCAL PRESERVING OFFICIAL TASK-FORCE STATEMENT.
+
+
+### Associated Press / Courthouse News — Women 'Traded as Currency' Inside Louisiana Jail
+https://www.courthousenews.com/women-traded-as-currency-inside-louisiana-jail/
+Supports:
+- AP review of state/FBI records;
+- Necole Guillory as witness in 2002 jail investigation;
+- archival footage of Necole speaking to investigators;
+- three officers charged;
+- Phillips felony malfeasance plea / later sentence context;
+- Frank misdemeanor plea;
+- no federal charges filed.
+Quality: ASSOCIATED PRESS RECORDS-BASED INVESTIGATION.
+
+### WDSU / Associated Press — Documentary highlights jail allegations
+https://www.wdsu.com/article/documentary-highlights-rape-allegations-at-louisiana-jail/29441314
+Supports:
+- Necole witness role;
+- newly released state/FBI record context.
+Quality: AP REPRINT.
+
+### KPLC — Jeff Davis Officers Appear in Court
+https://www.kplctv.com/story/1552290/jeff-davis-officers-appear-in-court/
+Published Dec. 5, 2003.
+Supports:
+- Phillips no-contest plea to malfeasance in office;
+- Frank no-contest plea to criminal mischief;
+- Varner guilty plea to criminal mischief;
+- contemporaneous description of underlying jail investigation.
+Quality: CONTEMPORANEOUS LOCAL COURT REPORTING.
+
+### State of Louisiana v. Eric Myron Phillips — CR-706-02 / CR-711-02-2
+Surviving minute-entry copy:
+https://ru.scribd.com/document/465740188/Eric-Myron-Phillips-706-02
+Supports:
+- case numbers;
+- felony malfeasance charge history;
+- court dates/continuances;
+- State Police investigative-report wait referenced in minutes.
+Quality: PRIMARY COURT-MINUTE COPY ON THIRD-PARTY HOST; certified clerk copy preferred.
+
+### PJI 2020 Jefferson Davis Parish CRIPA request
+https://static1.squarespace.com/static/5fe0e9cce6e50722511b03cc/t/6002475ef3d9ba77658dc2bc/1610762080196/2020.07.08-Jefferson-Davis-Parish-CRIPA-Complaint-1-1.pdf
+Supports:
+- references to Hubbard v. Edwards federal filings;
+- source roadmap for 2001–02 jail allegations;
+- advocacy request for federal investigation.
+Quality: ADVOCACY LEGAL FILING; cited underlying court records should be obtained directly.
