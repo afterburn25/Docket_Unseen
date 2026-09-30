@@ -123,3 +123,28 @@ The live article is currently difficult to retrieve through the research browser
 **Known URL:** https://www.theadvertiser.com/videos/news/2018/05/16/unforgotten-kevin-foote-talks-his-fathers-murder/609034002/
 
 Preserve for archive/licensing request. KPEL's 2018 article links directly to this video URL.
+
+
+### S013 — Digital Archives of the Lafayette Public Library
+**Class:** A/B archival repository  
+**URL:** https://lafayette.advantage-preservation.com/
+
+**Holdings relevant to this case:**
+- Daily Advertiser (1974–1978): 58,135 digitized pages.
+- Sunday Advertiser (1974–1978): 25,880 digitized pages.
+
+**Research value:** this is currently the best publicly accessible route to contemporaneous Lafayette reporting for the April 1974 fires, May 17 homicide, early investigation, and later 1974 grand-jury/arson/financial developments.
+
+**Use rule:** capture the full newspaper page, date, page number, headline, and OCR text for any relevant hit. OCR alone is not sufficient when the scanned page can be inspected.
+
+### S014 — Lafayette Public Library / Community History Archives
+**Class:** A/B archival-repository metadata  
+**URL:** https://communityhistoryarchives.com/places/lafayette-public-library/
+
+Confirms the Lafayette Public Library archive is free to the public and covers local historical newspapers through 1978.
+
+### S015 — Lafayette Genealogical Society 1974 Daily Advertiser obituary index
+**Class:** C archival finding aid  
+**URL:** https://lalgs.org/wp-content/uploads/2021/11/obituary1974alpha.pdf
+
+Notes that 1974 Daily Advertiser material was historically available on microfilm at Lafayette Public Library. Useful as corroboration that local archival copies existed, but the digitized Lafayette Public Library archive is the preferred first route.
