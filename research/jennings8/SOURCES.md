@@ -821,3 +821,22 @@ Supports:
 - source roadmap for 2001–02 jail allegations;
 - advocacy request for federal investigation.
 Quality: ADVOCACY LEGAL FILING; cited underlying court records should be obtained directly.
+
+
+### Terrie Guillory deposition — Gunter v. Jefferson Davis Parish
+https://www.scribd.com/document/465741658/Terrie-Guillory-Deposition
+Supports:
+- sworn testimony that Steven Gunter provided narcotics information to JDPSO;
+- Guillory's role/history as detective/warden;
+- Guillory's knowledge of Gunter and narcotics intelligence;
+- detailed sworn account of 2007 shooting response.
+Quality: SWORN DEPOSITION COPY ON THIRD-PARTY HOST; certified 31st JDC copy preferred.
+
+### Gunter v. Jefferson Davis Parish, 84 So.3d 705 (La. App. 3 Cir. 2012)
+https://law.justia.com/cases/louisiana/third-circuit-court-of-appeal/2012/ca-11-1018.html
+Supports:
+- C-488-08 case number;
+- civil-case parties;
+- deposition/exhibit record;
+- appellate procedural outcome.
+Quality: PUBLISHED APPELLATE DECISION.
