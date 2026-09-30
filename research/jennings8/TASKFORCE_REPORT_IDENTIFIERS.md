@@ -197,3 +197,61 @@ When/if a page is recovered:
 - identify whether statement is firsthand/hearsay;
 - identify follow-up;
 - compare with Brown/Showtime/PJI characterization.
+
+
+---
+
+## Additional exact citation map from the 2020 federal filing
+
+A line-by-line review of the 2020 PJI CRIPA filing identifies three distinct ways the underlying task-force file is cited.
+
+### Task-force page 46
+The filing cites:
+- **Taskforce Report at 46**
+- JPD K-06184-08
+- JDPSO 2008110110
+- LSP 09-576
+
+The filing uses page 46 to support its characterization of a statement attributed to Teresa Gary concerning Brittney Gary and Frankie Richard.
+
+Important:
+- this is PJI's characterization of page 46;
+- the underlying page must be reviewed before Docket Unseen repeats the substance;
+- request page 46 specifically from all three custodians.
+
+### Task-force page 104
+The filing cites:
+- **Taskforce Report at 104**
+- same three agency case numbers.
+
+The filing uses page 104 in a section discussing an allegation involving Loretta Chaisson and Terrie Guillory.
+
+Important:
+- an investigative report may simply record an allegation;
+- page 104 could contain firsthand, hearsay, or investigator-summary material;
+- do not treat the filing's description as an adjudicated fact.
+
+### General task-force-report citation
+The filing also cites the report generally while discussing:
+- violence toward women in the local sex-work network;
+- Danny Barry as a reported task-force suspect;
+- other local persons associated with the victim network.
+
+A separate footnote cites **Jennings Police Department Case K-06184-08** when stating Richard became a suspect in the Jeff Davis 8 investigation.
+
+### Targeted request priority
+If agencies decline the entire report, request in this order:
+1. report cover / table of contents / page count;
+2. page 46;
+3. page 104;
+4. any pages identifying task-force suspects/persons of interest;
+5. any lead-disposition index;
+6. any publicly segregable witness-summary pages.
+
+This targeted route may succeed even if the full active-investigation file is withheld.
+
+### PDF source verification
+The relevant citations appear in the July 8, 2020 PJI federal submission:
+https://static1.squarespace.com/static/5fe0e9cce6e50722511b03cc/t/6002475ef3d9ba77658dc2bc/1610762080196/2020.07.08-Jefferson-Davis-Parish-CRIPA-Complaint-1-1.pdf
+
+This filing is advocacy, not a neutral factual adjudication. Its footnotes are valuable principally because they expose the identifiers/pages of underlying records.
