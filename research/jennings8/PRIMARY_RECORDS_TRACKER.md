@@ -587,3 +587,28 @@ Ask for:
 
 Status:
 **EXACT CASE NUMBERS IDENTIFIED; NOT YET REQUESTED**
+
+
+---
+
+# 16. Louisiana State Police — Nina Ravey Case 08-8
+
+Known:
+- LSP publicly announced Nina B. Ravey's arrest on Dec. 19, 2007.
+- A 2020 federal filing cites **Louisiana State Police Investigation into Nina B. Ravey, Case No. 08-8, dated Feb. 11, 2008**.
+- The same filing says Ravey was never criminally prosecuted.
+
+### Request AA
+Request from Louisiana State Police:
+- Case No. **08-8**;
+- final investigative report;
+- arrest warrant / probable cause;
+- referral to district attorney;
+- disposition/closure;
+- attachments that are public.
+
+Also seek from 31st JDC / DA:
+- any screening/declination record;
+- any criminal docket under Nina B. Ravey, 2007–08.
+
+Status: **EXACT LSP CASE NUMBER IDENTIFIED; RECORD NOT YET RECOVERED**
