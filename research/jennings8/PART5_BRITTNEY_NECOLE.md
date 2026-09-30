@@ -310,6 +310,29 @@ This is strong evidence that family remembers Necole anticipating danger.
 
 It does **not** by itself establish who she feared or why.
 
+## Documented earlier law-enforcement-misconduct witness role
+
+Associated Press reviewed newly released state/FBI records in 2019 and reported:
+- Necole had been a witness in the **2002 Jefferson Davis Parish jail misconduct investigation**;
+- archival footage shows Necole speaking with investigators about misconduct and contraband inside the jail;
+- the 2002 investigation produced charges against multiple jail officers.
+
+Sources:
+- https://www.wdsu.com/article/documentary-highlights-rape-allegations-at-louisiana-jail/29441314
+- https://www.courthousenews.com/women-traded-as-currency-inside-louisiana-jail/
+
+Status:
+**STRONG RECORD-BASED SECONDARY CONFIRMATION OF A REAL PRIOR WITNESS ROLE.**
+
+This materially changes the context of later family statements about Necole distrusting police.
+
+It does **not** prove that the 2002 case caused her death.
+
+Primary target:
+- original 2002 interview/video;
+- state/FBI interview notes;
+- whether the 2009 task force reviewed that history as a possible motive.
+
 ## Stronger claim: Necole believed police were involved
 
 Oxygen's summary of `Murder in the Bayou` says Barbara Guillory stated:
