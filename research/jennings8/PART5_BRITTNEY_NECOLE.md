@@ -312,7 +312,7 @@ Need:
 ## Necole's earlier documented role in a law-enforcement misconduct case
 
 See dedicated dossier:
-`NECOLE_2002_WITNESS_RECORD.md`
+`JAIL_2002_CASE.md`
 
 Exact primary-record identifiers recovered:
 - LSP **WDD010102** (Nov. 26, 2002)
@@ -331,7 +331,7 @@ Necole had firsthand involvement as a witness in a documented law-enforcement mi
 
 It does **not** prove that case was related to her later homicide.
 
-See `2002_JAIL_CORRUPTION.md`.
+See `JAIL_2002_CASE.md`.
 
 ## Necole predicted she would die
 
@@ -512,3 +512,21 @@ Victim, fear statements, last-seen car, I-10 recovery, asphyxiation, task-force 
 Short bridge episode or opening of Part 6 showing how investigators now had eight cases and a common-offender theory.
 
 If the primary records are rich, do not compress Brittney and Necole into one episode.
+
+
+## Why the 2002 case changes the Necole analysis
+
+The 2002 jail case gives Necole a **documented information history** years before her 2009 death.
+
+Associated Press reporting based on state/FBI records establishes that Necole was a witness in the jail investigation. Contemporaneous KPLC later documented guilty/no-contest pleas by three former correction officers:
+- Eric Myron Phillips — no contest to felony malfeasance in office;
+- Allarate John Franks — no contest to criminal mischief;
+- Jacquelyn Lennett Varner — guilty to criminal mischief.
+
+AP later reported Phillips received a one-year prison sentence.
+
+This does not establish a motive for Necole's homicide. It does mean the series can now distinguish:
+- **documented prior knowledge of law-enforcement misconduct**;
+- from the later, unresolved theory that knowledge made her a target.
+
+See `JAIL_2002_CASE.md`.
