@@ -112,6 +112,31 @@ Edwards served throughout all eight deaths and oversaw creation of the multi-age
 
 ---
 
+## Jefferson Davis Parish jail misconduct investigation — 2002–2003
+
+Associated Press later reviewed state/FBI records from a 2002 jail-corruption investigation and reported:
+- multiple women gave investigators misconduct allegations involving jail personnel;
+- future Jennings 8 victim **Necole Guillory** was among the witnesses;
+- three former corrections officers ultimately entered criminal pleas arising from the investigation.
+
+KPLC Dec. 5, 2003 documented:
+- Eric Myron Phillips — no contest to felony malfeasance in office;
+- Allarate John Frank — no contest to criminal mischief, fine/probation;
+- Jacquelyn Lennett Varner — guilty to criminal mischief, fine/probation.
+
+KPLC:
+https://www.kplctv.com/story/1552290/jeff-davis-officers-appear-in-court/
+
+AP review:
+https://www.courthousenews.com/women-traded-as-currency-inside-louisiana-jail/
+
+This is one of the most important pieces of pre-murder institutional history because it includes a future victim as a documented witness.
+
+See:
+`2002_JAIL_CORRUPTION.md`
+
+---
+
 ## Lisa Allen federal civil-rights complaint — 2007
 
 Federal case:
