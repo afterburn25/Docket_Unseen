@@ -130,3 +130,69 @@ For every request save:
 - produced records;
 - withheld categories and cited legal basis;
 - follow-up correspondence.
+
+
+## 8. Immediate-Family / Designated-Researcher Access Under R.S. 44:3(F)
+
+Current Louisiana R.S. 44:3(F) creates a broader route after ten years from a death by other than natural causes. With approval of the district court having jurisdiction over any resulting criminal prosecution, qualifying immediate family may obtain copies of investigative files and broad access to evidence/potential evidence and may designate other person(s) for access.
+
+For Russell Foote, a lawful family collaboration could therefore be substantially more productive than relying only on ordinary public-record requests.
+
+### Family-cooperation checklist
+- determine what copy of the case file Kevin Foote already received;
+- determine whether the statutory court-approval process was used and retain the order if available;
+- inventory all family-held records before submitting duplicative requests;
+- if appropriate, obtain written designation for a Docket Unseen researcher;
+- coordinate any evidence inspection/testing with LPSO and the lawful custodian;
+- preserve agency/court correspondence in the research archive.
+
+See [LEGAL_ACCESS_PATH.md](LEGAL_ACCESS_PATH.md).
+
+## 9. Lafayette Fire Department — direct initial-report request
+
+Current published contact:
+- Lafayette Fire Department, Attn: Records
+- 300 East Vermilion Street, Lafayette, LA 70501
+- 337-291-8700
+- LafayetteFire@LafayetteLA.gov
+
+The department states it creates a fire report for all emergency responses and currently charges $5 for the initial fire report.
+
+### Draft request
+
+> Subject: Historical fire report request — Lafayette Red Cross / War Memorial Building, April 1974
+>
+> I am researching the 1974 homicide of Russell Foote and related historical events involving the Lafayette Red Cross office in the War Memorial Building.
+>
+> I request copies of the initial fire reports, if retained, for emergency responses at the Lafayette Red Cross office / War Memorial Building on or about:
+>
+> - April 9, 1974; and
+> - April 26, 1974.
+>
+> If the exact address or incident number is required, please search the historical incident index for the Red Cross or War Memorial Building for those dates and advise what additional identifying information is needed.
+>
+> For each incident, please include any public incident number, response/alarm time, location, units responding, cause/origin classification, and disposition that appear on the initial fire report.
+>
+> If no responsive initial report is retained, please advise whether the record was destroyed, transferred, or otherwise disposed of, and identify any applicable retention/disposition record if available.
+>
+> Electronic production is preferred if possible.
+
+### Request tracker
+- Sent: **NOT YET SENT**
+- Response:
+- Incident number(s):
+- Fees:
+- Records received:
+- Follow-up:
+
+## 10. Daily Advertiser / Gannett Archive Request
+
+Known 2018 main-story URL:
+https://www.theadvertiser.com/story/news/local/2018/05/17/unsolved-murder-lafayettes-red-cross-director-russell-foote/600487002/
+
+Known 2018 video URL:
+https://www.theadvertiser.com/videos/news/2018/05/16/unforgotten-kevin-foote-talks-his-fathers-murder/609034002/
+
+Ask for archive/licensing access to the complete Russell Foote package published May 16–20, 2018, including text, photo galleries, video, captions, and any public source documents embedded with the package.
+
+See [ARCHIVE_TARGETS.md](ARCHIVE_TARGETS.md) for known titles.
