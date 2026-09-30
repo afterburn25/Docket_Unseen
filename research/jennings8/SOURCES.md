@@ -342,3 +342,47 @@ Supports:
 - allegation involving a high-elected parish official;
 - recordings delivered to FBI and Attorney General.
 Quality: CONTEMPORANEOUS LOCAL; inmate cover-up allegation remains unverified.
+
+
+### KPLC — "They shouldn't have done my sister like this"
+https://www.kplctv.com/story/8407184/they-shouldnt-have-done-my-sister-like-this/
+Supports:
+- Kendra Brown statement that Muggy feared for her life;
+- Jennings Police Chief Johnny Lassiter statements on warrants/interviews/leads;
+- family identification/funeral context.
+Quality: CONTEMPORANEOUS LOCAL.
+
+### KPLC — New developments in unsolved Jennings murders
+https://www.kplctv.com/story/9317692/new-developments-in-unsolved-jennings-murders/
+Supports:
+- Crystal DNA identification;
+- Sept. 11 Lacour Road recovery;
+- preliminary homicide ruling;
+- autopsy/toxicology still pending;
+- request for information about whereabouts after Aug. 27.
+Quality: CONTEMPORANEOUS LOCAL / OFFICIAL-BASED.
+
+### KPLC — Fourteenth anniversary of first Jeff Davis 8 body
+https://www.kplctv.com/2019/05/21/fourteenth-anniversary-first-jeff-davis-body-discovered/
+Supports:
+- retrospective claim Muggy throat cut;
+- retrospective claim Crystal asphyxiated;
+- later summary of causes/locations.
+Quality: LOCAL RETROSPECTIVE; verify with primary coroner records.
+
+### Ethan Brown — Murder in the Bayou chapter excerpt
+https://medium.com/galleys/murder-in-the-bayou-7460c048db0e
+Supports:
+- Brown's claim Muggy had been questioned about Patterson;
+- Brown's claim task-force material linked Muggy to seeing Loretta's body;
+- Brown's thesis about informants / people knowing about earlier murders.
+Quality: INVESTIGATIVE SECONDARY BASED ON CLAIMED CASE FILES; seek underlying records.
+
+### Oxygen — Jeff Davis 8 key players
+https://www.oxygen.com/martinis-murder/murder-in-the-bayou-who-are-the-jeff-davis-8-key-players
+Supports:
+- Muggy and Crystal family interview summaries;
+- victim-centered biography;
+- Muggy family fear/paranoia account;
+- Crystal family/social-network description.
+Quality: SECONDARY SUMMARY OF SHOWTIME INTERVIEWS.
