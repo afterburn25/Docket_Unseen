@@ -670,3 +670,38 @@ For active task-force materials:
 
 Status:
 **STRATEGY UPDATED — REQUESTS NOT YET SENT**
+
+
+---
+
+# 19. Coroner reports — public cause/manner records
+
+Strategy:
+`CORONER_RECORDS_STRATEGY.md`
+
+Under current R.S. 44:19(E)(3), request the **public coroner's report** for each victim before attempting to obtain full autopsy work product.
+
+### Request AB1–AB8
+- Loretta Chaisson-Lewis
+- Ernestine Patterson
+- Kristen Lopez
+- Whitnei Dubois
+- Laconia Brown
+- Crystal Zeno
+- Brittney Gary
+- Necole Guillory
+
+Ask for:
+- cause of death;
+- manner of death;
+- contributing factors;
+- date/time of death;
+- place of death;
+- date/time of autopsy.
+
+Known Necole custodial lead:
+- Acadia Parish Coroner: 337-334-7551
+- Calcasieu Parish Coroner: 337-477-7537
+
+Status:
+**PUBLIC-REPORT ROUTE IDENTIFIED; REQUESTS NOT YET SENT**
