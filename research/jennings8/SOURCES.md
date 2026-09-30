@@ -902,3 +902,44 @@ Supports only as a research locator for:
 - Barbara Guillory's on-camera statements about Necole's knowledge/fear;
 - Brown's narrated pre-death task-force-warning claim.
 Quality: USER-UPLOADED SUBTITLE MIRROR OF COPYRIGHTED SECONDARY DOCUMENTARY. Use to locate claims/footage, not as primary proof.
+
+
+### Helbich, Hagenauer, Leitner & Edwards — Orion data-mining study
+University record:
+https://research-portal.uu.nl/en/publications/exploration-of-unstructured-narrative-crime-reports-an-unsupervis
+Full paper:
+https://www.geog.uni-heidelberg.de/md/chemgeo/geog/lehrstuehle/gis/helbich_etal_2013.pdf
+DOI: 10.1080/15230406.2013.779780
+Supports:
+- direct collaboration with Jennings Police Task Force;
+- FBI Orion Information Packages;
+- 172 Necole-related records;
+- three textual clusters;
+- close Kristen/Brittney investigative relationship;
+- Laconia material differed from Kristen/Brittney;
+- Jennings/Lafayette/Lake Charles geographic tendencies;
+- task force said analysis revealed previously unknown potentially important relationships/clues.
+Quality: PEER-REVIEWED ACADEMIC STUDY USING ACTUAL TASK-FORCE DATA.
+
+### Hagenauer et al. — AutoCarto 2012 conference paper
+https://cartogis.org/docs/proceedings/2012/Hagenauer_etal_AutoCarto2012.pdf
+Supports:
+- earlier version of the Orion analysis;
+- explicit statement that only 172 Necole IPs were analyzed;
+- plan to rerun on entire Orion dataset if pilot proved useful.
+Quality: ACADEMIC CONFERENCE PAPER / DIRECT TASK-FORCE COLLABORATION.
+
+### Deep South Magazine — Ethan Brown interview
+https://deepsouthmag.com/2016/09/30/murder-bayou-interview-ethan-brown/
+Supports:
+- Brown says Kristen was questioned about Loretta;
+- Brown says Muggy was a witness in Ernestine's case;
+- Brown explicitly labels his offender/cover-up model as his theory.
+Quality: DIRECT INTERVIEW WITH INVESTIGATIVE JOURNALIST; underlying case files preferred.
+
+### Pacific Standard — Murder in the Bayou review
+https://psmag.com/news/murder-in-the-bayou/
+Supports:
+- summary of Brown's claim that task force received a pre-death warning Necole feared she would be next;
+- family fear context.
+Quality: SECONDARY REVIEW OF BROWN'S REPORTED CASE-FILE FINDING.
