@@ -78,6 +78,7 @@ No theory receives a score or winner.
 ## Evidence that would strengthen it
 
 1. Formal records showing a victim was an informant/witness.
+   - **Necole now partially satisfies this criterion:** AP review of state/FBI records confirms she was a witness in the 2002 parish-jail misconduct investigation. What remains unproven is whether that knowledge had any connection to her 2009 death.
 2. Documented police interview about an earlier murder before her own death.
 3. Explicit threat naming the information she possessed.
 4. Multiple victims tied to the same confidential matter.
@@ -93,6 +94,7 @@ No theory receives a score or winner.
 
 ## Highest-value records
 
+- Necole's original 2002 interview / video and any 2009 task-force review of that history;
 - CI files;
 - police interview logs;
 - prosecutor witness lists;
