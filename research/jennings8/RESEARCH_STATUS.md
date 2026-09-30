@@ -30,6 +30,9 @@ Completed:
 - created Part 8 witnesses/informants/later-deaths dossier testing the "knew too much" theory against documented fear, tips, inmate tapes, and later deaths;
 - created Part 9 evidence/investigative-failures dossier separating proven procedural failures from broader cover-up theories;
 - created Part 10 law-enforcement/institutional/cover-up dossier including official denials, AG jurisdiction limits, and the Boustany/Boudreaux Inn controversy;
+- created Part 11 Brown/media-reexamination dossier;
+- created Part 12 competing-theories dossier with no selected theory;
+- created Part 13 current-status finale anchored to official 2026 JDPSO Hot Cases and current sheriff information;
 - verified contemporaneous KPLC archive exists for several major events;
 - identified official Showtime YouTube playlist and KPLC video/archive as footage leads.
 
@@ -94,3 +97,22 @@ Completed:
 **DO NOT WRITE FINAL PART 1 NARRATION YET.**
 
 Research dossier should be materially deeper before the first comprehensive script is locked.
+
+
+## Foundation milestone
+
+The planned 13-part series now has research scaffolding for every major part.
+
+**Next phase is not final scripting yet.**
+
+Highest-value work now:
+1. obtain primary court / ethics / coroner records;
+2. obtain/transcribe raw KPLC video;
+3. build victim/family relationship map;
+4. build GIS recovery-site map;
+5. resolve Richard/Conner 2007 arrest-record contradiction;
+6. obtain Patterson court file;
+7. verify informant claims victim-by-victim;
+8. verify later witness deaths/cause;
+9. contact current JDPSO for 2026 status;
+10. only then begin final Part 1 narration.
