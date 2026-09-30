@@ -774,7 +774,11 @@ Purpose:
 - recover interviews/written statements;
 - identify Necole Guillory's documented 2002 contact with investigators;
 - identify officers/deputies involved;
-- determine final investigative/prosecutorial disposition.
+- determine final investigative/prosecutorial disposition;
+- locate archival interview video/audio;
+- determine whether these files were later cross-referenced into the Jeff Davis 8 task-force investigation.
+
+Associated Press independently reported in 2019 that Necole was a witness in the 2002 case and that archival footage of her interview existed.
 
 Status: **CASE NUMBERS RECOVERED; NOT REQUESTED**
 
