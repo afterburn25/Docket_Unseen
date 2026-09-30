@@ -107,6 +107,15 @@ Need:
 
 ### Documented prior knowledge role
 
+Exact record keys are now known:
+- Louisiana State Police **WDD010102**
+- Louisiana State Police **WDD010102C**
+
+See:
+`NECOLE_2002_WITNESS_RECORD.md`
+
+
+
 Associated Press reviewed state and FBI records and reported that Necole, then 19, had been a **witness in the 2002 Jefferson Davis Parish jail misconduct investigation**.
 
 AP reports:
