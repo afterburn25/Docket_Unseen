@@ -741,3 +741,73 @@ Goal:
 Identify which homicide was being discussed and what suspect Nixon referred to.
 
 Status: **APPELLATE DESCRIPTION RECOVERED; UNDERLYING RECORD NOT YET OBTAINED**
+
+
+---
+
+# 15. Exact agency case-number requests recovered from PJI citations
+
+## Request W — Jennings / JDPSO / LSP multi-agency records
+Identifiers:
+- Jennings Police **K-06184-08**
+- JDPSO **2008110110**
+- Louisiana State Police **09-576**
+- associated Taskforce Report pages cited by PJI: **46** and **104**
+
+Request from each custodian:
+- case index / face sheet;
+- public narrative;
+- public attachments/exhibit index;
+- final disposition;
+- cross-referenced case numbers;
+- public press/report materials.
+
+Do not ask for confidential informant identities.
+
+Status: **CASE NUMBERS RECOVERED; NOT REQUESTED**
+
+## Request X — LSP jail-investigation files
+- **WDD010102** (Nov. 26, 2002)
+- **WDD010102C** (Nov. 27, 2002)
+
+Purpose:
+- recover interviews/written statements;
+- identify Necole Guillory's documented 2002 contact with investigators;
+- identify officers/deputies involved;
+- determine final investigative/prosecutorial disposition.
+
+Status: **CASE NUMBERS RECOVERED; NOT REQUESTED**
+
+## Request Y — LSP Nina Ravey
+- **Case No. 08-8** (Feb. 11, 2008)
+
+Purpose:
+- determine allegations investigated;
+- final disposition;
+- connection to Allen civil-rights case.
+
+Status: **CASE NUMBER RECOVERED; NOT REQUESTED**
+
+## Request Z — Leonard Crochet shooting
+- LSP **WDD004505**
+
+Purpose:
+- full police-involved shooting report;
+- witness statements;
+- scene/evidence;
+- officer statements;
+- autopsy/coroner references;
+- disposition/referral.
+
+Status: **CASE NUMBER RECOVERED; NOT REQUESTED**
+
+## Request AA — Steven Gunter
+- LSP **WDD005507-1**
+- 31st JDC **C-488-08**
+
+Purpose:
+- certified LSP report;
+- Terrie Guillory deposition;
+- civil docket/exhibits.
+
+Status: **IDENTIFIERS RECOVERED; THIRD-PARTY LSP COPY ALREADY AVAILABLE**
