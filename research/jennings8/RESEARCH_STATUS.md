@@ -110,6 +110,8 @@ Completed:
 
 - created final-contact timeline file separating official last-seen anchors from family, later-journalistic, and unverified contact claims;
 
+- created person-centric opportunity/source-density map showing where recurring names genuinely connect to victim cases and where links stop; explicitly not a guilt/probability ranking;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
