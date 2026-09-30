@@ -89,3 +89,22 @@ For unresolved/highly contested cases:
 4. include relevant counterarguments or official denials;
 5. do not select a perpetrator or declare a disputed conspiracy solved;
 6. end with what is actually known and what remains unresolved.
+
+
+## Active Cold-Case Research Project — Russell Foote
+
+**Status:** Active research on dedicated branch  
+**Branch:** `research/russell-foote-cold-case`  
+**Workspace:** `research/russell_foote/`
+
+Russell Foote, the 28-year-old Lafayette Red Cross director, was shot and killed in Lafayette on May 17, 1974. Public reporting says no arrest has been made.
+
+Research angle:
+- reconstruct the homicide from primary records;
+- verify the reported Red Cross financial irregularities;
+- locate records for the reported April 1974 Red Cross-office fires;
+- determine what homicide evidence survives and what was destroyed;
+- establish the public record of the grand-jury/prosecutorial history;
+- test, rather than assume, later allegations of investigative failure or cover-up.
+
+Do not script a definitive accusation while the primary-record gaps remain unresolved.
