@@ -100,6 +100,8 @@ Completed:
 
 - audited the 2020 PJI federal filing for task-force report page citations; only explicit numbered pages located are 46 and 104, with other references generic;
 
+- extracted exact PJI-cited police/court case numbers into `CASE_NUMBER_INDEX.md`, including JPD K-06184-08, JDPSO 2008110110, LSP 09-576, WDD010102/WDD010102C, LSP 08-8, Crochet WDD004505, and Gunter WDD005507-1;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
