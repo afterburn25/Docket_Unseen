@@ -77,6 +77,19 @@ Status:
 
 ## Necole Jean Guillory
 
+### Documented pre-existing knowledge — 2002 jail case
+
+Associated Press reporting based on state/FBI records establishes that Necole was a witness in the 2002 Jefferson Davis Parish jail misconduct investigation. She gave investigators information about misconduct/contraband years before the Jennings 8 murders.
+
+Contemporaneous KPLC court reporting shows the 2002 investigation resulted in pleas by three former correction officers, including a felony malfeasance plea by Eric Myron Phillips.
+
+This materially strengthens the proposition that Necole possessed firsthand knowledge about prior law-enforcement misconduct.
+
+It does **not** prove that this knowledge caused her later death.
+
+See `JAIL_2002_CASE.md`.
+
+
 ### Contemporaneous/later family statement
 KPLC reported in 2010 that Barbara Guillory said Necole repeatedly predicted she would not live long.
 
