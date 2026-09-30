@@ -311,6 +311,15 @@ Need:
 
 ## Necole's earlier documented role in a law-enforcement misconduct case
 
+See dedicated dossier:
+`NECOLE_2002_WITNESS_RECORD.md`
+
+Exact primary-record identifiers recovered:
+- LSP **WDD010102** (Nov. 26, 2002)
+- LSP **WDD010102C** (Nov. 27, 2002)
+
+
+
 Associated Press reviewed state/FBI records and reported that Necole, then 19, was a **witness in the 2002 Jefferson Davis Parish jail corruption investigation**.
 
 AP also reported that archival footage shows Necole speaking with investigators about misconduct and contraband inside the jail.
