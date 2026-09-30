@@ -240,3 +240,55 @@ For each final excerpt record:
 - documentary purpose;
 - original narration/analysis added;
 - license / permission / fair-use review status.
+
+
+## KATC-TV3 — 2010 "Who's Killing Jennings?" six-part series
+
+Historical media indexes preserve a six-part KATC-TV3 series aired roughly May 25–29, 2010.
+
+Known segment themes from preserved text:
+- Part 1: Sheriff Ricky Edwards discusses collective vs individual investigation and serial-offender terminology.
+- Part 2: community fear / uncertainty.
+- Part 4: South Jennings geography and local community context.
+- Part 5: criminal psychologist Dr. Maurice Godwin offers an offender-profile interpretation.
+- Part 6: rumor, mistrust, and tension between community and law enforcement.
+
+Original KATC video URLs were reported dead by 2011; community members said they had mirrored some clips to Facebook.
+
+Status:
+**HISTORICAL SERIES CONFIRMED THROUGH CONTEMPORARY MEDIA INDEX; DIRECT OFFICIAL VIDEO NOT YET RECOVERED.**
+
+Recovery targets:
+- KATC archive / Scripps archive inquiry;
+- station library;
+- Facebook mirrors from 2010–11;
+- Internet Archive;
+- Maurice Godwin interview copy.
+
+Rights:
+KATC/Scripps copyrighted material.
+
+Priority:
+**HIGH**, because it offers an independent station perspective rather than KPLC-only sourcing.
+
+## NBC33 / Baton Rouge special — 2010
+
+Historical media indexes reference:
+**Special Report: Unsolved Murders**
+NBC33, Baton Rouge, Feb. 9, 2010.
+
+Status:
+**ARCHIVAL LEAD ONLY — DIRECT VIDEO NOT RECOVERED.**
+
+## Police & Menard DNA video
+
+Historical media index preserves former YouTube ID:
+`jpRMR3u940A`
+
+Description:
+"Police & Menard give DNA"
+
+Current web search does not surface a live official copy.
+
+Status:
+**DEAD/UNCONFIRMED YOUTUBE ARCHIVE LEAD.**
