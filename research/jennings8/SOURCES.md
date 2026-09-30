@@ -693,3 +693,43 @@ Supports:
 - Kendra/Kindra Brown as Muggy's sister;
 - family memorial/advocacy.
 Quality: CONTEMPORANEOUS LOCAL.
+
+
+### JDPSO — The First Year Recap
+https://www.jdpso.org/press-releases/first-year-recap
+Posted July 2, 2025.
+Supports:
+- official Miers-administration current status;
+- >1,000 investigative hours on eight unsolved cases;
+- ~700 pages of new reports;
+- increased crime-lab submissions.
+Quality: PRIMARY CURRENT SHERIFF'S OFFICE SOURCE.
+
+### Deep South Magazine — Ethan Brown interview
+https://deepsouthmag.com/2016/09/30/murder-bayou-interview-ethan-brown/
+Supports:
+- Brown's theory that Kristen had been questioned about Loretta;
+- Brown's claim Muggy was a witness in Patterson investigation;
+- Brown explicitly frames his reconstruction as a theory.
+Quality: DIRECT JOURNALIST INTERVIEW / INVESTIGATIVE SECONDARY.
+
+### Pacific Standard — Murder in the Bayou
+https://psmag.com/news/murder-in-the-bayou/
+Supports:
+- Brown's claim of a pre-death task-force tip that Necole felt she might be next;
+- review of Brown's information-flow argument.
+Quality: SECONDARY REVIEW OF BROWN'S REPORTING; underlying task-force report still needed.
+
+### State of Louisiana v. Lawrence Nixon (2017)
+https://law.justia.com/cases/louisiana/second-circuit-court-of-appeal/2017/51-319-ka.html
+Supports:
+- later criminal-history discussion referencing a prior manslaughter charge;
+- does not establish Patterson-case custody dates.
+Quality: PUBLISHED APPELLATE DECISION.
+
+### State of Louisiana v. Lawrence Nixon (2018)
+https://law.justia.com/cases/louisiana/second-circuit-court-of-appeal/2018/52-202-ka.html
+Supports:
+- later sentencing/custody history unrelated to Jennings 8;
+- useful only for identity/criminal-history corroboration.
+Quality: PUBLISHED APPELLATE DECISION.
