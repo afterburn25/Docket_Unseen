@@ -95,6 +95,9 @@ Completed:
 - created machine-readable case graph under `data/jennings8/` and ran a documented-only A/B evidence pass;
 - documented-only graph shows no single individual publicly connects strongly across most victims without relying on C-tier later investigative reporting; Kristen has the richest public investigative record and Necole the richest information/intelligence record;
 
+- added current Louisiana R.S. 44:3 public-record strategy: target initial reports, booking records, bills of information, closed court records and segregable metadata rather than broad active-homicide files;
+- added official JDPSO July 2, 2025 recap video/written source confirming 1,000+ hours and ~700 pages of new work on the eight cases;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
