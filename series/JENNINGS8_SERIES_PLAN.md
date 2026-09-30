@@ -180,6 +180,26 @@ Cover:
 
 Do not imply guilt without evidence.
 
+### Part 8 — Fear, Witnesses, Informants, and People Who Died
+
+A major through-line should be that **several women appeared to believe they were in danger before they died**.
+
+Document separately:
+- Muggy Brown's family statement that she believed "her time had come";
+- Brittney Gary's expressed concern for her safety and distrust of people around her;
+- Necole Guillory's repeated prediction that she would not live long;
+- Loretta fear/informant claims if primary records support them.
+
+Then ask — without assuming the answer — whether this fear came from:
+- seeing women in the same social circle die;
+- specific threats;
+- involvement as informants;
+- being questioned about earlier killings;
+- firsthand knowledge;
+- or general danger associated with the drug/sex-work environment.
+
+Use `research/jennings8/FEAR_AND_FOREKNOWLEDGE.md`.
+
 ### Part 8 — Witnesses, Informants, and People Who Died
 
 Cover:
