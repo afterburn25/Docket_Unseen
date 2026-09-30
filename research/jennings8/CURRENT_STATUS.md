@@ -93,6 +93,21 @@ Status:
 
 This provides a primary-news bridge between Miers' 2023 campaign promise and later 2026 secondary reporting.
 
+## July 2, 2025 — official JDPSO first-year recap
+
+The Sheriff's Office itself published:
+- investigators had spent **over 1,000 hours** on the eight unsolved women's cases since July 2024;
+- investigators had typed approximately **700 pages of reports** concerning the eight cases;
+- the investigations division was sending more evidence/items to the Regional Crime Lab than in prior years.
+
+Official source:
+https://www.jdpso.org/press-releases/first-year-recap
+
+Status:
+**PRIMARY CURRENT AGENCY SOURCE.**
+
+This is stronger than secondary descriptions of the re-review and should be the baseline for current-status narration.
+
 ## Reported 2024–2026 re-review
 
 An August 2026 Bayou Justice report says Sheriff Kyle Miers told the Jennings Daily News:
