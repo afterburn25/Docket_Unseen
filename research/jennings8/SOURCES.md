@@ -551,3 +551,23 @@ Supports:
 - Lacie Fontenot had not been linked to the Jeff Davis 8;
 - AG Buddy Caldwell jurisdiction explanation.
 Quality: CONTEMPORANEOUS LOCAL / OFFICIAL INTERVIEW.
+
+
+### KPLC — Police, investigator swabbed for DNA in Jeff Davis case
+https://www.kplctv.com/story/11737933/police-investigator-swabbed-for-dna-in-jeff-davis-case/
+Supports:
+- officer/investigator DNA swabbing;
+- comparisons to case evidence;
+- current/former officer scope;
+- Kirk Menard swab;
+- sheriff's stated anti-rumor rationale;
+- Warren Gary/Paula Guillory context.
+Quality: CONTEMPORANEOUS LOCAL / DIRECT SHERIFF & MENARD QUOTES.
+
+### KPLC — Jeff Davis victims in national spotlight
+https://www.kplctv.com/story/11227556/jeff-davis-victims-in-national-spotlight/
+Supports:
+- sheriff's 2009 statement that investigators believed one common offender was possible but inconclusive;
+- Mike Dubois request for outside leadership;
+- Menard comments on street sources and Necole surveillance.
+Quality: CONTEMPORANEOUS LOCAL.
