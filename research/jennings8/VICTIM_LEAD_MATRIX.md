@@ -35,7 +35,7 @@ It tracks:
 | Laconia "Muggy" Brown | No publicly established named killer; alleged informant-handler / earlier-case knowledge leads | Family contemporaneously documented fear; later reporting says she had information on earlier cases | Fear does not identify offender; informant claim not primary-verified | autopsy, last-hours timeline, prior police interviews, CI records, discovery report |
 | Crystal Zeno | No publicly established named killer; later reported witness lead near recovery site | Death ruled homicide in contemporaneous reporting; later witness theory exists | Original witness statement not obtained; named-men theory not primary-verified | autopsy, scene report, witness tip/interview, phone/last-seen records |
 | Brittney Gary | Danny Barry allegation; unknown offender | Exact Family Dollar surveillance timeline; later witness allegedly placed her in Barry's vehicle | Barry denied knowing her; original witness statement not public; no public forensic link | surveillance master, phone records, witness statement, Barry interview, DNA/autopsy |
-| Necole Guillory | Unknown vehicle driver / possible common offender | Witnesses told police she entered a vehicle on Doyle Street; task force issued common-offender profile after her death | Driver/person not publicly identified; family belief about police involvement is not proof | Doyle Street witness statement, vehicle description, phone records, autopsy/DNA, task-force lead logs |
+| Necole Guillory | Unknown vehicle driver / possible common offender; witness-information motive | Witnesses told police she entered a vehicle on Doyle Street; AP review of state/FBI records confirms she had previously been a witness in the 2002 parish-jail misconduct investigation; task force issued common-offender profile after her death | Driver/person not publicly identified; prior witness role does not prove motive; family belief about police involvement is not proof | Doyle Street witness statement, 2002 interview, vehicle description, phone records, autopsy/DNA, task-force lead logs |
 
 ---
 
@@ -445,9 +445,20 @@ This may be the single most important immediate lead in her case.
 **LATER DOCUMENTARY CLAIM**
 - family later said Necole believed police were somehow involved.
 
+### Stronger independent context
+**AP REVIEW OF STATE/FBI RECORDS**
+- Associated Press reported that records obtained for the Showtime series show Necole had been a witness in the **2002 Jefferson Davis Parish jail misconduct investigation**.
+- AP says archival footage exists of Necole speaking with investigators about misconduct and contraband inside the jail.
+- That establishes a real prior law-enforcement-misconduct information role years before her death.
+
+Sources:
+- https://www.wdsu.com/article/documentary-highlights-rape-allegations-at-louisiana-jail/29441314
+- https://www.courthousenews.com/women-traded-as-currency-inside-louisiana-jail/
+
 ### Weakness
+- prior witness status does not prove her 2009 death was retaliation;
 - belief does not identify offender;
-- no public formal report naming an officer has been recovered.
+- no public formal report naming an officer in her 2009 homicide has been recovered.
 
 ## Critical missing evidence
 1. Doyle Street witness statements;
@@ -457,7 +468,8 @@ This may be the single most important immediate lead in her case.
 5. autopsy / toxicology;
 6. DNA / trace evidence;
 7. task-force lead disposition;
-8. any statements Necole made naming specific people.
+8. any statements Necole made naming specific people;
+9. original 2002 jail-misconduct interview/video and any record showing the 2009 task force evaluated that history as possible motive.
 
 ---
 
