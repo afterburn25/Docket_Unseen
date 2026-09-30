@@ -27,26 +27,47 @@ Because the same report is identified by three agency case numbers, there may be
 ## Known citations to the report
 
 ### Task-force report page 46
-PJI cites page 46 in connection with a claim involving Brittney Gary and family / trafficking information.
 
-Citation in filing:
-- Taskforce Report at 46
+The July 2020 PJI filing cites page 46 for a **specific allegation about Brittney Gary's exploitation/trafficking environment**.
+
+PJI's text says Teresa Gary told investigators that she and Frankie Richard were involved in trafficking Brittney, and footnote 109 cites:
+- Brown, `Murder in the Bayou`, p. 130; and
+- **Taskforce Report at 46**
 - JPD K-06184-08
 - JDPSO 2008110110
 - LSP 09-576
 
-Important:
-PJI is an advocacy filing. Its characterization of the report must be checked against the actual page.
+Source:
+https://static1.squarespace.com/static/5fe0e9cce6e50722511b03cc/t/6002475ef3d9ba77658dc2bc/1610762080196/2020.07.08-Jefferson-Davis-Parish-CRIPA-Complaint-1-1.pdf
+
+Critical:
+- this is **PJI's characterization of page 46**;
+- it is not yet Docket Unseen's independent reading of the task-force report;
+- the underlying page could contain context, qualifications, hearsay, or investigator notes not reflected in the PJI summary.
+
+Also critical:
+**Page 46 is not currently verified as the source for the later Brittney/Whitnei accusation discussed in Showtime/Brown narration.**
+That claim still needs its own task-force page/report identifier.
 
 ### Task-force report page 104
-PJI cites page 104 in connection with a witness allegation involving Loretta Chaisson and Terrie Guillory.
 
-Citation:
-- Taskforce Report at 104
-- same three agency case numbers.
+The July 2020 PJI filing cites page 104 for an allegation involving **Loretta Chaisson-Lewis and Terrie Guillory**.
 
-Again:
-The underlying page is the target; PJI's summary is not a substitute.
+PJI says an allegation about an intimate/sexual relationship between Loretta and then-Deputy Terrie Guillory had been reported to the multi-agency task force, and cites:
+- Brown, `Murder in the Bayou`, pp. 6–7; and
+- **Taskforce Report at 104**
+- JPD K-06184-08
+- JDPSO 2008110110
+- LSP 09-576
+
+Critical:
+- this remains an **allegation recorded/referenced in an investigative context**, not an adjudicated fact;
+- the underlying page must be obtained before describing who made the statement, whether it was firsthand, and what follow-up occurred.
+
+Page 104 is therefore a very high-value record for testing:
+- Loretta's law-enforcement relationship claims;
+- who knew about those claims;
+- whether investigators followed them up.
 
 ### General task-force report citation
 PJI also cites the report generally in its discussion of:
@@ -212,24 +233,26 @@ The filing cites:
 - JDPSO 2008110110
 - LSP 09-576
 
-The filing uses page 46 to support its characterization of a statement attributed to Teresa Gary concerning Brittney Gary and Frankie Richard.
+PJI uses page 46 to support its characterization of a statement attributed to Teresa Gary concerning Brittney Gary's exploitation/trafficking and Frankie Richard.
 
 Important:
-- this is PJI's characterization of page 46;
-- the underlying page must be reviewed before Docket Unseen repeats the substance;
-- request page 46 specifically from all three custodians.
+- this is PJI's characterization, not the underlying page;
+- the page must be reviewed independently;
+- request page 46 specifically from all three custodians;
+- do not mislabel page 46 as the source of the separate Brittney/Whitnei accusation unless the recovered report shows that.
 
 ### Task-force page 104
 The filing cites:
 - **Taskforce Report at 104**
 - same three agency case numbers.
 
-The filing uses page 104 in a section discussing an allegation involving Loretta Chaisson and Terrie Guillory.
+PJI uses page 104 in connection with an allegation that Loretta Chaisson-Lewis had an intimate/sexual relationship with Terrie Guillory and that the allegation was reported to the task force.
 
 Important:
-- an investigative report may simply record an allegation;
+- an investigative report may merely record an allegation;
 - page 104 could contain firsthand, hearsay, or investigator-summary material;
-- do not treat the filing's description as an adjudicated fact.
+- do not treat PJI's description as an adjudicated fact;
+- the key analytical question is what the underlying report says and whether investigators documented follow-up.
 
 ### General task-force-report citation
 The filing also cites the report generally while discussing:
