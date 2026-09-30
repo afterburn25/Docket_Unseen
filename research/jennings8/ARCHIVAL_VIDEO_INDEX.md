@@ -424,3 +424,34 @@ The clip title suggests it may be the identification package rather than the ori
 
 Priority:
 **VERY HIGH**
+
+
+---
+
+## JDPSO official current-investigation recap — 2025
+
+Jefferson Davis Parish Sheriff's Office published its official **First Year Recap** on July 2, 2025.
+
+Official page:
+https://www.jdpso.org/press-releases/first-year-recap
+
+Official linked YouTube video:
+https://youtu.be/_UJ2WtCqpt0
+
+The written recap says the Investigations Division:
+- spent **over 1,000 hours** on the eight unsolved women's cases since July 2024;
+- typed approximately **700 pages of reports** concerning those cases;
+- sent more items to the Regional Crime Lab than in previous years.
+
+Status:
+**PRIMARY CURRENT AGENCY VIDEO / WRITTEN SOURCE.**
+
+Use:
+- Part 13 current-status episode;
+- before/after comparison of old vs current investigative posture;
+- potential source for current Sheriff Kyle Miers visuals/quotes.
+
+Before final edit:
+- log exact video speakers/timestamps;
+- confirm reuse/licensing/public-agency video status;
+- prefer direct JDPSO attribution on screen.
