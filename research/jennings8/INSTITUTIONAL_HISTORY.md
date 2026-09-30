@@ -231,6 +231,38 @@ Status:
 
 ---
 
+## Nina Ravey — 2007 State Police arrest / no prosecution located
+
+KPLC reproduced a Louisiana State Police release dated Dec. 19, 2007 stating:
+- West District Detectives arrested **Nina B. Ravey**;
+- the investigation grew out of a complaint concerning allegations against a Jefferson Davis Parish correctional officer;
+- State Police alleged medical records/documents had been falsified.
+
+Source:
+https://www.kplctv.com/story/7520889/dec-19th-woman-arrested-after-investigation-into-medical-records/
+
+The 2020 PJI federal filing cites:
+- **Louisiana State Police, Investigation into Nina B. Ravey, Case No. 08-8 (Feb. 11, 2008)**;
+- a July 19, 2007 letter from Jefferson Davis Parish Police Jury President Donald Woods to Ravey;
+- and states Ravey was **never criminally prosecuted**.
+
+Current status:
+- arrest is established by State Police/KPLC;
+- direct LSP Case 08-8 has not been recovered;
+- no bill of information, indictment, conviction, or dismissal has been located;
+- therefore the correct wording is **"arrested; no criminal prosecution has been located in the current record."**
+
+Do not say she was convicted of falsifying records.
+
+### Records needed
+- LSP Case 08-8;
+- arrest affidavit/warrant;
+- DA screening/declination;
+- any court docket;
+- Donald Woods July 19, 2007 letter.
+
+---
+
 ## Why this belongs in the series
 
 A fair statement is:
