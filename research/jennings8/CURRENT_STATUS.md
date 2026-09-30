@@ -63,13 +63,27 @@ Status:
 
 This confirms the 1,000+ hour / ~700-page figures directly from JDPSO.
 
-## July 2025 — KPLC confirms active cold-case work
+## July 2025 — JDPSO official first-year recap
 
-KPLC reported July 10, 2025:
-- Miers had been in office for about one year;
-- his investigative team was actively working cold cases;
-- KPLC wrote that the department had spent **"over 1,000"** on the eight unsolved women's cases. The article's wording omits the unit, but context strongly suggests investigative hours; Docket Unseen should quote the article carefully rather than silently adding "hours."
-- Miers also described new investigative technology and stronger interagency communication.
+The Jefferson Davis Parish Sheriff's Office itself posted a first-year recap on July 2, 2025.
+
+JDPSO states:
+- its Investigations Division had investigated 2,033 cases since July 2024;
+- investigators were sending more items to the Regional Crime Lab than in prior years;
+- investigators had spent **over 1,000 hours** on the eight unsolved women's cases;
+- they had typed approximately **700 pages of reports** concerning those eight cases.
+
+Official:
+https://www.jdpso.org/press-releases/first-year-recap
+
+This is currently the strongest direct official current-status source in the dossier.
+
+### July 2025 KPLC follow-up
+
+KPLC later interviewed Miers about his first year and active cold-case work:
+https://www.kplctv.com/2025/07/11/jeff-davis-sheriffs-office-now-answering-calls-city-limits/
+
+The KPLC article corroborates that the investigations division was actively working the eight cases and that new technology/interagency practices had been implemented.
 
 Source:
 https://www.kplctv.com/2025/07/11/jeff-davis-sheriffs-office-now-answering-calls-city-limits/
