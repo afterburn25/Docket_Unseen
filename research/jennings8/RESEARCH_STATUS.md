@@ -75,6 +75,8 @@ Completed:
 
 - created hypothesis-test/falsification plan identifying which evidence would strengthen or weaken one-offender, multiple-offender, witness-elimination, institutional-failure, and cover-up theories;
 
+- verified that current public web results still lack clean primary death records for Danny Barry and Russell Carrier; secondary death claims remain explicitly unverified;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
