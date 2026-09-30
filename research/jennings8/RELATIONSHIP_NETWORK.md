@@ -387,6 +387,23 @@ Never present the final network diagram without an on-screen legend.
 
 ---
 
+# 15A. FBI Orion data-mining network evidence
+
+A 2013 peer-reviewed study coauthored by Ricky Edwards analyzed 172 task-force Orion Information Packages related to Necole.
+
+Published findings:
+- Kristen and Brittney investigative terms clustered closely;
+- Laconia/Muggy's investigative material was textually different;
+- records separated into distinct geographic/textual sub-networks;
+- task force said results contained previously unknown potentially important clues.
+
+See:
+`ORION_DATA_MINING_STUDY.md`
+
+This is stronger than simply saying "everyone knew everyone" because it comes from the task force's own narrative intelligence.
+
+It still does not reveal the masked identities or prove one/multiple offenders.
+
 # 16. Questions Part 6 must answer
 
 1. Which women definitely knew each other?
