@@ -63,6 +63,8 @@ Completed:
 - created institutional-history ledger for pre/during-case law-enforcement history with strict allegation/adjudication labels;
 - created Showtime clip/scene research index with timestamped windows for Chapters 1 and 3 and a topic map for Chapter 4;
 
+- indexed approximate Chapter 2 Showtime scene windows for Muggy, Crystal, Brittney, task-force formation, Necole, and Brown's entry into the case; timings must be verified against the master;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
