@@ -742,3 +742,34 @@ Supports:
 - subject: `Jennings 8/Jeff Davis 8`;
 - opened Sept. 16, 2022.
 Quality: PRIMARY FBI ADMINISTRATIVE RECORD.
+
+
+### KPLC — Jennings Press Conference on mystery murders
+https://www.kplctv.com/story/9550151/jennings-press-conference-on-mystery-murders/
+Supports:
+- Dec. 18, 2008 full task-force formation statement;
+- "killer or killers";
+- individual/collective investigation;
+- early offender characteristics;
+- historical tip line.
+Quality: CONTEMPORANEOUS LOCAL PRESERVING VERBATIM SHERIFF STATEMENT.
+
+### KPLC — Body identified as Necole Guillory
+https://www.kplctv.com/story/10966767/body-identified-as-necole-guillory-of-jeff-davis-parish/
+Supports:
+- Aug. 20, 2009 task-force press release;
+- singular offender behavioral profile;
+- agency roster;
+- vehicle/disposal-method-change theory.
+Quality: CONTEMPORANEOUS LOCAL PRESERVING OFFICIAL RELEASE.
+
+### KPLC — Jeff Davis Task Force holds news conference
+https://www.kplctv.com/story/11399926/jeff-davis-task-force-holds-news-conference/
+Supports:
+- Oct. 2009 official common-offender working theory;
+- all eight treated as murders unless proven otherwise;
+- no exclusive suspect;
+- 1,000 leads / 500 interviews / 48,000 hours;
+- $85,000 reward;
+- historical website/tip line.
+Quality: CONTEMPORANEOUS LOCAL PRESERVING OFFICIAL TASK-FORCE STATEMENT.
