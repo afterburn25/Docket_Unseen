@@ -35,8 +35,8 @@ Utrecht University official staff directory.
 Current position:
 Carl O. Sauer Professor / Geography & Anthropology, Louisiana State University.
 
-Official profile:
-https://www.lsu.edu/ga/people/faculty/michael-leitner/
+Current LSU faculty listing:
+https://sociolinguistics.lsu.edu/ga/people/faculty/index.php
 
 Official email:
 **mleitne@lsu.edu**
@@ -50,14 +50,14 @@ LSU page also lists:
 
 # Julian Hagenauer
 
-Current institutional contact not yet confidently located.
+A later peer-reviewed publication lists Hagenauer at the Leibniz Institute of Ecological Urban and Regional Development (IOER) and gives:
 
-Use:
-- paper author correspondence metadata if recovered;
-- research profiles / university affiliations;
-- coauthor forwarding if necessary.
+- **j.hagenauer@ioer.de**
 
-Do not guess an email address.
+Source:
+https://onlinelibrary.wiley.com/doi/10.1111/tgis.12180
+
+This contact comes from a 2016 publication and should be rechecked before sending.
 
 ---
 
