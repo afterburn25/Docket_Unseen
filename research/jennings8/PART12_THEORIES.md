@@ -16,6 +16,15 @@ No theory receives a "winner."
 
 # Theory A — One common offender / serial killer
 
+## Known external serial-offender lead
+In Dec. 2009 KPLC reported convicted/suspected serial murderer **Jeffery Lee Guillory** had been on the Jeff Davis investigation's radar since 2007.
+
+Sheriff Ricky Edwards said Guillory's Jan. 2008 incarceration ruled him out for the final four deaths, but investigators were still comparing earlier cases.
+
+See `ALTERNATIVE_SUSPECTS.md`.
+
+This is useful because it shows investigators tested identifiable outside serial offenders rather than relying only on a profile.
+
 ## Support
 - eight women from overlapping social network;
 - all found in same broader region;
