@@ -303,3 +303,26 @@ The history is context for trust, conflicts, and institutional credibility—not
 - associated court cases / policy changes.
 
 Use this institutional history mainly in Parts 1 and 10.
+
+
+---
+
+## Jesse Ewing — allegations versus final disposition
+
+KPLC's Dec. 19, 2007 reproduction of the Louisiana State Police statement says Ewing admitted:
+- giving confidential investigative information to private investigator Kirk Menard;
+- separate misconduct involving a female inmate.
+
+State Police arrested him on obstruction/malfeasance-related allegations.
+
+KPLC's 2011 retrospective clarifies the final outcome:
+- Ewing pleaded guilty in 2008 to **misdemeanor criminal mischief** connected to the unauthorized transfer of the recordings;
+- the separate inmate-misconduct accusation was later thrown out;
+- he served no jail time and later worked again as a police officer.
+
+Sources:
+https://www.kplctv.com/story/7520844/dec-19th-jennings-city-police-sgt-arrested/
+https://www.kplctv.com/story/14878264/former-jennings-officers-running-for-jd-sheriff/
+
+Series rule:
+Always separate the original State Police allegations/admissions from the final plea disposition.
