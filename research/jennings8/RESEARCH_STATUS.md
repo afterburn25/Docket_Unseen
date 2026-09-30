@@ -27,6 +27,7 @@ Completed:
 - created Brittney/Necole deep-dive dossier, including Family Dollar surveillance timeline, family search, Necole fear statements, I-10 recovery, task-force offender profile, and Danny Barry lead;
 - created relationship-network ledger and Part 6 research plan separating documented social/geographic links from informant/law-enforcement theories;
 - created Frankie Richard/persons-of-interest Part 7 dossier, preserving the conflict between 2007 KPLC arrest reporting and the sheriff's later position;
+- created Part 8 witnesses/informants/later-deaths dossier testing the "knew too much" theory against documented fear, tips, inmate tapes, and later deaths;
 - verified contemporaneous KPLC archive exists for several major events;
 - identified official Showtime YouTube playlist and KPLC video/archive as footage leads.
 
