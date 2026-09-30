@@ -412,6 +412,46 @@ Official theme:
 Timestamped subtitle research:
 https://www.subtitlecat.com/subs/869/5krhgisrhgorghors.html
 
+### ~10:37–12:10 — 2002 jail case / Necole archival interview
+Topics:
+- documentary introduces federal litigation concerning jail misconduct;
+- 2002 criminal case against jail personnel;
+- filmmakers say Terrie Guillory conducted investigative interviews;
+- **Necole Guillory appears as an archival witness/interview subject**.
+
+Use:
+- Part 5;
+- Part 8;
+- Part 10;
+- `2002_JAIL_CORRUPTION.md`.
+
+Critical:
+The strongest factual anchor is not the documentary itself: Associated Press later reviewed state/FBI records and independently reported that Necole was a witness in the 2002 case.
+
+### ~14:28–17:53 — "what the women knew" sequence
+Topics:
+- family says Necole claimed to have witnessed a killing / knew who was responsible;
+- documentary advances the broader "women knew too much" thesis;
+- Muggy/Loretta information claim;
+- Kristen questioning in Loretta case;
+- Muggy witness role in Patterson case;
+- Brittney/Crystal statements reported by later witnesses;
+- Barbara Guillory account that Necole believed police were involved;
+- Brown says a witness warned task force before Necole's death that she might be next.
+
+Use:
+- Part 8;
+- `KNOWLEDGE_AND_INFORMATION_FLOW.md`;
+- `FEAR_AND_FOREKNOWLEDGE.md`.
+
+Critical:
+This sequence mixes:
+1. family statements;
+2. Brown's claimed case-file findings;
+3. documentary interpretation.
+
+Each claim must be independently sourced before narration. Do not present the montage as one established chain of fact.
+
 ### ~03:29 — Boudreaux Inn introduced
 Topics:
 - motel presented as a central unresolved location in Brown's investigation;
