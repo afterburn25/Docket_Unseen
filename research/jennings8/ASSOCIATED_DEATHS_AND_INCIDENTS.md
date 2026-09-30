@@ -166,10 +166,33 @@ Unresolved / disputed:
 
 The primary LSP report makes the shooting substantially less ambiguous than some later summaries: it documents an armed barricade, gunfire from Gunter, and an officer wounded. Any series segment must present those facts before discussing later allegations.
 
+### Sworn testimony: Gunter provided narcotics information
+
+A surviving deposition of Terrie Guillory from `Gunter v. Jefferson Davis Parish` contains sworn testimony that:
+- Steven Gunter had provided **narcotics information to the Jefferson Davis Parish Sheriff's Office**;
+- the Sheriff's Office had also gathered narcotics intelligence about Gunter from other informants;
+- Guillory said he and Detective Danny Sanders had worked narcotics intelligence concerning Gunter.
+
+Surviving deposition:
+https://www.scribd.com/document/465741658/Terrie-Guillory-Deposition
+
+Relevant transcript pages:
+approximately pp. 35–43 of the deposition transcript.
+
+This independently supports the proposition that Gunter had an informant/information relationship with the Sheriff's Office.
+
+It does **not** establish:
+- that Gunter was killed because he was an informant;
+- that his 2007 death was connected to the Jennings 8;
+- that Guillory's shooting of Gunter was unlawful.
+
+The Louisiana State Police investigation and later appellate record must remain the primary sources for the shooting itself.
+
 ### Why it matters
 
 This case may be relevant because:
 - it involves Terrie Guillory, a recurring figure in Brown's broader network theory;
+- sworn testimony confirms Gunter had provided narcotics information to JDPSO;
 - it provides a substantial public legal record;
 - it adds context to claims about police-involved deaths in the same social network.
 
