@@ -304,3 +304,45 @@ Current web search does not surface a live official copy.
 
 Status:
 **DEAD/UNCONFIRMED YOUTUBE ARCHIVE LEAD.**
+
+
+## KATC 2010 Facebook mirror IDs recovered
+
+A preserved 2011 Websleuths media index contains Facebook mirror links for the six-part KATC-TV3 series `Who's Killing Jennings?`.
+
+Recovered historical Facebook video IDs from the link targets:
+- Part 1: `398458558051`
+- Part 2: `398794183051`
+- Part 3: historical index currently resolves to the same ID as Part 1 (`398458558051`), which may be a posting/index error and needs independent verification
+- Part 4: `399514178051`
+- Part 5: historical index currently resolves to the same ID as Part 4 (`399514178051`), which may be a posting/index error and needs independent verification
+- Part 6: `729846903906`
+
+Facebook pages are not currently retrievable through our archive/search tool, but the IDs are useful recovery keys for:
+- direct KATC/Scripps archive inquiry;
+- Internet Archive searches;
+- Facebook archival search;
+- local collectors/family copies.
+
+Preserved KATC segment text from the same historical index:
+
+### Part 1
+Sheriff Ricky Edwards said the investigation was being viewed both collectively and individually and that the word "serial" might be applicable but was not essential to investigative strategy.
+
+### Part 2
+Victim-family / community focus, including Sarah Benoit, Sonya Beard, and Kendra Brown.
+
+### Part 3
+Crime/community context and resident fear.
+
+### Part 4
+North/South Jennings community discussion and South Jennings victim geography.
+
+### Part 5
+Criminal psychologist **Dr. Maurice Godwin** gave an offender-profile interpretation.
+
+### Part 6
+Rumor, mistrust, and tension between residents and law enforcement.
+
+Source:
+Websleuths historical media-link index preserving the original KATC link text and mirror targets.
