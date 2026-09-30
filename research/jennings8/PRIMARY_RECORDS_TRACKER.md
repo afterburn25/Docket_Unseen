@@ -612,3 +612,36 @@ Also seek from 31st JDC / DA:
 - any criminal docket under Nina B. Ravey, 2007–08.
 
 Status: **EXACT LSP CASE NUMBER IDENTIFIED; RECORD NOT YET RECOVERED**
+
+
+---
+
+# 17. FBI Orion / university data-mining project
+
+Peer-reviewed study:
+Helbich, Hagenauer, Leitner & Edwards (2013)
+DOI: 10.1080/15230406.2013.779780
+
+Known:
+- 172 Orion Information Packages tied to Necole were analyzed;
+- task force said results produced previously unknown potential clues;
+- identities/details were withheld due the open investigation.
+
+### Request AB — project/output records
+Ask JPD/JDPSO/LSP/FBI for publicly releasable:
+- correspondence establishing the academic analysis project;
+- nonconfidential presentation/report delivered to the task force;
+- anonymized maps/figures/cluster summaries;
+- lead numbers generated from the analysis;
+- records documenting follow-up of those new leads;
+- whether the planned full eight-case Orion analysis was ever completed.
+
+### Request AC — researcher inquiry
+Contact authors Marco Helbich, Julian Hagenauer, Michael Leitner regarding:
+- nonconfidential supplementary material;
+- task-force presentation;
+- whether full-dataset follow-up research occurred;
+- whether anonymized results can be shared.
+
+Status:
+**PUBLISHED STUDY RECOVERED; NONPUBLIC CLUES/PROJECT OUTPUT NOT YET RECOVERED**
