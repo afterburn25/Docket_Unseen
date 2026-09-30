@@ -333,3 +333,24 @@ No outreach has been sent.
 The publication search still has **not** identified a verified full-eight Jennings Orion follow-up.
 
 A general 2014 chapter, `Building Multi-modal Crime Profiles with Growing Self Organising Maps`, is by different authors (Yee Ling Boo and Damminda Alahakoon) and should not be treated as the promised Jennings follow-up.
+
+---
+
+# Figure/results clarification from parsed paper text
+
+The current web PDF screenshot service failed on the Heidelberg host, so no new visual interpretation of Figures 3–5 was made.
+
+Only the authors' explicit text is used:
+- Cluster 1: 17 IPs.
+- Cluster 2: 11 IPs.
+- Cluster 3: 44 IPs.
+- Other IPs did not map to a distinct cluster.
+- Sex, boyfriend, and blood appeared in the same cluster.
+- Kristen and Brittnei mapped close together; authors concluded those investigations tended to be closely related.
+- Laconia mapped far from them, indicating some difference in that investigation.
+- Anonymized last-name stem ln1 appeared frequently because many people with that surname had been interrogated in Necole's investigation; it was closely related to the Laconia region.
+- Cluster 3's anonymized ln3 stem mapped with Lafayette and an anonymized first name.
+- The three text clusters showed only partial geographic association.
+- The Task Force said the analysis revealed previously unknown information / potentially important clues.
+
+Do not infer masked identities from the figure or surrounding public names.
