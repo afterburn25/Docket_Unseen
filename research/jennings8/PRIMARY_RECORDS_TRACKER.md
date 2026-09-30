@@ -408,3 +408,69 @@ Goal:
 Determine exact procedural disposition rather than speculating from the judgment title.
 
 Status: **DISPOSITION DATE/TITLE IDENTIFIED; JUDGMENT TEXT NOT YET RECOVERED**
+
+
+---
+
+# 13. Jail / bond / custody histories
+
+These records are necessary for genuine lead exclusions.
+
+### Request Q — Frankie Richard
+Dates requested: 01/01/2005–12/31/2009
+Seek:
+- booking dates;
+- release dates;
+- bond status;
+- charge descriptions;
+- transfers.
+
+Known anchor:
+- jailed May 14, 2007 on rape allegation;
+- historical American Press excerpt says released July 30, 2007 after complaint dismissal.
+
+Status: **NOT REQUESTED**
+
+### Request R — Hannah Conner
+Dates requested: May–July 2007
+Seek:
+- booking;
+- release;
+- bond;
+- charge disposition.
+
+Status: **NOT REQUESTED**
+
+### Request S — Tracee Chaisson
+Dates requested: May 2007 onward
+Seek:
+- May 24 accessory-after-fact booking;
+- release/bond;
+- disposition.
+
+Status: **NOT REQUESTED**
+
+### Request T — Byron Chad Jones
+Dates requested: Jan. 2006 through dismissal of Patterson case
+Seek:
+- extradition date;
+- jail intake;
+- bond;
+- release;
+- continuous custody status;
+- dismissal date.
+
+Status: **NOT REQUESTED**
+
+### Request U — Lawrence Nixon
+Dates requested: 2005–2008
+Seek:
+- Patterson-related booking date;
+- bail/custody;
+- release;
+- dismissal date.
+
+Status: **NOT REQUESTED**
+
+Purpose:
+Do not infer continuous custody merely from phrases like "awaiting trial."
