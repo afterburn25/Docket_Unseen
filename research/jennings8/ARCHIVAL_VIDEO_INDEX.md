@@ -346,3 +346,81 @@ Rumor, mistrust, and tension between residents and law enforcement.
 
 Source:
 Websleuths historical media-link index preserving the original KATC link text and mirror targets.
+
+
+## 2009 KPLC special — original ClipIDs recovered
+
+Historical Websleuths media links preserved the exact KPLC Flash-player URLs for all seven segments of `Unsolved: Mystery in Jeff Davis Parish` (Oct. 28, 2009).
+
+These are valuable archive identifiers even though the old player is dead.
+
+### Segment 1
+- KPLC ClipID: **4251573**
+- historical duration parameter: **690000 ms** (~11:30)
+- historical title: `Segment 1 - Unsolved: Mystery in Jeff Davis Parish`
+
+### Segment 2
+- ClipID: **4251624**
+- duration: **364800 ms** (~6:05)
+
+### Segment 3
+- ClipID: **4252178**
+- duration: **335267 ms** (~5:35)
+
+### Segment 4
+- ClipID: **4251707**
+- duration: **273833 ms** (~4:34)
+
+### Segment 5
+- ClipID: **4251759**
+- duration: **722533 ms** (~12:03)
+
+### Segment 6
+- ClipID: **4251783**
+- duration: **323233 ms** (~5:23)
+
+### Segment 7
+- ClipID: **4251802**
+- duration: **181567 ms** (~3:02)
+
+Approximate combined program time from the player metadata:
+**~48 minutes 12 seconds** before/without broadcast commercial time.
+
+Historical player path format:
+`/global/video/flash/popupplayer.asp?ClipID1=[ID]...`
+
+Use these IDs in any KPLC/Gray archive request.
+
+## Necole Guillory surveillance — exact KPLC clip metadata
+
+Article:
+https://www.kplctv.com/story/11030391/jeff-davis-victim-8-on-surveillance-video/
+
+Historical video:
+- KPLC ClipID: **4092905**
+- duration parameter: **155900 ms** (~2:36)
+- title: `Jeff Davis victim #8 on surveillance video`
+- published Sept. 1, 2009.
+
+Article confirms:
+- Kirk Menard's private surveillance captured Necole about two months before her death;
+- family released the video after her death;
+- Menard said the surveillance area on Andrew Street was frequented by most/all of the eight women;
+- purpose was to help people recognize Necole's walk/appearance and generate tips.
+
+This is an especially high-value real-footage asset for Part 5/8.
+
+## Brittney Gary KPLC clip metadata
+
+Historical KPLC media index preserves:
+- ClipID: **3146844**
+- duration parameter: **174267 ms** (~2:54)
+- title: `Jennings teen identified as 7th victim`
+
+The historical media index says this package contains a brief Family Dollar surveillance excerpt at about **1:54**.
+
+Important:
+The clip title suggests it may be the identification package rather than the original missing-person report. Recover the master and verify contents before citing exact timing.
+
+Priority:
+**VERY HIGH**
