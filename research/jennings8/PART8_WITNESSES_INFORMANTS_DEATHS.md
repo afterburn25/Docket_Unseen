@@ -45,7 +45,18 @@ Menard himself cautioned that he was not saying the cover-up claim was true.
 
 ---
 
-# 2. Necole Guillory — fear before death
+# 2. Necole Guillory — fear, prior witness role, and pre-death warning
+
+## Verified 2002 witness role
+Associated Press review of state/FBI records establishes Necole was a witness in the 2002 Jefferson Davis Parish jail misconduct investigation and appears in archival interview footage discussing misconduct inside the facility.
+
+This is one of the strongest **documented information roles** held by any of the eight.
+
+It should be separated from later, unproven claims that her knowledge caused her murder.
+
+See `2002_JAIL_CORRUPTION.md`.
+
+# 2A. Necole Guillory — fear before death
 
 ## Family statement
 
