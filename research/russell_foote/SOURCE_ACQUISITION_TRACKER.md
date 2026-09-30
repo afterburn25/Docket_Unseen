@@ -34,3 +34,6 @@ An item is not marked **ACQUIRED** unless we have the actual record, scan, trans
 | A021 | 1973 Lafayette city map (West Congress/Guilbeau section) | UL Lafayette Dupré Special Collections | Map Case Drawer 7; digitization request | HIGH | IDENTIFIED, NOT ACQUIRED | Best pre-homicide map; call no. LaRm G 4014 .L3 1973 .L3 |
 | A022 | 1970 Lafayette base map | UL Lafayette Dupré Special Collections | Map Case Drawer 7 | MED-HIGH | IDENTIFIED, NOT ACQUIRED | Earlier comparison |
 | A023 | 1975 Lafayette city map | UL Lafayette Dupré Special Collections | Map Case Drawer 7 | MED-HIGH | IDENTIFIED, NOT ACQUIRED | Immediate post-homicide comparison |
+
+| A021 | 1973 Lafayette city map (West Congress/Guilbeau section) | UL Lafayette Dupré Special Collections | Map Case Drawer 7; digitization request | HIGH | REQUEST SENT 2026-09-29 | Gmail thread `1a0f01ac673b5b31`; best pre-homicide map |
+| A024 | November 1974 KLFY report/script/archive material | KLFY News 10 | Newsroom archive inquiry | HIGH | REQUEST SENT 2026-09-29 | Gmail thread `1a0f01acd3555648`; request expressly avoids confidential-source identity |
