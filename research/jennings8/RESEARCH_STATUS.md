@@ -58,6 +58,8 @@ Completed:
 
 - created DNA/forensics ledger documenting 2009 law-enforcement swabbing, unknown public results, decomposition limits, and modern testing questions;
 
+- created alternative-suspects ledger including Jeffery Lee Guillory, a documented outside serial-offender lead considered by the task force;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
