@@ -208,3 +208,25 @@ KPLC produced a multi-episode audio series in 2019 beginning with:
 Need official KPLC feed / audio URLs and transcripts.
 
 This may provide clean original reporter narration/interviews even when old video is unavailable.
+
+
+## Raw KPLC outtake archive — recovery status
+
+KPLC's Jan. 30, 2014 article directly confirms:
+- seven clips existed;
+- they were recovered from an unmarked hard drive;
+- subjects were Tracee Chaisson and Frankie Richard;
+- KPLC posted them publicly.
+
+Historical landing page:
+`https://www.kplctv.com/category/278184/jeff-davis-outtake-video-landing-page`
+
+The current site no longer resolves that category page through our available retrieval path.
+
+A 2014 Websleuths post by a viewer reported roughly:
+- ~45 minutes of Frankie Richard interview footage across three videos;
+- ~15 minutes of Tracee Chaisson interview footage.
+
+That duration breakdown is **community reporting, not KPLC metadata**, so treat it only as a recovery clue.
+
+KPLC's copyright notice applies. If recovered, contact Gray/KPLC for licensing or use only carefully limited transformative excerpts after rights review.
