@@ -22,6 +22,7 @@ Completed:
 - created current-status ledger;
 - created Part 1 foundation dossier;
 - created Loretta/Ernestine deep-dive dossier;
+- created Kristen/Whitnei deep-dive dossier, including Richard/Conner arrest-record discrepancy and truck-evidence issues;
 - verified contemporaneous KPLC archive exists for several major events;
 - identified official Showtime YouTube playlist and KPLC video/archive as footage leads.
 
