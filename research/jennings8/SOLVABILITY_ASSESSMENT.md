@@ -223,3 +223,22 @@ The most useful outcome for the series may be narrower and more credible:
 - identify the exact unresolved evidence that could still break the case.
 
 That would be a serious investigative contribution without falsely accusing anyone.
+
+
+---
+
+## Matrix created
+
+A victim-by-victim comparison is now maintained at:
+
+`research/jennings8/VICTIM_LEAD_MATRIX.md`
+
+The matrix currently suggests several useful analytical directions:
+- named-suspect activity is strongest in the first four cases;
+- fear / foreknowledge becomes especially prominent in the final four;
+- the public one-offender theory is stronger as a **pattern/geography theory** than as a single named-suspect case;
+- the multiple-offender theory is stronger as a **procedural/suspect-cluster theory** than as a proven reconstruction;
+- the largest blockers remain DNA, court files, witness statements, phone/vehicle evidence and informant records.
+
+Next analytical file:
+`LEAD_EXCLUSION_TIMELINE.md` — only after custody/alibi/vehicle records are sufficiently verified.
