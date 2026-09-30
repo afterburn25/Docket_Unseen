@@ -30,3 +30,7 @@ This tracker records what we need, where it can be obtained, and whether the ite
 ## Status discipline
 
 An item is not marked **ACQUIRED** unless we have the actual record, scan, transcript, or authoritative copy—not merely a later article saying it existed.
+
+| A021 | 1973 Lafayette city map (West Congress/Guilbeau section) | UL Lafayette Dupré Special Collections | Map Case Drawer 7; digitization request | HIGH | IDENTIFIED, NOT ACQUIRED | Best pre-homicide map; call no. LaRm G 4014 .L3 1973 .L3 |
+| A022 | 1970 Lafayette base map | UL Lafayette Dupré Special Collections | Map Case Drawer 7 | MED-HIGH | IDENTIFIED, NOT ACQUIRED | Earlier comparison |
+| A023 | 1975 Lafayette city map | UL Lafayette Dupré Special Collections | Map Case Drawer 7 | MED-HIGH | IDENTIFIED, NOT ACQUIRED | Immediate post-homicide comparison |
