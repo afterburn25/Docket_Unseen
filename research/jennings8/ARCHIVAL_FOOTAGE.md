@@ -230,3 +230,20 @@ A 2014 Websleuths post by a viewer reported roughly:
 That duration breakdown is **community reporting, not KPLC metadata**, so treat it only as a recovery clue.
 
 KPLC's copyright notice applies. If recovered, contact Gray/KPLC for licensing or use only carefully limited transformative excerpts after rights review.
+
+
+## KPLC current archive/contact routes
+
+Official current KPLC contact page lists:
+- newsroom: **news@kplctv.com**
+- news desk: **337-437-7568**
+- general: **337-439-9071**
+- address: **320 Division Street, Lake Charles, LA 70601**
+
+KPLC's archive-copy page historically states written dub requests can be made for news stories, while KPLC retains video rights and commercial reuse is restricted unless separately authorized.
+
+Sources:
+https://www.kplctv.com/about-us/
+https://www.kplctv.com/story/16635466/copies-of-news-stories/
+
+For Docket Unseen, request **licensing / authorized documentary use**, not merely a personal-viewing dub.
