@@ -372,3 +372,44 @@ Chapter Five subtitle index places this sequence at approximately:
 - documentary/family discussion turns to Necole's claimed knowledge/fear regarding the later murders.
 
 These are **research locators**, not primary findings. Use official records/AP for factual narration and the Showtime clip only as licensed archival footage.
+
+
+---
+
+## Federal docket recovered — Hubbard v. Edwards
+
+CourtListener/RECAP now confirms the modern federal docket:
+
+**Hubbard v. Edwards**  
+**2:03-cv-00333**  
+U.S. District Court, Western District of Louisiana  
+Filed: **Feb. 21, 2003**  
+Terminated: **Nov. 12, 2004**
+
+CourtListener docket:
+https://www.courtlistener.com/docket/11975237/hubbard-v-edwards/
+
+This resolves the older citation `CV-33-0333` used in later civil-rights materials.
+
+### Internet Archive federal-record mirror
+
+A search-indexed Internet Archive document exists at:
+
+`gov.uscourts.lawd.14792.63.0.pdf`
+
+The file header identifies:
+- Case: **2:03-cv-00333-PM-APW**
+- Document: **63**
+- Filed: **11/12/2004**
+- one page
+
+This is the same date CourtListener lists as the case termination date.
+
+Important:
+The PDF contents have **not** been successfully retrieved/read in the current research environment. Do not label Document 63 a judgment, dismissal, settlement, or final order until the text is recovered.
+
+Archive URL lead:
+https://archive.org/download/gov.uscourts.lawd.14792/gov.uscourts.lawd.14792.63.0.pdf
+
+Status:
+**DOCKET ID / FILING DATE CONFIRMED; DOCUMENT 63 CONTENT UNRECOVERED.**
