@@ -454,6 +454,23 @@ This may be the single most important immediate lead in her case.
 - profile is not identification evidence;
 - Sheriff Ivy Woods later emphasized not all deaths had officially been ruled homicides / linked to one killer.
 
+### Documented knowledge lead — 2002 jail witness
+
+**RECORD-BASED SECONDARY / CONTEMPORANEOUS COURT CONTEXT**
+- AP's review of state/FBI records establishes Necole was a witness in a 2002 Jefferson Davis Parish jail misconduct investigation.
+- KPLC later documented pleas by three former correction officers from that investigation.
+- This gives Necole a verified prior information link to local institutional misconduct.
+
+### Analytical limitation
+- no public evidence currently shows her 2002 witness role was a motive for her 2009 homicide;
+- the gap is causal evidence: threats, later contact, named concerns, or task-force motive analysis.
+
+### Critical missing evidence
+- Necole's original 2002 statement/interview;
+- FBI/LSP investigative files;
+- whether 2009 task force reviewed the 2002 history;
+- any later threat or contact related to that case.
+
 ## Lead C — fear / police-involvement belief
 
 ### Supporting information
