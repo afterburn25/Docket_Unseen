@@ -26,8 +26,9 @@ Louisiana R.S. 44:3 currently provides that the initial report of the officer(s)
 > This request is for historical research concerning an unsolved homicide and is not intended to interfere with any active investigation.
 
 ### Request tracker
-- Sent: **NOT YET SENT**
-- Custodian response:
+- Sent: **2026-09-29**
+- Gmail message/thread ID: `1a0f019a38045505`
+- Custodian response: **PENDING**
 - Incident number:
 - Fees quoted:
 - Records received:
@@ -178,8 +179,9 @@ The department states it creates a fire report for all emergency responses and c
 > Electronic production is preferred if possible.
 
 ### Request tracker
-- Sent: **NOT YET SENT**
-- Response:
+- Sent: **2026-09-29**
+- Gmail message/thread ID: `1a0f019aa41b1b4b`
+- Response: **PENDING**
 - Incident number(s):
 - Fees:
 - Records received:
