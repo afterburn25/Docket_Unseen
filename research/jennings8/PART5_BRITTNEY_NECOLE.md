@@ -280,6 +280,21 @@ Need:
 - children's privacy handling;
 - personal photos/rights.
 
+## Necole's earlier documented role in a law-enforcement misconduct case
+
+Associated Press reviewed state/FBI records and reported that Necole, then 19, was a **witness in the 2002 Jefferson Davis Parish jail corruption investigation**.
+
+AP also reported that archival footage shows Necole speaking with investigators about misconduct and contraband inside the jail.
+
+The 2002 investigation led to criminal charges against multiple former jail officers.
+
+This is a major factual addition:
+Necole had firsthand involvement as a witness in a documented law-enforcement misconduct investigation years before the Jennings deaths.
+
+It does **not** prove that case was related to her later homicide.
+
+See `2002_JAIL_CORRUPTION.md`.
+
 ## Necole predicted she would die
 
 KPLC Aug. 2010 quoted her mother Barbara Guillory:
