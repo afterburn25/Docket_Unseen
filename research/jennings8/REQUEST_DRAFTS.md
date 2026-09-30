@@ -426,3 +426,33 @@ If any portion is withheld, please identify the applicable statutory basis and p
 Thank you.
 
 See `LOUISIANA_PUBLIC_RECORDS_STRATEGY.md` for current statutory notes.
+
+
+---
+
+# Draft M — Public coroner's report
+
+Subject:
+Public coroner's report request — [victim name]
+
+Body:
+
+Hello,
+
+Pursuant to Louisiana R.S. 44:19(E)(3), I am requesting a copy of the public coroner's report for:
+
+[full name]
+Date of death/body recovery: [date]
+Approximate recovery location: [location]
+
+I am specifically requesting the public coroner's report containing cause and manner of death and the other information described by R.S. 44:19(E)(3).
+
+I am not requesting autopsy photographs or confidential medical-history information.
+
+Electronic production is preferred.
+
+If your office is not the custodian, please let me know, if possible, which office has custody of the coroner record.
+
+Please advise of any copying fee before production.
+
+Thank you.
