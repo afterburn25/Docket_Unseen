@@ -80,10 +80,12 @@ This does not prove evidence in the eight murders was intentionally destroyed, b
 ## 3. Jesse Ewing and the inmate recordings
 
 ### Documented timeline
-KPLC published a Louisiana State Police statement on December 19, 2007 saying:
-- Jennings Police Sgt. Jesse Ewing released confidential information to civilian private investigator Kirk Menard;
+KPLC reproduced a Louisiana State Police statement on Dec. 19, 2007 saying:
+- Jennings Police Sgt. Jesse Ewing released confidential information to civilian PI Kirk Menard;
 - the material related to an ongoing investigation by another agency;
-- State Police arrested Ewing on obstruction/malfeasance-related allegations.
+- State Police said Ewing admitted giving the information to the civilian investigator and characterized that as obstructing the integrity of the investigation;
+- State Police also said Ewing admitted separate misconduct involving a female inmate;
+- Ewing surrendered and was arrested.
 
 KPLC's next-day reporting said:
 - two female inmates had requested to speak to Ewing about the four then-known deaths;
@@ -91,9 +93,15 @@ KPLC's next-day reporting said:
 - Menard delivered the recordings to the FBI and Louisiana Attorney General's Office;
 - Menard explicitly cautioned that he was not claiming the cover-up allegation was true.
 
-KPLC later reported Ewing pleaded guilty in 2008 to misdemeanor criminal mischief after the case was reduced.
+Final public disposition reported by KPLC in 2011:
+- Ewing pleaded guilty in 2008 to **misdemeanor criminal mischief** over turning over the recordings without permission;
+- the separate inmate-misconduct accusation was later thrown out;
+- Ewing received no jail time and later returned to law-enforcement work.
 
 Ewing publicly maintained that he believed he had done the right thing.
+
+Important:
+Do not describe Ewing as convicted of obstruction, malfeasance, or inmate misconduct. Those were earlier allegations/charges; the reported final plea was misdemeanor criminal mischief.
 
 ### Why it matters
 This is a real, documented incident in which alleged cover-up information existed inside law enforcement and the officer who removed it from normal channels was prosecuted for doing so.
