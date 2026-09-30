@@ -454,3 +454,36 @@ Supports:
 - Danny Barry/Brittney witness allegation;
 - broader documentary interviews.
 Quality: SECONDARY SUMMARY OF SHOWTIME / BROWN; attribute.
+
+
+### Louisiana Board of Ethics — official opinions repository
+https://ethics.la.gov/EthicsOpinion/welcome.aspx?cr=1
+Supports:
+- official state repository for post-1997 Board opinions;
+- primary retrieval route for Warren Gary Opinion 2007-489.
+Quality: PRIMARY OFFICIAL PORTAL.
+
+### Jefferson Davis Parish Clerk of Court — Civil, Criminal, Probate
+https://www.jeffdavisclerk.org/civilCriminal
+Supports:
+- Clerk is custodian of criminal bills of information/indictments, motions, minutes, exhibits;
+- copy/search availability and contact.
+Quality: PRIMARY OFFICIAL.
+
+### 31st Judicial District Court
+https://www.31stjdc.org/
+Supports:
+- court jurisdiction and current contact.
+Quality: PRIMARY OFFICIAL.
+
+### Jefferson Davis Parish District Attorney
+https://jeffdavisda.org/
+Supports:
+- current DA office / contact.
+Quality: PRIMARY OFFICIAL.
+
+### FBI FOIA
+https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/freedom-of-information-privacy-act
+Supports:
+- federal records request process.
+Quality: PRIMARY OFFICIAL.
