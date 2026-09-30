@@ -112,6 +112,8 @@ Completed:
 
 - created person-centric opportunity/source-density map showing where recurring names genuinely connect to victim cases and where links stop; explicitly not a guilt/probability ranking;
 
+- 2002 jail case now documented with Necole witness role, contemporaneous KPLC plea dispositions, Phillips case numbers CR-706-02 / CR-711-02-2, and AP-reported one-year sentence; causal link to 2009 death remains unproven;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
