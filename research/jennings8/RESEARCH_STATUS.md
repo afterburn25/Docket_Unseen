@@ -47,7 +47,10 @@ Completed:
 
 ## Next research batch
 
-### Primary-record acquisition priority
+#- created dedicated Leonard Crochet / Harvey Burleigh dossier;
+- created Boudreaux Inn dossier separating primary-record needs from Brown/media claims;
+
+## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
 - 2007 Jesse Ewing court/State Police records;
