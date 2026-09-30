@@ -271,3 +271,50 @@ When a request is sent, add:
 - files received;
 - restrictions / licensing terms;
 - GitHub location of stored summary.
+
+
+---
+
+# Draft I — Multi-agency Task Force Report by exact case numbers
+
+Send separately to:
+- City of Jennings / Jennings Police Department
+- Jefferson Davis Parish Sheriff's Office
+- Louisiana State Police
+
+Subject:
+Public records request — Jeff Davis 8 Task Force Report / K-06184-08 / 2008110110 / 09-576
+
+Body:
+
+Hello,
+
+I request publicly releasable and reasonably segregable portions of the multi-agency investigative/task-force report concerning the Jeff Davis 8 / Jennings 8 investigations identified in public legal filings under these agency case numbers:
+
+- Jennings Police Department **K-06184-08**
+- Jefferson Davis Parish Sheriff's Office **2008110110**
+- Louisiana State Police **09-576**
+
+A July 8, 2020 federal civil-rights submission publicly cites this report using those case numbers and specifically references pages 46 and 104.
+
+I understand that portions of an active homicide investigation may be exempt from disclosure. I therefore request:
+
+1. any non-exempt or segregable portions of the report;
+2. pages 46 and 104 if releasable;
+3. any cover sheet, index, agency roster, report metadata, lead index, or administrative material not exempt from disclosure;
+4. any portions previously disclosed publicly or to third parties;
+5. if records are withheld, identification of the applicable statutory exemption(s) and production of all reasonably segregable non-exempt portions.
+
+Electronic copies are preferred.
+
+Please advise of fees before processing.
+
+Thank you.
+
+Jennings City public-record form:
+https://www.cityofjennings.com/?mdocs-file=3643
+City records email:
+cityhall@cityofjennings.com
+
+Louisiana State Police online Public Records Request:
+https://louisianadps.govqa.us/
