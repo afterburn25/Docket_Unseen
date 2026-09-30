@@ -102,3 +102,13 @@ New repository files:
 ### Immediate research priority
 
 Before adding new suspect theories, exhaust the digitized 1974 newspaper record and obtain the LPSO/fire initial reports. Contemporary reporting may resolve dates, names, scene descriptions, public statements, and investigative chronology that later retellings blur together.
+
+
+## Scene Reconstruction Update
+
+UL Lafayette Special Collections has been identified as a strong primary-era map source. A 1973 Lafayette city map (plus 1970 and 1975 comparison maps) can be used to reconstruct West Congress/Guilbeau as it existed when Russell Foote was killed.
+
+Created:
+- `SCENE_GEOSPATIAL.md`
+
+The 2018 KPEL description that West Congress was "Route 1" in 1974 remains **unverified** and should not be repeated as established fact until checked against the historical maps/road records.
