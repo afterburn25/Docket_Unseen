@@ -113,16 +113,144 @@ Official Paramount theme:
 - four more victims are discovered;
 - Ethan Brown becomes interested in the case.
 
-Timestamp extraction: **PENDING**
+Subtitle research index:
+https://www.subtitlecat.com/subs/201/Chapter%20Two%20Death%20on%20Me.html
 
-Priority topics to index:
-- Muggy Brown;
-- Crystal Zeno;
-- Brittney Gary;
-- Necole Guillory;
-- family fear statements;
-- task-force formation;
-- Brown's entry into the case.
+**Timing note:** the SubtitleCat page exposes the subtitle sequence but not usable timecodes in our current retrieval. The windows below are approximate positions estimated from subtitle order across the 56-minute episode. Verify against the actual Paramount/Showtime master before licensing or editing.
+
+### ~00:00–08:30 — Tracee Chaisson / Frankie Richard interview material
+Topics:
+- Tracee says she gave detectives a false story implicating Frankie Richard and Hannah Conner;
+- Tracee says she later recanted;
+- Richard denies killing Kristen and describes his relationship to her;
+- both criticize aspects of the investigation.
+
+Use:
+- Part 3 / Part 7 / contradictions ledger.
+
+Critical:
+These are interview claims, not adjudicated findings.
+
+### ~09:00–13:30 — Muggy Brown / fear before death
+Topics:
+- Racca Road recovery;
+- family describes Muggy as believing she might be next;
+- family recounts a final conversation in which Muggy asked that her child be cared for if something happened;
+- family questions why Officer Michael Janise was at the recovery location;
+- documentary family claims concerning body condition.
+
+Use:
+- Part 4;
+- fear/foreknowledge thread.
+
+Verify:
+- KPLC June 2008 family interview;
+- discovery report / patrol log;
+- autopsy/coroner;
+- alleged informant relationship.
+
+### ~20:30–24:30 — Crystal Zeno
+Topics:
+- severe decomposition;
+- DNA identification;
+- family confusion over how authorities suspected Crystal before formal identification;
+- family victim-centered biography;
+- social/drug-network context.
+
+Use:
+- Part 4.
+
+Verify:
+- missing-person timeline;
+- DNA identification record;
+- autopsy;
+- scene report.
+
+### ~25:30–31:30 — Brittney Gary disappearance, search, recovery
+Topics:
+- Family Dollar / last-seen context;
+- Teresa Gary's missing-person plea;
+- family-organized search;
+- body discovery;
+- family/funeral victim-shaming concerns.
+
+Use:
+- Part 5.
+
+Verify:
+- original KPLC Family Dollar package;
+- surveillance;
+- search logs;
+- scene/autopsy.
+
+Note:
+Some graphic family descriptions of decomposition appear in this sequence. Docket Unseen should not use graphic detail merely for shock value.
+
+### ~35:30–39:15 — Brittney aftermath / reporter conflict
+Topics:
+- family criticism of search response;
+- local reporter says Sheriff Edwards told him a story may have contributed to Brittney's death;
+- reporter describes losing confidence / backing away from the story.
+
+Use:
+- Part 5 / Part 10 / Part 11.
+
+Critical:
+This is the reporter's recollection of a private conversation and is explicitly described as "he said/she said." Do not present it as an established sheriff statement without corroboration.
+
+### ~39:20–44:55 — Task-force formation and public confrontation
+Topics:
+- Edwards announces permanent multi-agency task force;
+- eight to ten people assigned full-time;
+- FBI, State Police, AG and surrounding sheriffs named;
+- victim families publicly criticize lack of communication;
+- community cover-up accusations appear;
+- Edwards publicly denies any cover-up;
+- discussion of local sheriff control over task force.
+
+Use:
+- Parts 6, 9, 10.
+
+Verify:
+- KPLC Dec. 18, 2008 press-conference record;
+- task-force roster/budget;
+- family contemporaneous coverage.
+
+### ~44:55–50:45 — Necole Guillory
+Topics:
+- missing report and near-simultaneous I-10 body discovery;
+- family says Necole believed she could become a victim;
+- birthday prediction;
+- family-released surveillance footage referenced;
+- I-10 recovery;
+- family grief;
+- later allegation that Necole believed police were involved;
+- law enforcement says officer-specific leads would be referred to outside agencies.
+
+Use:
+- Part 5;
+- fear/foreknowledge;
+- Part 8;
+- Part 10.
+
+Verify:
+- KPLC Aug. 2009 reporting;
+- original surveillance;
+- missing-person report;
+- task-force report;
+- exact family interview source;
+- outside-agency referral records.
+
+### ~50:50–56:00 — National attention / Brown enters
+Topics:
+- national-media framing;
+- small-town case gains wider attention;
+- Brown describes becoming interested in 2011;
+- Brown rejects the simple serial-killer model;
+- transition toward Warren Gary truck / misconduct themes used in Chapter 3.
+
+Use:
+- Part 11 / transition to Part 12.
 
 Use contemporary KPLC whenever it can replace a later retelling.
 
