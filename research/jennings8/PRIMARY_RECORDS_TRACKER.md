@@ -491,3 +491,64 @@ Status: **NOT REQUESTED**
 
 Purpose:
 Do not infer continuous custody merely from phrases like "awaiting trial."
+
+
+---
+
+# 14. 2002 Jefferson Davis Parish jail corruption records
+
+### Request V — Eric Myron Phillips criminal files
+Known 31st JDC case numbers:
+- **CR-706-02**
+- **CR-711-02-2**
+
+Request:
+- bills of information;
+- plea minutes;
+- final judgment;
+- sentencing minute/judgment;
+- State Police investigative exhibits if filed;
+- dismissal/amendment records on individual counts.
+
+Status: **CASE NUMBERS IDENTIFIED; SURVIVING MINUTE-ENTRY COPY LOCATED; FINAL CERTIFIED FILE NOT REQUESTED**
+
+### Request W — Allarate "A.J." Frank / Jacquelyn Varner
+Request:
+- criminal docket numbers;
+- charging instruments;
+- plea/sentencing minutes;
+- judgments.
+
+Status: **PLEAS DOCUMENTED BY KPLC; COURT FILES NOT REQUESTED**
+
+### Request X — Hubbard v. Edwards federal case
+Known:
+- `Hubbard v. Edwards`
+- No. **2:03-CV-033** / **CV-33-0333**
+- W.D. Louisiana
+
+Request:
+- docket sheet;
+- complaint;
+- complaint of intervention;
+- Oct. 20, 2004 plaintiffs' pretrial statement;
+- dismissal/settlement documents;
+- public exhibits.
+
+Status: **CASE IDENTIFIED THROUGH 2020 FEDERAL CIVIL-RIGHTS FILING; DIRECT DOCKET NOT YET RECOVERED**
+
+### Request Y — Necole Guillory 2002 witness interview
+Request from appropriate custodian(s):
+- state investigative interview recording;
+- transcript;
+- FBI interview/302 if any and releasable;
+- witness statement;
+- references identifying interview date and agency.
+
+Potential custodians:
+- Louisiana State Police;
+- FBI FOIA;
+- 31st JDC / filed exhibits;
+- Showtime/Paramount archival licensing for documentary copy.
+
+Status: **AP CONFIRMS INTERVIEW/FOOTAGE EXISTS; ORIGINAL RECORD NOT YET OBTAINED**
