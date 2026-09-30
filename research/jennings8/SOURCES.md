@@ -864,3 +864,20 @@ https://cases.justia.com/federal/appellate-courts/ca5/05-31137/920070208/0.pdf
 Supports:
 - Feb. 8, 2007 dismissal of interlocutory severance/joinder appeal.
 Quality: FIFTH CIRCUIT OPINION COPY.
+
+
+### KPLC / Louisiana State Police — Nina Ravey arrest
+https://www.kplctv.com/story/7520889/dec-19th-woman-arrested-after-investigation-into-medical-records/
+Supports:
+- Dec. 19, 2007 LSP arrest;
+- investigation originated from complaint concerning jail correctional officer;
+- State Police allegation concerning medical records.
+Quality: CONTEMPORANEOUS KPLC REPRINT OF LSP RELEASE.
+
+### PJI 2020 filing — Nina Ravey source roadmap
+https://static1.squarespace.com/static/5fe0e9cce6e50722511b03cc/t/6002475ef3d9ba77658dc2bc/1610762080196/2020.07.08-Jefferson-Davis-Parish-CRIPA-Complaint-1-1.pdf
+Supports:
+- citation to LSP Case 08-8 dated Feb. 11, 2008;
+- claim no criminal prosecution followed;
+- citation to Donald Woods July 19, 2007 letter.
+Quality: ADVOCACY FILING / RECORD-LOCATOR; underlying LSP/DA records preferred.
