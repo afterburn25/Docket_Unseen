@@ -255,3 +255,45 @@ The relevant citations appear in the July 8, 2020 PJI federal submission:
 https://static1.squarespace.com/static/5fe0e9cce6e50722511b03cc/t/6002475ef3d9ba77658dc2bc/1610762080196/2020.07.08-Jefferson-Davis-Parish-CRIPA-Complaint-1-1.pdf
 
 This filing is advocacy, not a neutral factual adjudication. Its footnotes are valuable principally because they expose the identifiers/pages of underlying records.
+
+
+## Knowledge-chain pages / statements still to locate
+
+The following claims should be searched inside any recovered task-force report version or lead index:
+
+1. **Muggy / Loretta**
+   - Brown says a task-force report recorded a witness saying Muggy saw Loretta's body in the canal before official discovery.
+   - Brown published a short quotation from the report in his 2016 excerpt.
+
+2. **Kristen / Loretta**
+   - Brown says Kristen was interrogated/questioned in Loretta's case.
+   - Need interview-report page and date.
+
+3. **Muggy / Ernestine**
+   - Brown says Muggy was interviewed as a witness in Patterson's investigation.
+   - Need interview-report page and lead disposition.
+
+4. **Brittney / Whitnei**
+   - Chapter Five narration says Brittney publicly said Frankie Richard killed Whitnei.
+   - Underlying witness/task-force page not yet identified.
+
+5. **Crystal / Muggy**
+   - Chapter Five narration says Crystal told Brittney she knew who killed Muggy.
+   - Underlying witness/task-force page not yet identified.
+
+6. **Necole pre-death warning**
+   - Brown says a witness warned the task force months before Necole's death that she feared she would be next.
+   - Underlying report/page not yet identified.
+
+When requesting the report, ask agencies to search/index for:
+- Laconia Brown
+- Loretta Chaisson
+- Kristen Gary Lopez
+- Ernestine Patterson
+- Brittney Gary
+- Whitnei Dubois
+- Crystal Zeno
+- Necole Guillory
+- Frankie Richard
+
+If the full report is withheld, ask whether lead-index metadata can identify page/report numbers for those names.
