@@ -92,6 +92,9 @@ Completed:
 
 - created case-clustering analysis combining Orion results, prosecution clusters, disposal patterns, fear/information pathways, and institutional links while explicitly separating investigative clusters from offender clusters;
 
+- created machine-readable case graph under `data/jennings8/` and ran a documented-only A/B evidence pass;
+- documented-only graph shows no single individual publicly connects strongly across most victims without relying on C-tier later investigative reporting; Kristen has the richest public investigative record and Necole the richest information/intelligence record;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
