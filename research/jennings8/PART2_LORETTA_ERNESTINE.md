@@ -322,3 +322,57 @@ Victim, last days, discovery, undetermined cause, informant claims, Frankie Rich
 Victim, homicide, Jones/Nixon prosecution, witness case, delayed forensic work, collapse of charges.
 
 Do not compress if the court file supports a deep Ernestine episode.
+
+
+---
+
+# 2016 Lawrence Nixon homicide-information agreement — published appellate record
+
+A major later legal record appears in **State of Louisiana v. Lawrence Nixon**, 52,202-KA (La. App. 2 Cir. Aug. 15, 2018).
+
+Published opinion:
+https://law.justia.com/cases/louisiana/second-circuit-court-of-appeal/2018/52-202-ka.html
+
+The court states:
+- in October 2016, Nixon entered an agreement signed by the **Jefferson Davis Parish District Attorney** and a Jackson Parish assistant DA;
+- prosecutors agreed to dismiss a pending habitual-offender bill if Nixon gave **credible information about an unsolved homicide from roughly ten years earlier**;
+- Jefferson Davis Parish investigator **Chris Myers** testified at the enforcement hearing;
+- Myers said Nixon had been questioned about **the murder** around ten years earlier;
+- Nixon's 2016 interview lasted about 28 minutes;
+- Nixon discussed a suspect and said the suspect had a **box cutter**;
+- investigators concluded Nixon's new information was too general/inconsistent to be useful;
+- the court upheld denial of Nixon's request to enforce the agreement.
+
+## Why this matters
+
+This is a **published appellate decision**, not later documentary retelling.
+
+It proves that:
+- as late as 2016, Jefferson Davis Parish prosecutors were still actively trying to obtain homicide information from Nixon;
+- the homicide was one Nixon had been questioned about roughly a decade earlier;
+- prosecutors considered possible future homicide liability seriously enough that the interview referenced how any homicide conviction could run relative to his drug sentence.
+
+## Important identification limit
+
+The appellate opinion **does not name the homicide victim**.
+
+Because:
+- Nixon had been formally prosecuted in Ernestine Patterson's 2005 death;
+- the opinion says he had been questioned roughly ten years earlier about "the murder";
+
+the context **strongly suggests** the agreement may have concerned Patterson.
+
+However, Docket Unseen must not state that as fact until one of these is obtained:
+1. the written October 2016 agreement;
+2. the 28-minute interview video;
+3. Chris Myers hearing testimony/transcript;
+4. trial-court motion-to-enforce record.
+
+Status:
+**PRIMARY LEGAL RECORD + STRONG BUT UNCONFIRMED PATTERSON INFERENCE.**
+
+## New investigative question
+
+Who was the "suspect" Nixon described in 2016, and why did he mention a box cutter?
+
+Do not publish a name unless the underlying interview or hearing record identifies the person.
