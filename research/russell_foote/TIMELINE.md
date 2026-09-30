@@ -38,3 +38,12 @@ This timeline will be revised as primary records are acquired. Source IDs refer 
 - date(s) of grand-jury presentation;
 - dates and authority for physical-evidence destruction;
 - dates and scope of 2017–present investigative activity.
+
+
+## Newly Corroborated / Narrowed Research Points
+
+- **Scene window:** KPEL's May 21, 2018 reporting says officials placed the killing between approximately **8:00 and 8:30 a.m.** This remains secondary until checked against the initial report.
+- **Road description:** KPEL describes the vehicle as being in the middle of the then-two-lane West Congress roadway and refers to it as "Route 1." Project: Cold Case places the vehicle near Guilbeau Street. These descriptions should be reconciled against the 1974 report/map before geospatial analysis.
+- **2018 investigation:** KPEL reports Kevin Foote and Daily Advertiser news director Kristen Askelson spent roughly a year and a half compiling the 2018 investigation.
+- **Grand-jury timing lead:** Kevin Foote's later detailed account says a bank witness testified before a grand jury in **November 1974**. This is a family/journalistic account and gives us a narrower archive window, not a verified grand-jury date.
+- **Case-file reconstruction:** Kevin Foote's account says retired Capt. Allen Venable reconstructed a working file from interview transcripts found across other files and that Kevin received a copy shortly before a planned access hearing. This needs confirmation from the file itself or LPSO administrative records.
