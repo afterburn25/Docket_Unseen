@@ -136,6 +136,8 @@ This connection is relevant to access/social-network analysis, not proof of homi
 - A&E / Washington Post / Oxygen describe Richard as socially connected to many or all of the women.
 - Richard acknowledged knowing them and denied killing them.
 - Contemporaneous KPLC in 2007 said his name had surfaced in multiple early cases.
+- KPLC quoted Sheriff Edwards saying Richard had been seen with at least **three of the first four women** in the days before their deaths.
+- KNOE reported in 2017 that Richard had relationships with **six of the eight victims** and was the last person to see at least **two** of them alive, without naming the two in that sentence.
 - Richard became a recurring person of interest.
 
 Status:
