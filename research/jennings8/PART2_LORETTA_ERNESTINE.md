@@ -376,3 +376,22 @@ Status:
 Who was the "suspect" Nixon described in 2016, and why did he mention a box cutter?
 
 Do not publish a name unless the underlying interview or hearing record identifies the person.
+
+
+---
+
+# Byron Chad Jones — later status
+
+A 2024 obituary for **Byron "Chad" Jones** of the Jennings/Lake Arthur area gives:
+- date of birth: **August 23, 1973**;
+- date of death: **September 5, 2024**.
+
+Source:
+https://www.legacy.com/us/obituaries/name/byron-jones-obituary?id=56252036
+
+The birth year is consistent with KPLC's report that the Patterson suspect was 32 when apprehended in January 2006, and the full name/geographic area align.
+
+Status:
+**STRONG BIOGRAPHIC MATCH / DECEASED 2024.**
+
+This affects current interview possibilities but says nothing about responsibility for Patterson's death.
