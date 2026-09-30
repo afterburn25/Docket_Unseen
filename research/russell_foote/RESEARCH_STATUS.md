@@ -81,3 +81,24 @@ The project now has two parallel tracks:
 4. avoid duplicating records already held by the family.
 
 The family-cooperation track could potentially unlock far more than ordinary public-record requests, but no outreach should be sent without explicit project authorization.
+
+
+## Research Update — Free 1974 Newspaper Archive Located
+
+A major source-acquisition improvement was identified:
+
+**Lafayette Public Library's free digital archive contains the Daily Advertiser for 1974–1978 (58,135 pages) and the Sunday Advertiser for 1974–1978 (25,880 pages).**
+
+New repository files:
+- `SOURCE_ACQUISITION_TRACKER.md` — item-by-item acquisition/status board.
+- `OUTREACH_PLAN.md` — non-accusatory records/family/archive outreach strategy.
+
+`ARCHIVE_TARGETS.md` now includes four structured 1974 search passes:
+1. May homicide coverage;
+2. April fire coverage;
+3. financial-investigation coverage;
+4. October–December grand-jury/arson follow-up.
+
+### Immediate research priority
+
+Before adding new suspect theories, exhaust the digitized 1974 newspaper record and obtain the LPSO/fire initial reports. Contemporary reporting may resolve dates, names, scene descriptions, public statements, and investigative chronology that later retellings blur together.
