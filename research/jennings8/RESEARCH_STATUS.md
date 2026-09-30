@@ -83,6 +83,8 @@ Completed:
 
 - recovered exact multi-agency task-force report identifiers (JPD K-06184-08 / JDPSO 2008110110 / LSP 09-576) plus cited pages 46 and 104; this is now a top records-acquisition target;
 
+- recovered sworn Terrie Guillory deposition confirming Steven Gunter had provided narcotics information to JDPSO; this strengthens the informant-network context but does not establish a murder connection;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
