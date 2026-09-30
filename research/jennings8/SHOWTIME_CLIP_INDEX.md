@@ -249,11 +249,78 @@ Official theme:
 - families still seek answers;
 - Brown examines what the women may have known and why the cases remain unsolved.
 
-Timestamp extraction: **PENDING**
+Timestamped subtitle research:
+https://www.subtitlecat.com/subs/869/5krhgisrhgorghors.html
+
+### ~03:29 — Boudreaux Inn introduced
+Topics:
+- motel presented as a central unresolved location in Brown's investigation;
+- questions about what management/law enforcement knew.
+
+Use:
+- Part 1;
+- Part 10;
+- Boudreaux Inn dossier.
+
+### ~31:25–32:31 — "Big G" / lease discovery
+Topics:
+- Brown investigates the identity of "Big G";
+- Brown says he pulled a Boudreaux Inn lease;
+- Brown says the lease named Martin Guillory.
+
+Use:
+- Part 10;
+- political/institutional section.
+
+Verify:
+- obtain actual lease/property/business record.
+
+### ~32:46–34:16 — Martin Guillory phone response
+Topics:
+- Brown contacts Guillory;
+- Guillory denies knowing of criminal activity at the inn;
+- he responds to questions about people associated with the motel.
+
+Use:
+- statement-versus-claim editing.
+
+### ~34:57 onward — Boustany controversy begins
+Topics:
+- Brown's disputed political/sex-work allegations;
+- connection through Martin Guillory.
+
+### ~36:25–36:36 — field-representative connection
+Topics:
+- Brown states the man he identified as operating the inn later served as a Boustany field representative.
+
+### ~38:20–39:18 — Martin Guillory response
+Topics:
+- denial / response regarding Boustany and the motel/women.
+
+### ~39:21–39:47 — evidentiary caution
+Topics:
+- law-enforcement commentary emphasizes that an allegation/source statement is information, not proof.
+
+This is particularly useful for Docket Unseen's own methodology.
+
+### ~39:51–41:16 — Boustany public denial
+Topics:
+- Boustany campaign/public response;
+- disputed allegations rejected.
+
+### ~41:50–42:18 — Brown limits the allegation
+Topics:
+- Brown explicitly separates the alleged political/sex-work connection from homicide involvement;
+- he does **not** claim Boustany committed or participated in the murders.
+
+Use:
+- Part 10 / Part 11;
+- important safeguard against overstating the political thread.
 
 Likely use:
 - Parts 10–13;
 - Boudreaux Inn;
+- political controversy;
 - later theories / legacy.
 
 ---
