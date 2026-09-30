@@ -217,3 +217,27 @@ A fair framing for Docket Unseen is:
 That is a question the series can investigate.
 
 It is **not** currently an established conclusion.
+
+
+## 2002 jail misconduct prosecution — documented institutional context
+
+Associated Press reporting based on state/FBI records establishes that Necole Guillory was a witness in a 2002 Jefferson Davis Parish jail misconduct investigation.
+
+Contemporaneous KPLC reported that three former correction officers later entered pleas:
+- Eric Myron Phillips — no contest to felony malfeasance in office;
+- Allarate John Franks — no contest to criminal mischief;
+- Jacquelyn Lennett Varner — guilty to criminal mischief.
+
+AP later reported Phillips was sentenced to one year in prison.
+
+Why it matters:
+- this is proven institutional-history context, not simply a later rumor;
+- it shows Necole had firsthand involvement in a real misconduct investigation;
+- it helps explain why later family distrust of law enforcement deserves examination.
+
+What it does **not** prove:
+- that the 2002 defendants were involved in the Jennings 8;
+- that Necole was killed because of the 2002 case;
+- that a coordinated cover-up existed.
+
+See `JAIL_2002_CASE.md`.
