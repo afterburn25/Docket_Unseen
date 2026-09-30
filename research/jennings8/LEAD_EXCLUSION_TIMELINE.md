@@ -212,6 +212,15 @@ https://www.espn.com.au/college-football/story/_/id/28435399/travis-etienne-read
 | Brittney | **UNKNOWN** |
 | Necole | **UNKNOWN** |
 
+Later Louisiana appellate decisions from unrelated 2012 drug cases provide an additional historical corroboration:
+- Nixon's presentence history listed a prior **manslaughter charge** among his arrests;
+- the opinion does not give a usable 2005–07 custody period for that charge;
+- therefore it corroborates the existence of a prior manslaughter arrest/charge but **cannot be used as a custody exclusion**.
+
+Sources:
+https://law.justia.com/cases/louisiana/second-circuit-court-of-appeal/2017/51-319-ka.html
+https://law.justia.com/cases/louisiana/second-circuit-court-of-appeal/2018/52-202-ka.html
+
 Need:
 - arrest date;
 - bail status;
