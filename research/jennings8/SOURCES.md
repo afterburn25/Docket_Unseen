@@ -273,3 +273,35 @@ Supports:
 - Danny Barry allegations;
 - informant/law-enforcement relationship claims.
 Quality: INVESTIGATIVE SECONDARY; claims attributed to Brown.
+
+
+### KPLC — Unedited video released from 2009 special report
+https://www.kplctv.com/story/24594268/unedited-video-released-from-2009-special-report-on-jeff-davis-murders/
+Supports:
+- existence of seven raw KPLC interview clips with Tracee Chaisson and Frankie Richard;
+- subpoena/court dispute over raw footage;
+- KPLC's later public release decision.
+Quality: CONTEMPORANEOUS/ARCHIVAL LOCAL SOURCE.
+
+### KPLC — Jeff Davis Unsolved Mysteries video series (2019)
+https://www.kplctv.com/video/2019/05/20/jeff-davis-unsolved-mysteries-part-vi/
+Supports:
+- KPLC-produced video retrospective;
+- archival footage source lead.
+Quality: LOCAL NEWS VIDEO.
+
+### KPLC — Brittney Gary Family Dollar surveillance
+https://www.kplctv.com/story/9326888/surveillance-shows-last-moments-before-jennings-teens-disappearance/
+https://www.kplctv.com/story/9301809/jennings-mother-fears-worst-in-daughters-disappearance/
+Supports:
+- surveillance timing;
+- Brittney alone at Family Dollar;
+- contemporaneous family/police search comments.
+Quality: CONTEMPORANEOUS LOCAL.
+
+### Paramount+ — Murder in the Bayou
+https://www.paramountplus.com/shows/murder-in-the-bayou/
+Supports:
+- official five-episode series availability and descriptions;
+- footage/interview source lead.
+Quality: OFFICIAL DISTRIBUTOR / SECONDARY DOCUMENTARY.
