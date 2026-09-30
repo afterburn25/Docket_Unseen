@@ -999,3 +999,23 @@ Supports:
 - Jennings/Lake Arthur identity context;
 - death 09/05/2024.
 Quality: FUNERAL-HOME OBITUARY / BIOGRAPHIC SOURCE.
+
+
+### KPLC — Dec. 19, 2007 Louisiana State Police statement on Jesse Ewing
+https://www.kplctv.com/story/7520844/dec-19th-jennings-city-police-sgt-arrested/
+Supports:
+- State Police description of unauthorized release of confidential investigative information;
+- State Police statement regarding Ewing's interview/admissions;
+- arrest and booking.
+Quality: CONTEMPORANEOUS LOCAL REPRODUCING OFFICIAL STATE POLICE STATEMENT.
+
+### KPLC — Former Jennings police officer running for Jeff Davis sheriff
+https://www.kplctv.com/story/14878264/former-jennings-officers-running-for-jd-sheriff/
+Published June 2011.
+Supports:
+- final 2008 plea to misdemeanor criminal mischief;
+- no jail time;
+- separate inmate-misconduct accusation later thrown out;
+- Ewing's explanation of inmate recordings / alleged cover-up;
+- later return to law-enforcement work.
+Quality: LATER LOCAL RETROSPECTIVE WITH DIRECT EWING INTERVIEW.
