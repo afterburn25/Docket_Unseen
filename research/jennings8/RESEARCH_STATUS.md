@@ -56,6 +56,8 @@ Completed:
 
 - created contradictions/gaps ledger to preserve conflicts between contemporary reporting, later official statements, and documentary retellings;
 
+- created DNA/forensics ledger documenting 2009 law-enforcement swabbing, unknown public results, decomposition limits, and modern testing questions;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
