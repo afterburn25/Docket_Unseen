@@ -980,3 +980,22 @@ Supports:
 - more crime-lab submissions;
 - current-investigations context under Sheriff Kyle Miers.
 Quality: PRIMARY CURRENT OFFICIAL SOURCE.
+
+
+### KNOE — ArkLaMiss Mysteries: Who killed the Jeff Davis 8?
+https://www.knoe.com/content/news/ArkLaMiss-Mysteries-Who-killed-the-Jeff-Davis-8-420659733.html
+Published 2017.
+Supports:
+- Richard said he knew all the women;
+- KNOE reported he had relationships with six of the eight;
+- KNOE reported he was the last person to see at least two victims alive.
+Quality: INDEPENDENT REGIONAL BROADCAST SECONDARY SOURCE.
+
+### Byron Chad Jones obituary
+https://www.legacy.com/us/obituaries/name/byron-jones-obituary?id=56252036
+Published Sept. 2024.
+Supports:
+- DOB 08/23/1973;
+- Jennings/Lake Arthur identity context;
+- death 09/05/2024.
+Quality: FUNERAL-HOME OBITUARY / BIOGRAPHIC SOURCE.
