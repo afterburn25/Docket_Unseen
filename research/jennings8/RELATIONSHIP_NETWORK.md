@@ -119,6 +119,17 @@ Do not state "all eight worked at Boudreaux Inn" unless primary records support 
 
 ---
 
+## Brittney Gary ↔ Frankie Richard / Teresa Gary exploitation allegation
+
+The 2020 PJI filing cites Taskforce Report page 46 for its characterization that Teresa Gary told investigators she and Frankie Richard were involved in Brittney's exploitation/trafficking.
+
+Status:
+**PJI CHARACTERIZATION OF UNDERLYING TASK-FORCE MATERIAL — PAGE 46 NOT YET OBTAINED.**
+
+Use a dashed/attributed relationship line only until the report is recovered.
+
+This connection is relevant to access/social-network analysis, not proof of homicide.
+
 # 4. Frankie Richard
 
 ## Documented / strongly reported connections
