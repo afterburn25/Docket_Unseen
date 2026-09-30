@@ -942,7 +942,22 @@ Request/recover:
 - settlement/dismissal documents;
 - any publicly filed witness statements / State Police exhibits.
 
-Status: **CASE NUMBER / FILING DATES IDENTIFIED — PUBLIC DOCKET NOT YET RECOVERED**
+Status: **FEDERAL DOCKET IDENTIFIED IN COURTLISTENER — DOCUMENT CONTENT PARTLY UNRECOVERED**
+
+Recovered:
+- modern docket: **2:03-cv-00333**
+- CourtListener docket ID: **11975237**
+- filed: 02/21/2003
+- terminated: 11/12/2004
+- Internet Archive mirror path exists for Document 63, filed 11/12/2004
+
+Still needed:
+- full docket entries;
+- complaint;
+- complaint of intervention;
+- pretrial statement;
+- termination Document 63 text;
+- settlement/dismissal terms if any.
 
 
 ### Official submission route — Louisiana State Police
@@ -967,3 +982,20 @@ Lake Charles Clerk:
 - 337-437-3870
 
 Use party-name/case-locator search if the historical citation `CV-33-0333` does not map cleanly to modern CM/ECF numbering.
+
+
+### Hubbard federal docket recovery keys
+
+CourtListener docket:
+https://www.courtlistener.com/docket/11975237/hubbard-v-edwards/
+
+Modern docket:
+**2:03-cv-00333**
+
+Internet Archive item/file lead:
+https://archive.org/download/gov.uscourts.lawd.14792/gov.uscourts.lawd.14792.63.0.pdf
+
+Document 63:
+- filed 11/12/2004
+- same date CourtListener lists case termination
+- content not yet read/recovered.
