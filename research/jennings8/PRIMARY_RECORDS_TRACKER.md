@@ -815,3 +815,45 @@ Purpose:
 - civil docket/exhibits.
 
 Status: **IDENTIFIERS RECOVERED; THIRD-PARTY LSP COPY ALREADY AVAILABLE**
+
+
+---
+
+# 14. FBI Orion / prior FOIA requests / data-mining outputs
+
+Academic research confirms the task force used the FBI-maintained Orion database for Jennings 8 "Information Packages."
+
+Known prior FBI FOIA log entries:
+
+### FOIA 1442165
+- Subject: Jeff Davis 8
+- Opened: 07/17/2019
+
+### FOIA 1560355
+- Subject: Jennings 8/Jeff Davis 8
+- Opened: 09/16/2022
+
+Official FBI Vault logs confirm both request numbers.
+
+### Request V — previously processed FBI material
+Ask FBI FOIA whether records already processed/released under 1442165 and/or 1560355 can be reproduced or whether responsive releasable records can be processed under a new request.
+
+Suggested scope:
+- public/administrative task-force records;
+- press/reward materials;
+- task-force participation documents;
+- Orion system administrative records for Jennings 8;
+- non-exempt records concerning the 2013 academic data-mining collaboration;
+- final/publicly releasable products from that collaboration.
+
+Do not request the identities behind masked research codes as a shortcut around active-investigation protections.
+
+Status: **PRIOR FOIA NUMBERS IDENTIFIED — NEW REQUEST NOT SENT**
+
+### Request W — all-victim data-mining status
+Ask JDPSO/FBI only for public status:
+- whether the 2013 Necole-only analysis was later expanded to all eight;
+- whether the original analytical output is preserved;
+- whether the current 2024–26 cold-case re-review is using modern text/network/geospatial analysis.
+
+Status: **NOT REQUESTED**
