@@ -552,3 +552,38 @@ Potential custodians:
 - Showtime/Paramount archival licensing for documentary copy.
 
 Status: **AP CONFIRMS INTERVIEW/FOOTAGE EXISTS; ORIGINAL RECORD NOT YET OBTAINED**
+
+
+---
+
+# 15. Multi-agency Jeff Davis 8 Task Force Report
+
+Exact identifiers recovered from a 2020 federal civil-rights filing:
+
+- Jennings Police Department: **K-06184-08**
+- Jefferson Davis Parish Sheriff's Office: **2008110110**
+- Louisiana State Police: **09-576**
+
+Known cited pages:
+- page **46**
+- page **104**
+
+See:
+`TASKFORCE_REPORT_IDENTIFIERS.md`
+
+### Request Z — report from all three custodians
+
+Send matched requests to:
+- City of Jennings / JPD;
+- JDPSO;
+- LSP.
+
+Ask for:
+- full releasable report;
+- pages 46 and 104;
+- segregable portions;
+- report index / metadata / cover;
+- any previously disclosed portions.
+
+Status:
+**EXACT CASE NUMBERS IDENTIFIED; NOT YET REQUESTED**
