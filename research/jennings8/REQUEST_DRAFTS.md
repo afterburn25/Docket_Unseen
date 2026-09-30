@@ -593,3 +593,114 @@ I am not requesting confidential informant identities or protected active-invest
 Electronic copies are preferred.
 
 Thank you.
+
+
+---
+
+# Louisiana State Police GovQA portal — WDD010102 / WDD010102C
+
+Official current LSP/DPS Public Records Center:
+https://louisianadps.govqa.us/WEBAPP/_rs/supporthome.aspx
+
+Louisiana State Police's official site links directly to this portal under **Public Records Request**.
+
+## Draft — 2002 jail investigation
+
+Subject:
+**Public records request — LSP WDD010102 and WDD010102C**
+
+Body:
+
+Hello,
+
+I am requesting copies of publicly releasable records from the Louisiana State Police Bureau of Investigations concerning the following identified files:
+
+1. **WDD010102**, dated approximately November 26, 2002; and
+2. **WDD010102C**, described in later federal civil-rights materials as a follow-up investigation concerning malfeasance in office / misconduct at the Jefferson Davis Parish jail, dated approximately November 27, 2002.
+
+I am especially seeking, to the extent publicly releasable:
+
+- the main investigative reports and supplements;
+- index/list of witness interviews;
+- final investigative disposition / referral memoranda;
+- records reflecting criminal referrals to the Jefferson Davis Parish District Attorney;
+- records of interviews or written statements given by **Necole Jean Guillory** in connection with this investigation;
+- any segregable non-exempt administrative or disposition material if portions of the investigative files remain exempt.
+
+This request concerns a 2002 investigation that resulted in criminal prosecutions and pleas. I understand that personal/private information may require redaction and that some material may remain exempt.
+
+Electronic copies are preferred.
+
+If fees will exceed $50, please provide an estimate before processing.
+
+Thank you.
+
+## Request handling note
+
+Use the current DPS GovQA portal rather than sending the request to the Department of Corrections public-record address. The State Police website itself routes its public-record requests through the DPS GovQA system.
+
+Status:
+**REQUEST READY — NOT SENT**
+
+
+---
+
+# Western District of Louisiana — Hubbard v. Edwards / CV-33-0333
+
+Official PACER information:
+https://www.lawd.uscourts.gov/cmecf-pacer
+
+Official court FAQ confirms:
+- non-sealed records scanned from 1999 forward can be accessed through PACER;
+- public case data can also be viewed at Clerk's Office terminals.
+
+Because Jefferson Davis Parish falls within the Lake Charles area, the nearest/current divisional Clerk's Office is:
+
+**United States District Court — Western District of Louisiana, Lake Charles**
+611 Broad St.
+Lake Charles, LA 70601
+Phone: **337-437-3870**
+
+Official:
+https://www.lawd.uscourts.gov/content/lake-charles
+
+## Draft — locate 2003 civil docket
+
+Subject:
+**Historical civil docket inquiry — Hubbard v. Edwards, filed Feb. 21, 2003**
+
+Body:
+
+Hello,
+
+I am attempting to locate a Western District of Louisiana civil case cited in later federal civil-rights materials as:
+
+**Hubbard v. Edwards**
+filed approximately **February 21, 2003**
+cited as **No. CV-33-0333**
+
+The historical citation format may not match the current CM/ECF case-number format.
+
+Could the Clerk's Office please confirm:
+
+1. the full modern docket/case number;
+2. the assigned division/judge;
+3. whether the case is available electronically through PACER;
+4. the final disposition / closure date.
+
+If available, I am interested in obtaining the non-sealed:
+- complaint;
+- complaint of intervention filed around Dec. 11, 2003;
+- plaintiffs' pretrial statement filed around Oct. 20, 2004;
+- final settlement/dismissal/judgment documents.
+
+I am not requesting sealed records.
+
+Thank you.
+
+## PACER path
+
+The Western District states that civil case indices from 1990 forward and scanned records from 1999 forward are generally available through PACER if non-sealed. If the historical citation does not resolve directly, use the PACER Case Locator by party name or contact the Lake Charles Clerk.
+
+Status:
+**LOCATION PROCEDURE VERIFIED — DOCKET NUMBER STILL NEEDS CONFIRMATION**
