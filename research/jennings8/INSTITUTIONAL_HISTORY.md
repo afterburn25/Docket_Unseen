@@ -182,6 +182,55 @@ The underlying misconduct allegations remain **ALLEGATIONS**, not adjudicated fi
 
 ---
 
+## Amie v. City of Jennings — 2003–2007 federal employment/civil-rights litigation
+
+Case:
+**Martha Amie et al. v. City of Jennings**, W.D. La. No. **2:03-cv-02011**
+
+A July 26, 2005 federal district-court ruling found, for purposes of the plaintiffs' motion:
+- the City had not exercised reasonable care to prevent and promptly correct sexual harassment in the Jennings Police Department;
+- there had been no effective sexual-harassment policy or training system during the relevant period;
+- supervisors had not received adequate training;
+- the plaintiffs had reasonably used available reporting mechanisms;
+- the City was therefore **not entitled to the Faragher/Ellerth affirmative defense**.
+
+Public ruling:
+https://app.midpage.ai/document/amie-v-jennings-1000017467898
+
+The ruling expressly referenced an earlier April 6, 2005 memorandum finding that:
+- there was no effective policy/training in place;
+- the City had dealt with complaints individually rather than through a systematic response.
+
+### Fifth Circuit appeals
+
+The City attempted interlocutory appeals.
+
+Fifth Circuit:
+- **No. 05-30855**, March 3, 2006 — dismissed for lack of appellate jurisdiction;
+- **No. 05-31137**, Feb. 8, 2007 — another interlocutory appeal concerning joinder/separate trials dismissed for lack of jurisdiction.
+
+Sources:
+https://www.ca5.uscourts.gov/opinions/unpub/05/05-30855.0.wpd.pdf
+https://cases.justia.com/federal/appellate-courts/ca5/05-31137/920070208/0.pdf
+
+Important:
+The appeals did **not** reverse the district court's institutional findings; they were dismissed as premature/non-final appeals.
+
+### Why this matters
+
+This gives Docket Unseen a judicially documented institutional fact:
+> during the early-2000s period immediately preceding the Jennings 8 killings, a federal court found serious deficiencies in the City of Jennings' system for preventing/responding to workplace harassment inside its police department.
+
+What it does **not** establish:
+- murder involvement;
+- evidence tampering;
+- misconduct in a specific Jennings 8 homicide investigation.
+
+Status:
+**FEDERAL COURT RULING / INSTITUTIONAL CONTEXT.**
+
+---
+
 ## Why this belongs in the series
 
 A fair statement is:
