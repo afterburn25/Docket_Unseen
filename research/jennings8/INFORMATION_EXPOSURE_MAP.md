@@ -287,7 +287,21 @@ Unknown:
 
 ## EXPOSURE
 
-If the statement was made publicly, exposure could have been high.
+### Exploitation-network allegation
+The 2020 PJI filing cites Taskforce Report page 46 for its allegation that Teresa Gary told investigators that she and Frankie Richard were involved in Brittney's exploitation/trafficking.
+
+If the underlying page confirms that characterization, it would show Brittney existed inside a network where adults potentially knew:
+- her movements;
+- her social contacts;
+- whom she trusted;
+- and possibly what she was saying about earlier deaths.
+
+This is an **access/exposure fact pattern**, not evidence those adults killed her.
+
+The underlying page remains unrecovered.
+
+### Alleged Whitnei statement
+If the statement naming someone in Whitnei's death was made publicly, exposure could have been high.
 
 But the word "publicly" currently comes from documentary narration, not the underlying report.
 
