@@ -82,3 +82,44 @@
 11. Original KLFY/KATC/KPLC broadcast archive references from 1974.
 12. 2018 Daily Advertiser full investigative series and associated photos/documents.
 13. Any public court/docket records related to the reported grand-jury presentation or subsequent related prosecutions.
+
+
+### S008 — KPEL News (2018; later republished)
+**Class:** B/C  
+**Title:** "Louisiana Family Still Has No Justice After His Father Was Murdered"  
+**Author:** Bernadette Lee  
+**Original publication:** May 21, 2018  
+**URL:** https://kpel965.com/louisiana-man-unsolved-fathers-murder/
+
+**Useful because:** reports that Foote was found in the middle of the then-two-lane West Congress roadway (described by KPEL as "Route 1"), places the homicide window between approximately 8:00 and 8:30 a.m. "according to officials," and confirms that Kevin Foote and Daily Advertiser news director Kristen Askelson worked roughly a year and a half on the 2018 investigation.
+
+**Caution:** derivative/retrospective reporting. Use the original LPSO report for exact time and location.
+
+### S009 — Lafayette Fire Department: Request a Fire Report
+**Class:** A for present records process  
+**URL:** https://www.lafayettela.gov/emergencies-public-safety/fire-department/request-a-fire-report/
+
+**Useful because:** states that Lafayette Fire Department creates a fire report for emergency responses and currently provides initial fire reports through its records office. The page lists 337-291-8700 and LafayetteFire@LafayetteLA.gov. It separately states that an investigative report and/or arrest report requires a subpoena under current department procedure.
+
+### S010 — In re: Israel Trestman (La. App. 4 Cir. 2001)
+**Class:** A — published judicial decision  
+**URL:** https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2001/2000-ka-1367-1.html
+
+**Useful because:** discusses the Louisiana R.S. 44:3(F) mechanism permitting immediate family of a person who died by other than natural causes at least ten years earlier to obtain access to investigative material after the required district-court approval.
+
+### S011 — Daily Advertiser main 2018 investigation — known URL
+**Class:** B — archive target  
+**Title:** "Cold case: The unsolved murder of a Louisiana Red Cross director"  
+**Authors:** Kristin Askelson and Kevin Foote  
+**Published:** May 17, 2018  
+**Known URL:** https://www.theadvertiser.com/story/news/local/2018/05/17/unsolved-murder-lafayettes-red-cross-director-russell-foote/600487002/
+
+The live article is currently difficult to retrieve through the research browser, but the URL and article ID are preserved through contemporaneous links and search indexing. Acquire a complete licensed/archive copy before relying on it for detailed factual claims.
+
+### S012 — Daily Advertiser video — known URL
+**Class:** B — archive target  
+**Title:** "Unforgotten: Kevin Foote talks his father's murder"  
+**Published:** May 16, 2018  
+**Known URL:** https://www.theadvertiser.com/videos/news/2018/05/16/unforgotten-kevin-foote-talks-his-fathers-murder/609034002/
+
+Preserve for archive/licensing request. KPEL's 2018 article links directly to this video URL.
