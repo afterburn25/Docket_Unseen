@@ -969,3 +969,14 @@ Supports:
 - investigators found Nixon's information too general/inconsistent.
 Quality: PUBLISHED LOUISIANA APPELLATE DECISION / PRIMARY LEGAL RECORD.
 Important: opinion does not identify the homicide victim.
+
+
+### JDPSO — The First Year Recap
+https://www.jdpso.org/press-releases/first-year-recap
+Posted July 2, 2025.
+Supports:
+- over 1,000 investigator hours on the eight unsolved cases since July 2024;
+- approximately 700 pages of reports;
+- more crime-lab submissions;
+- current-investigations context under Sheriff Kyle Miers.
+Quality: PRIMARY CURRENT OFFICIAL SOURCE.
