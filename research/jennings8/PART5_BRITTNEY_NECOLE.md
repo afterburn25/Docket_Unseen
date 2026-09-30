@@ -136,6 +136,35 @@ KPLC Nov. 16 says Brittney had a family relationship to one prior victim; later 
 Need:
 - family genealogy/statement confirming exact relationship.
 
+## Task-force page 46 — exploitation/trafficking allegation
+
+The 2020 Promise of Justice Initiative federal submission says:
+- Brittney, a minor, was being exploited/trafficked;
+- Teresa Gary told investigators that she and Frankie Richard were involved in that exploitation;
+- PJI cites **Taskforce Report page 46** under:
+  - JPD K-06184-08
+  - JDPSO 2008110110
+  - LSP 09-576
+- PJI also cites Brown's book p. 130.
+
+Source:
+https://static1.squarespace.com/static/5fe0e9cce6e50722511b03cc/t/6002475ef3d9ba77658dc2bc/1610762080196/2020.07.08-Jefferson-Davis-Parish-CRIPA-Complaint-1-1.pdf
+
+Status:
+**ADVOCACY FILING CHARACTERIZATION OF AN UNDERLYING TASK-FORCE PAGE.**
+
+Important:
+- Docket Unseen has not yet reviewed page 46 itself;
+- the allegation may have additional context/qualification;
+- it should not be stated as an established finding until the underlying task-force report is obtained.
+
+Investigative relevance if confirmed:
+- could identify adults with direct access/control over Brittney;
+- could explain how information about her movements circulated;
+- could deepen the social-network relationship between Brittney and Richard.
+
+It does **not** establish homicide involvement.
+
 ## Danny Barry allegation
 
 Later Ethan Brown / Showtime reporting says:
