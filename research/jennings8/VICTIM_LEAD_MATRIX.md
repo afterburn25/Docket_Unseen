@@ -574,3 +574,20 @@ It must **not** be used to say:
 > "This person is the killer"
 
 without conclusive official/adjudicated evidence.
+
+
+---
+
+# Custody / availability cross-check
+
+A separate conservative custody/exclusion analysis is maintained at:
+
+`research/jennings8/LEAD_EXCLUSION_TIMELINE.md`
+
+Current hard finding:
+- **Jeffery Lee Guillory is excluded from victims 5–8 by incarceration beginning Jan. 25, 2008.**
+
+Current non-finding:
+- public arrest/trial reports are not sufficient to claim continuous-custody exclusions for Jones, Nixon, Richard, Conner, or Tracee without jail/bond records.
+
+Use the exclusion file before making any statement that a person "could not have committed" a specific death.
