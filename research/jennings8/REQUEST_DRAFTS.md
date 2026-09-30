@@ -336,3 +336,27 @@ If an agency invokes an active-investigation exemption for the full report, send
 > If any requested page is withheld in full, please identify the specific statutory basis for withholding it.
 
 This narrower request is justified because pages 46 and 104 have already been specifically referenced in a publicly available federal civil-rights submission.
+
+
+---
+
+# Draft J — Orion academic-research follow-up
+
+Public institutional contacts verified:
+
+### Dr. Marco Helbich — Utrecht University
+- m.helbich@uu.nl
+- https://www.uu.nl/staff/MHelbich
+
+### Prof. Michael Leitner — Louisiana State University
+- mleitne@lsu.edu
+- https://www.lsu.edu/ga/people/faculty/michael-leitner/
+
+Purpose:
+Ask whether the planned full Jennings Orion dataset analysis ever occurred and whether a nonconfidential task-force presentation / anonymized output survives.
+
+Use the full draft in:
+`ORION_RESEARCHER_OUTREACH.md`
+
+Status:
+**DRAFTED — NOT SENT**
