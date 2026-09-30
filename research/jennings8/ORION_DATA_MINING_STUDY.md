@@ -287,3 +287,33 @@ Then clarify:
 > "The published research masked names because the murders remained open."
 
 This is compelling without speculating about the hidden identities.
+
+
+---
+
+# Follow-up publication search — 2026-09-29
+
+A targeted search of later publications by the same researchers has **not identified a verified publication reporting a full all-eight Jennings Orion analysis**.
+
+Important publication-language difference:
+
+## AutoCarto 2012
+The conference paper explicitly says:
+- only the 172 Necole IPs were analyzed;
+- if useful, the authors **planned** to rerun the approach using the entire Orion dataset.
+
+## Peer-reviewed 2013 paper
+The final paper confirms:
+- the Necole analysis produced new relationships useful to the task force.
+
+But its published future-research section discusses applying/evaluating the method on **collective-surveillance information and solved crime cases from LSU Police**, rather than reporting that the full Jennings dataset had been analyzed.
+
+This does not prove the full Jennings analysis never happened internally.
+
+It means:
+> **No published full-eight follow-up has yet been verified.**
+
+A later 2014 publication titled `Building Multi-modal Crime Profiles with Growing Self Organising Maps` appears to be a general criminal-profile/data-mining methodology work by different authors and has not been verified as a Jennings follow-up.
+
+Next step:
+See `ORION_RESEARCHER_OUTREACH.md`.
