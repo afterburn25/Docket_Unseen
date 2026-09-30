@@ -1058,3 +1058,21 @@ https://www.lawd.uscourts.gov/content/can-i-access-your-records-online
 Supports:
 - non-sealed/restricted cases with scanned documents from 1999 forward can be accessed via PACER.
 Quality: PRIMARY OFFICIAL.
+
+
+### CourtListener / RECAP — Hubbard v. Edwards
+https://www.courtlistener.com/docket/11975237/hubbard-v-edwards/
+Supports:
+- modern docket **2:03-cv-00333**;
+- W.D. Louisiana;
+- filed 02/21/2003;
+- terminated 11/12/2004.
+Quality: FEDERAL PACER/RECAP DOCKET METADATA.
+
+### Internet Archive — Hubbard v. Edwards federal Document 63
+https://archive.org/download/gov.uscourts.lawd.14792/gov.uscourts.lawd.14792.63.0.pdf
+Search-indexed header supports:
+- Case 2:03-cv-00333-PM-APW;
+- Document 63;
+- filed 11/12/2004.
+Quality: FEDERAL COURT DOCUMENT MIRROR LEAD; CONTENT NOT YET RECOVERED/READ.
