@@ -88,6 +88,26 @@ Connection to eight deaths unproven.
 
 ## Core facts
 
+A surviving **70-page Louisiana State Police investigation report** for the June 9, 2007 shooting is publicly accessible in an uploaded archive.
+
+The report states:
+- Louisiana State Police West District Detectives were asked by Sheriff Ricky Edwards to investigate the police-involved shooting at **507 Bliss Street, Lake Arthur**;
+- Lake Arthur Police initially responded to a disturbance involving Steven Gunter;
+- officers/deputies said Gunter barricaded himself with a weapon;
+- JDSO deputies deployed chemical agents;
+- the State Police synopsis says Gunter fired multiple rounds and one round struck an officer in the arm;
+- Deputy **Terrie Guillory** returned fire with a Remington 870 12-gauge shotgun;
+- the coroner pronounced Gunter dead at 2:53 p.m.;
+- the later death certificate listed cause as **shotgun wounds of the trunk, right arm, and left leg**;
+- LSP seized Guillory's shotgun, clothing, scene evidence, and interviewed involved officers/witnesses;
+- the report records Guillory's law-enforcement history and statement.
+
+Archive lead:
+https://www.scribd.com/document/465742999/Terrie-Guillory-2007-Shooting-pdf
+
+Important:
+This is a surviving copy of an LSP case report uploaded by Ethan Brown, not the State Police's current official-hosted copy. A direct LSP-certified copy remains preferable.
+
 Published Louisiana Court of Appeal case:
 **Gunter v. Jefferson Davis Parish**, 84 So.3d 705 (La. App. 3 Cir. 2012), No. 11-1018.
 
@@ -131,14 +151,20 @@ https://promiseofjustice.org/news/2020/07/08/the-promise-of-justice-initiative-d
 
 Established:
 - police-involved death;
-- civil litigation and appellate ruling;
-- Terrie Guillory among defendants/participants in the event;
-- multiple law-enforcement agencies involved.
+- LSP investigation;
+- Gunter was armed with a .22-caliber rifle according to the LSP investigation;
+- LSP says Gunter fired and an officer was wounded;
+- Terrie Guillory fired the shotgun that delivered fatal wounds;
+- coroner/death certificate records cause as shotgun wounds;
+- civil litigation and appellate ruling followed;
+- multiple law-enforcement agencies were involved.
 
 Unresolved / disputed:
 - whether Gunter's death had any relationship to the Jennings 8;
-- whether alleged forensic irregularities support misconduct;
+- whether later advocacy claims identify material contradictions in the LSP report or scene evidence;
 - whether Gunter possessed information relevant to the eight.
+
+The primary LSP report makes the shooting substantially less ambiguous than some later summaries: it documents an armed barricade, gunfire from Gunter, and an officer wounded. Any series segment must present those facts before discussing later allegations.
 
 ### Why it matters
 
