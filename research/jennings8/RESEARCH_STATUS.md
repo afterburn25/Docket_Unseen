@@ -79,6 +79,8 @@ Completed:
 
 - created official task-force position timeline showing the shift from "killer or killers" to a common-offender working model while preserving the no-exclusive-suspect language;
 
+- added dedicated 2002 jail-corruption dossier; AP records review confirms Necole Guillory was a witness years before her death, materially strengthening her documented information role without proving motive;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
