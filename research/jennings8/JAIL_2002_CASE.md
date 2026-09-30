@@ -275,3 +275,100 @@ This material belongs in:
 - possibly Part 8B / institutional associated cases.
 
 It may deserve its own substantial segment because it is one of the rare places where a victim's prior connection to law-enforcement misconduct is supported by records rather than retrospective rumor.
+
+
+---
+
+## Exact Louisiana State Police case identifiers
+
+The 2020 Promise of Justice Initiative CRIPA request cites the underlying Louisiana Department of Public Safety and Corrections / Office of State Police files by exact number:
+
+### WDD010102
+**Louisiana Department of Public Safety and Corrections, Office of State Police, Bureau of Investigations**  
+Case Number: **WDD010102**  
+Date cited: **Nov. 26, 2002**
+
+The filing cites this case repeatedly for findings from the jail investigation.
+
+### WDD010102C
+**Malfeasance in Office / Sexual Conduct with Inmates — Follow-Up Investigation Requested by District Attorney's Office**  
+Case Number: **WDD010102C**  
+Date cited: **Nov. 27, 2002**
+
+The filing cites this follow-up report for the prosecution evidence concerning Eric Phillips.
+
+These identifiers are now the preferred State Police public-record request keys.
+
+Source locator:
+Promise of Justice Initiative CRIPA request, pp. 6–7 and footnotes 42, 46–63.
+
+Important:
+PJI is an advocacy filing. The **existence and identifiers of the cited State Police files** are record leads; the underlying files should be obtained before adopting PJI's legal characterizations.
+
+---
+
+## Federal civil case identifiers tied to the 2002 jail investigation
+
+The same CRIPA filing cites:
+
+### Hubbard v. Edwards
+- **No. CV-33-0333**
+- Western District of Louisiana
+- Complaint filed **Feb. 21, 2003**
+
+### Complaint of Intervention
+- cited as **No. 2:03 CV 033**
+- filed **Dec. 11, 2003**
+
+### Pretrial Statement of Plaintiffs
+- **No. CV-33-0333**
+- filed **Oct. 20, 2004**
+
+### Other cited filings in CV-33-0333
+- Memorandum in Support of Motion to Set Aside Entry of Default — Aug. 15, 2003
+- Motion to Withdraw as Counsel — Dec. 30, 2003
+- Motion to Withdraw as Counsel — Mar. 5, 2004
+- Motion to Withdraw as Counsel — Jul. 19, 2004
+
+These citations strongly indicate the civil case produced a substantial federal record containing witness allegations and references to the State Police investigation.
+
+Current gap:
+the RECAP/PACER docket has not yet been recovered through public web search.
+
+---
+
+## Necole's statements — source hierarchy
+
+### Strongest neutral secondary source
+Associated Press reviewed the newly surfaced state/FBI records and reported that:
+- Necole was a witness in the 2002 case;
+- investigators interviewed her when she was 19;
+- she described contraband and misconduct inside the jail;
+- her interview appears in archival footage used by Showtime.
+
+### Advocacy filing detail
+PJI further states that Necole:
+- gave interviews and written statements to the sheriff's office;
+- her account was accompanied by corroborating letters among detained people.
+
+This detail should be attributed to PJI until WDD010102/WDD010102C or the civil-case record is obtained.
+
+---
+
+## Showtime clip locator — Necole's 2002 witness history
+
+Chapter Five subtitle index places this sequence at approximately:
+
+### 10:37–12:10
+- federal jail-misconduct litigation introduced;
+- 2002 malfeasance prosecution discussed;
+- documentary states Terrie Guillory was not yet warden but participated in investigative interviews;
+- Necole identified as one of the witnesses.
+
+### 13:44–14:07
+- Barbara Guillory describes Necole's relationship with the jail.
+
+### 14:28–15:22
+- documentary/family discussion turns to Necole's claimed knowledge/fear regarding the later murders.
+
+These are **research locators**, not primary findings. Use official records/AP for factual narration and the Showtime clip only as licensed archival footage.
