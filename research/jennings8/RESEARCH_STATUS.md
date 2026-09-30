@@ -98,6 +98,8 @@ Completed:
 - added current Louisiana R.S. 44:3 public-record strategy: target initial reports, booking records, bills of information, closed court records and segregable metadata rather than broad active-homicide files;
 - added official JDPSO July 2, 2025 recap video/written source confirming 1,000+ hours and ~700 pages of new work on the eight cases;
 
+- audited the 2020 PJI federal filing for task-force report page citations; only explicit numbered pages located are 46 and 104, with other references generic;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
