@@ -121,3 +121,90 @@ For every clip:
 - FBI FOIA;
 - court clerk for audiovisual exhibits;
 - families / Michael Dubois documentary project, with permission.
+
+
+## Newly Verified Archival Leads
+
+### KPLC — Unedited 2009 Tracee Chaisson / Frankie Richard interviews
+Source page:
+https://www.kplctv.com/story/24594268/unedited-video-released-from-2009-special-report-on-jeff-davis-murders/
+
+KPLC reported in 2014 that:
+- prosecutors had subpoenaed raw interview footage from KPLC;
+- the footage had initially been thought lost;
+- an unmarked hard drive was later found containing **seven video clips**;
+- the clips contained interviews with **Tracee Chaisson and Frankie Richard** conducted by KPLC reporters Theresa Schmidt and Lee Peck;
+- KPLC decided to release the raw footage publicly.
+
+Why this matters:
+- primary archival interview footage from a major person of interest/source and another connected person;
+- can show viewers exactly what Richard said rather than paraphrasing everything through narration;
+- the court/subpoena history is itself relevant to the investigation.
+
+Rights:
+- copyright notice on page says KPLC / Gray.
+- treat as copyrighted archival footage requiring permission or carefully evaluated transformative use.
+
+Priority:
+**VERY HIGH.**
+
+### KPLC — 2019 six-part Jeff Davis Unsolved Mysteries video series
+Example:
+https://www.kplctv.com/video/2019/05/20/jeff-davis-unsolved-mysteries-part-vi/
+
+KPLC has dedicated video pages for its 2019 retrospective investigation.
+
+Need:
+- identify Parts I–VI URLs;
+- catalog interview subjects;
+- transcript each segment;
+- identify unique archival shots vs later standups.
+
+Priority:
+**VERY HIGH.**
+
+### KPLC — Brittney Gary Family Dollar surveillance coverage
+Sources:
+https://www.kplctv.com/story/9326888/surveillance-shows-last-moments-before-jennings-teens-disappearance/
+https://www.kplctv.com/story/9301809/jennings-mother-fears-worst-in-daughters-disappearance/
+
+These stories document actual Family Dollar surveillance showing Brittney at approximately 5:30 p.m. on Nov. 2, 2008.
+
+Need:
+- determine whether the original surveillance clip survives;
+- ask KPLC / law enforcement for source footage;
+- capture reporter package if original surveillance is embedded.
+
+Priority:
+**VERY HIGH for Brittney episode.**
+
+### KPLC — 2008 task-force press conference
+Source:
+https://www.kplctv.com/story/9550151/jennings-press-conference-on-mystery-murders/
+
+The article preserves Sheriff Ricky Edwards' announcement nearly verbatim. Search KPLC archive for original broadcast video.
+
+Priority:
+**HIGH.**
+
+### Paramount+ / Showtime — Murder in the Bayou
+Official current page:
+https://www.paramountplus.com/shows/murder-in-the-bayou/
+
+Useful interview/source targets:
+- victims' families;
+- Frankie Richard;
+- Ethan Brown;
+- law-enforcement figures;
+- Jennings location footage.
+
+This is premium copyrighted footage. Prefer licensing or use very short excerpts only when necessary for direct analysis/quotation.
+
+### KPLC podcast — Southwest Louisiana Unsolved
+KPLC produced a multi-episode audio series in 2019 beginning with:
+- Episode 1: The First Victim
+- Episode 2: More Bodies Found
+
+Need official KPLC feed / audio URLs and transcripts.
+
+This may provide clean original reporter narration/interviews even when old video is unavailable.
