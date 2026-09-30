@@ -360,3 +360,69 @@ Use the full draft in:
 
 Status:
 **DRAFTED — NOT SENT**
+
+
+---
+
+# Draft K — Louisiana public core-record request
+
+Use this before requesting broad active-investigation files.
+
+Subject:
+Public records request — initial report / booking record / bill of information — [case/person]
+
+Body:
+
+Hello,
+
+Pursuant to Louisiana Public Records Law, including R.S. 44:3(A)(4), I request the following public records relating to [person / alleged offense / approximate date]:
+
+1. the initial report of the investigating officer(s);
+2. the booking record / booking information summary under Code of Criminal Procedure Article 228;
+3. any record of summons or citation, if applicable;
+4. any filed bill of information.
+
+I am not requesting confidential-source information or exempt follow-up investigative records in this portion of the request.
+
+If any requested item is withheld, please identify the statutory basis for withholding and provide all reasonably segregable non-exempt portions.
+
+Electronic copies are preferred.
+
+Thank you.
+
+Recommended uses:
+- Byron Chad Jones / Ernestine Patterson
+- Lawrence Nixon / Ernestine Patterson
+- Frankie Richard / Kristen Lopez
+- Hannah Conner / Kristen Lopez
+- Tracee Chaisson / Kristen Lopez
+
+---
+
+# Draft L — active-investigation segregable-material follow-up
+
+Subject:
+Narrowed public records request — segregable administrative/public portions
+
+Body:
+
+Hello,
+
+I understand the related homicide investigation remains active and that R.S. 44:3(A)(1) may apply to portions of the investigative record.
+
+I therefore narrow my request to records or portions that are public or reasonably segregable, including:
+
+- report cover sheets;
+- table of contents or indices;
+- administrative metadata;
+- agency/author identifiers;
+- public press materials;
+- previously disclosed or publicly filed portions;
+- nonconfidential lead-index metadata;
+- any portions that can be produced without revealing confidential sources or exempt investigative strategy.
+
+If any portion is withheld, please identify the applicable statutory basis and produce all reasonably segregable non-exempt material.
+
+Thank you.
+
+See `LOUISIANA_PUBLIC_RECORDS_STRATEGY.md` for current statutory notes.
