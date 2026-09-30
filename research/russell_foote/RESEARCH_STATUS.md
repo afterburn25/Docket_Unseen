@@ -131,3 +131,21 @@ Two primary-record requests were transmitted through the connected Gmail account
 Both are currently **PENDING RESPONSE**.
 
 No inference should be drawn from response time, retention status, or any future denial until the agency states the basis.
+
+
+## Archive Requests Sent — 2026-09-29
+
+Two additional acquisition requests were transmitted:
+
+3. **UL Lafayette Dupré Library Special Collections**
+   - Subject: `Research/Digitization Request — 1973 Lafayette City Map (West Congress / Guilbeau)`
+   - Gmail thread/message ID: `1a0f01ac673b5b31`
+   - Requested: research-quality scan/digitization of the 1973 city map section showing West Congress/Guilbeau, with guidance on 1970/1975 comparison maps.
+
+4. **KLFY News 10**
+   - Subject: `Archive Research Request — KLFY Russell Foote report, November 1974`
+   - Gmail thread/message ID: `1a0f01acd3555648`
+   - Requested: surviving archive index, assignment log, reporter script, transcript, audio/film/video, or custodian information for the reported November 1974 broadcast discussing a possible relationship among the fire/arson inquiry, alleged embezzlement, and the Foote homicide.
+   - The request expressly does **not** seek identification of any confidential source.
+
+All four outgoing acquisition requests are now pending.
