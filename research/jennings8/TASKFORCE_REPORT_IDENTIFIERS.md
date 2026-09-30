@@ -320,3 +320,45 @@ When requesting the report, ask agencies to search/index for:
 - Frankie Richard
 
 If the full report is withheld, ask whether lead-index metadata can identify page/report numbers for those names.
+
+
+---
+
+# 2020 federal filing page-citation audit
+
+A direct text search plus visual review of the 15-page July 8, 2020 PJI federal submission found:
+
+## Explicit numbered task-force pages
+- **page 46**
+- **page 104**
+
+These are the only explicit task-force page numbers currently identified in that filing.
+
+## Page 46
+PJI cites page 46 in support of its characterization of an allegation involving:
+- Brittney Gary;
+- Teresa Gary;
+- Frankie Richard;
+- Brittney's exploitation/trafficking environment.
+
+The filing appears on PDF page 11/15 and footnote 109.
+
+## Page 104
+PJI cites page 104 in support of its characterization of an allegation involving:
+- Loretta Chaisson-Lewis;
+- Terrie Guillory;
+- an alleged intimate/sexual relationship;
+- a claim that the matter had been reported to the multi-agency task force.
+
+The filing appears on PDF page 8/15 and footnote 72.
+
+## Generic task-force citations
+The filing also cites the same task-force report **without page number** in broader passages concerning violence/sex-work networks and task-force suspects.
+
+Therefore:
+- do not invent additional page targets;
+- use names/subjects in a records request and ask for a lead/page index if the agency will not release the full report;
+- page 46 and page 104 remain the only precise internal page targets currently exposed by this filing.
+
+Source:
+https://static1.squarespace.com/static/5fe0e9cce6e50722511b03cc/t/6002475ef3d9ba77658dc2bc/1610762080196/2020.07.08-Jefferson-Davis-Parish-CRIPA-Complaint-1-1.pdf
