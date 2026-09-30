@@ -113,13 +113,22 @@ KPLC reported Oct. 10, 2007:
 KPLC:
 https://www.kplctv.com/story/7197004/jeff-davis-sheriffs-office-sued-over-sexual-assault-complaint/
 
-### Current limitation
+### Later disposition lead
 
-Docket Unseen has not yet recovered:
-- final federal disposition of the civil suit;
-- final State Police investigative disposition.
+The Promise of Justice Initiative's 2020 federal civil-rights request cites:
+- **"Judgment of Dismissal of 60 Days, Allen v. Edwards, No. 2:07-CV-1675 (W.D. La. Apr. 27, 2010)."**
 
-Therefore the underlying allegations must remain labeled **ALLEGATIONS**, not findings.
+This shows the federal case reached a dismissal judgment in April 2010.
+
+Current limitation:
+- Docket Unseen has not recovered the actual April 27, 2010 judgment;
+- therefore we should **not infer** whether the dismissal reflected settlement, voluntary dismissal, failure to prosecute, or another procedural basis;
+- the final Louisiana State Police investigative disposition also remains unrecovered.
+
+Until the underlying judgment is obtained, the correct phrasing is:
+> "A later federal civil-rights filing cites an April 2010 dismissal judgment in the Allen case, but the terms of that dismissal have not yet been recovered."
+
+The underlying misconduct allegations remain **ALLEGATIONS**, not adjudicated findings.
 
 ---
 
