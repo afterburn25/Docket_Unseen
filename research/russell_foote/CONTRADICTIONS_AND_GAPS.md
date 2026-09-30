@@ -104,3 +104,44 @@ Need:
 - whether any forensic retesting occurred;
 - whether interviews were re-conducted;
 - present case status and preferred tip channel.
+
+
+## Priority 8 — Public vs. Family Access
+
+Current Louisiana law creates materially different access routes:
+
+- the general public can seek the initial report;
+- qualifying immediate family may, after the statutory ten-year period and required district-court approval, obtain much broader access under R.S. 44:3(F);
+- the statute allows qualifying family to designate another person for evidence access.
+
+Open questions:
+- Did Kevin Foote's prior case-file access involve a formal R.S. 44:3(F) court order?
+- Does that order still exist in a public civil docket?
+- What exact materials were produced to the family?
+- Did the family receive copies only, or inspect evidence as well?
+- Could a designated researcher lawfully inspect surviving items now?
+
+This may be the single best route to move beyond secondary sources.
+
+## Priority 9 — Scene Geography Discrepancy
+
+Current secondary descriptions are similar but not identical:
+- KPLC: what is now West Congress Street;
+- KPEL: middle of the then-two-lane West Congress / "Route 1";
+- Project: Cold Case: near Guilbeau Street.
+
+Do not plot a definitive scene pin until the initial report or 1974 scene diagram resolves the location.
+
+## Priority 10 — Fire-Record Procedure
+
+Current Lafayette Fire Department procedure says:
+- an initial fire report is available through its records office;
+- an investigative/arrest report requires a subpoena under current department procedure.
+
+R.S. 44:3(E), meanwhile, says the public-records chapter is not to be construed as forbidding release of all or part of investigative files for fires classified as arson/incendiary/suspicious unless law enforcement directs nondisclosure because of pending/anticipated criminal adjudication.
+
+If an investigative fire file is requested and denied:
+- obtain the written basis;
+- ask whether an initial report survives;
+- ask for the record-retention/disposition history;
+- do not characterize the denial itself as evidence of concealment.
