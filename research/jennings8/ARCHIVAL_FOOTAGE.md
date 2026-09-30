@@ -247,3 +247,25 @@ https://www.kplctv.com/about-us/
 https://www.kplctv.com/story/16635466/copies-of-news-stories/
 
 For Docket Unseen, request **licensing / authorized documentary use**, not merely a personal-viewing dub.
+
+
+## Archive lookup keys recovered
+
+For KPLC/Gray archive staff, use these old ClipIDs:
+
+**2009 one-hour special**
+- 4251573
+- 4251624
+- 4252178
+- 4251707
+- 4251759
+- 4251783
+- 4251802
+
+**Necole surveillance package**
+- 4092905
+
+**Brittney / 7th victim package**
+- 3146844
+
+These were extracted from historical KPLC Flash-player URLs preserved in a 2011 media index.
