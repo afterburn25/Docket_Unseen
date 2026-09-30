@@ -30,7 +30,27 @@ This file contains only dates/events that have a cited source in `SOURCES.md`. D
 - KPLC later described her as found in a drainage canal off LA 102; later coverage states her throat had been cut.
 - Status: OFFICIAL RECORD + local reporting.
 
+## 2006
+
+### January 19–20, 2006
+**Byron Chad Jones arrested in connection with Ernestine Patterson's murder.**
+- KPLC reported Jones was apprehended in South Carolina on January 19.
+- Sheriff's officials said second-degree murder charges were pending forensic results.
+- Investigators said they did not then believe Loretta's and Ernestine's deaths were connected, but did not rule it out.
+- Status: CONTEMPORANEOUS LAW-ENFORCEMENT REPORT.
+
+### 2006 — Lawrence Nixon also charged
+- Later KPLC reporting identifies Lawrence Nixon as the second man charged in connection with Patterson.
+- Exact arrest/charging date still requires court record.
+- Status: LATER CONTEMPORANEOUS REPORTING.
+
 ## 2007
+
+### May 2007 — Patterson prosecution status
+- KPLC described Byron Chad Jones and Lawrence Nixon as awaiting trial on **manslaughter charges** in Patterson's death.
+- This differs from the January 2006 report of second-degree murder charges pending against Jones.
+- Obtain court docket before scripting procedural sequence.
+- Status: CONTEMPORANEOUS REPORTING.
 
 ### March 6, 2007
 **Kristen E. Gary Lopez last seen.**
@@ -123,6 +143,13 @@ This file contains only dates/events that have a cited source in `SOURCES.md`. D
 - Status: OFFICIAL TASK FORCE STATEMENT.
 
 ## 2010
+
+### June 2010 — KPLC describes Patterson charges as dismissed
+- KPLC reported Jones and the other Patterson defendant had had their charges dismissed.
+- KPLC gave the official reason as lack of evidence and unreliable witnesses.
+- Status: LOCAL REPORTING OF OFFICIAL RATIONALE.
+
+
 
 ### August 19, 2010
 **One-year update after Necole Guillory's death.**
