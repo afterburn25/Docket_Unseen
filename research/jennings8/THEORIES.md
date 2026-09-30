@@ -2,6 +2,22 @@
 
 This file is for **theories**, not conclusions.
 
+## Official classification nuance
+
+The public record changed over time:
+
+- **2009 task-force posture:** investigators said all eight were being treated as murders unless proven otherwise and said the deaths may have involved a common offender.
+- **2019 Sheriff Ivy Woods:** told KPLC that not all eight had officially been ruled homicides and said there was nothing official connecting all eight or confirming a serial killer.
+
+This means the series should distinguish:
+1. cases with an official homicide ruling;
+2. cases where cause/manner remained undetermined;
+3. the task force's investigative decision to treat the cluster as murders;
+4. the separate hypothesis that one offender committed them.
+
+Source:
+https://www.kplctv.com/2019/05/21/fourteenth-anniversary-first-jeff-davis-body-discovered/
+
 ## Theory 1 — One common offender / serial killer
 
 ### Support
