@@ -943,3 +943,15 @@ Supports:
 - summary of Brown's claim that task force received a pre-death warning Necole feared she would be next;
 - family fear context.
 Quality: SECONDARY REVIEW OF BROWN'S REPORTED CASE-FILE FINDING.
+
+
+### JDPSO — The First Year Recap (July 2, 2025)
+https://www.jdpso.org/press-releases/first-year-recap
+Official video:
+https://youtu.be/_UJ2WtCqpt0
+Supports:
+- official statement that JDPSO investigators spent over 1,000 hours on the eight unsolved cases since July 2024;
+- approximately 700 pages of reports concerning the eight cases;
+- increased Regional Crime Lab submissions;
+- primary current-agency visual source.
+Quality: PRIMARY CURRENT JDPSO SOURCE.
