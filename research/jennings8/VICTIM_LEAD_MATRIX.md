@@ -137,6 +137,24 @@ Those details should remain secondary until the actual court / lab file is obtai
 7. autopsy / toxicology;
 8. suspect interviews.
 
+## 2016 Nixon homicide-information development
+
+A published Louisiana appellate decision later shows that in 2016:
+- Jefferson Davis Parish prosecutors entered an agreement with Nixon conditioned on his providing credible information about an unsolved homicide from roughly ten years earlier;
+- a 28-minute interview was conducted;
+- Jefferson Davis Parish investigator Chris Myers testified Nixon had been questioned about "the murder" roughly ten years earlier;
+- Nixon discussed a suspect and a box cutter;
+- investigators judged his information inconsistent/general and not useful enough to satisfy the deal.
+
+The opinion does **not name the homicide victim**. Given Nixon's prior Patterson prosecution, the context strongly suggests Patterson but does not prove it.
+
+Analytical meaning:
+- Nixon was **not simply forgotten after charges were dismissed**;
+- authorities still considered him potentially able to provide useful homicide information years later;
+- the 2016 interview did not produce information investigators considered credible/helpful.
+
+See `PART2_LORETTA_ERNESTINE.md`.
+
 ## Cross-case implication
 Patterson is the clearest public example of a **separate formal suspect cluster** that does not automatically point to Richard or a single serial offender.
 
