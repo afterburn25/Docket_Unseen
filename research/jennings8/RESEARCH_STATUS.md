@@ -50,6 +50,8 @@ Completed:
 #- created dedicated Leonard Crochet / Harvey Burleigh dossier;
 - created Boudreaux Inn dossier separating primary-record needs from Brown/media claims;
 
+- created associated-deaths/incidents dossier covering Sheila Comeaux, Steven Gunter, Lacie Fontenot, Russell Carrier, Crochet and Burleigh with connection strength labels;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
