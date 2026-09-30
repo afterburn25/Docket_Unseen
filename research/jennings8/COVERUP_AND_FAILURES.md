@@ -17,11 +17,23 @@ This file tracks the strongest evidence for:
 ## 1. Warren Gary and the white truck
 
 ### What is documented
-- Warren Gary was the chief criminal investigator for the Jefferson Davis Parish Sheriff's Office.
-- Contemporary/later reporting states he purchased a white truck from a potential witness / person connected to the Lopez investigation.
-- KPLC reported Gary was removed from the Jeff Davis investigation and fined **$10,000** after the purchase came to light.
-- Later reporting says Gary was cleared of criminal charges.
-- The truck was potentially significant because witnesses placed Kristen Gary Lopez in a white pickup before her death.
+A surviving copy of Louisiana Board of Ethics Opinion **2007-489**, dated June 26, 2008, states:
+- Warren Gary had been employed by the Jefferson Davis Parish Sheriff's Office since 1992 and had served as Chief Criminal Investigator since 1997;
+- on March 20, 2007, a suspect was brought to the Sheriff's Office for questioning in an ongoing criminal investigation;
+- during questioning, Gary negotiated to buy her vehicle;
+- the suspect was arrested that afternoon;
+- Gary bought the vehicle on March 30 for **$8,748.90**;
+- the suspect used **$3,207.13** of proceeds to pay the Jefferson Davis Parish District Attorney's Office for bad checks;
+- Gary sold the vehicle on April 20 for **$15,500**;
+- the Board found he violated Sections 1115B and 1116A of Louisiana's Code of Governmental Ethics;
+- Gary consented to the findings and a **$10,000 penalty**.
+
+KPLC later reported Gary was pulled from the Jeff Davis 8 investigation after the transaction came to light.
+
+Separate witness / journalistic claims connected the same vehicle to the Kristen Lopez investigation. **The Ethics Board ruling itself does not establish that the truck carried Lopez's body or that Gary knew it contained murder evidence.**
+
+Source copy:
+Louisiana Board of Ethics, Opinion 2007-489 (surviving copy uploaded online; direct state archive copy still preferred).
 
 ### Why it matters
 A lead investigator personally buying and later selling a vehicle that may have had evidentiary value creates an obvious conflict and chain-of-custody problem even if no criminal intent is proven.
@@ -43,10 +55,17 @@ Sources:
 ## 2. Missing evidence / Paula Guillory
 
 ### Reported facts
-A 2020 civil-rights complaint by the Promise of Justice Initiative stated that:
-- a large amount of evidence from an unrelated theft-ring case went missing;
-- the loss contributed to collapse of a criminal case involving Frankie Richard;
-- Deputy Paula Guillory was fired in connection with handling / possible theft of evidence.
+KPLC reported on August 13, 2009:
+- Deputy Paula Guillory had been suspended after evidence went missing;
+- Sheriff Ricky Edwards asked the Vermilion Parish Sheriff's Office to investigate;
+- the investigation found more than **$3,700** missing;
+- Edwards fired Guillory and notified prosecutors.
+
+A 2020 civil-rights complaint by the Promise of Justice Initiative later described broader missing evidence, including jewelry, drugs, and cash, and connected the evidence problem to collapse of a criminal case involving Frankie Richard.
+
+Important:
+- KPLC's contemporaneous article directly verifies the missing-money/firing event;
+- broader claims about what other evidence disappeared and which case it affected need court/agency records.
 
 KPLC contemporaneous reporting also documented community concerns over law-enforcement evidence handling in the Jeff Davis investigation.
 
@@ -61,11 +80,20 @@ This does not prove evidence in the eight murders was intentionally destroyed, b
 ## 3. Jesse Ewing and the inmate recordings
 
 ### Documented timeline
-- Jennings Police Sgt. Jesse Ewing obtained recordings/statements from two female inmates who claimed to have information about the murders and an alleged law-enforcement cover-up.
-- Ewing gave the recordings to private investigator Kirk Menard without authorization.
-- Louisiana State Police arrested Ewing in December 2007 on obstruction/malfeasance allegations.
-- KPLC later reported Ewing pleaded guilty in 2008 to misdemeanor criminal mischief.
-- Ewing publicly maintained that he believed he had done the right thing.
+KPLC published a Louisiana State Police statement on December 19, 2007 saying:
+- Jennings Police Sgt. Jesse Ewing released confidential information to civilian private investigator Kirk Menard;
+- the material related to an ongoing investigation by another agency;
+- State Police arrested Ewing on obstruction/malfeasance-related allegations.
+
+KPLC's next-day reporting said:
+- two female inmates had requested to speak to Ewing about the four then-known deaths;
+- Menard said each inmate separately alleged a cover-up involving a **"high-elected parish official"**;
+- Menard delivered the recordings to the FBI and Louisiana Attorney General's Office;
+- Menard explicitly cautioned that he was not claiming the cover-up allegation was true.
+
+KPLC later reported Ewing pleaded guilty in 2008 to misdemeanor criminal mischief after the case was reduced.
+
+Ewing publicly maintained that he believed he had done the right thing.
 
 ### Why it matters
 This is a real, documented incident in which alleged cover-up information existed inside law enforcement and the officer who removed it from normal channels was prosecuted for doing so.
