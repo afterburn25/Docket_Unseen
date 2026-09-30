@@ -670,3 +670,26 @@ Supports:
 - KPLC statement that investigative team spent "over 1,000" on the eight cases;
 - updated technology and interagency communication.
 Quality: CURRENT LOCAL NEWS / DIRECT SHERIFF INTERVIEW.
+
+
+### KPLC — Jennings mother fears worst in daughter's disappearance
+https://www.kplctv.com/story/9301809/jennings-mother-fears-worst-in-daughters-disappearance/
+Supports:
+- Teresa Gary directly identifies Kristen Gary as Brittney's cousin;
+- Brittney was friends with several prior victims;
+- contemporaneous fear/concern during disappearance.
+Quality: CONTEMPORANEOUS LOCAL / FAMILY INTERVIEW.
+
+### KPLC — Jeff Davis victims in national spotlight
+https://www.kplctv.com/story/11227556/jeff-davis-victims-in-national-spotlight/
+Supports:
+- Mike Dubois as Whitnei Dubois's brother;
+- family push for national attention / outside resources.
+Quality: CONTEMPORANEOUS LOCAL.
+
+### KPLC — Family, friends remember Muggy Brown
+https://www.kplctv.com/story/11907572/family-friends-remember-muggy-brown-during-walk/
+Supports:
+- Kendra/Kindra Brown as Muggy's sister;
+- family memorial/advocacy.
+Quality: CONTEMPORANEOUS LOCAL.
