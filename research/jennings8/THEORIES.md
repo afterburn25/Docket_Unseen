@@ -33,6 +33,16 @@ Status: **JOURNALISTIC THEORY / UNRESOLVED.**
 
 ## Theory 3 — Victims were targeted because of information they possessed
 
+### Documented fear pattern
+Separate from the motive theory itself, several victims have sourced fear statements:
+- Muggy Brown's sister told KPLC Muggy believed "her time had come";
+- Brittney Gary's mother said Brittney had expressed concern for her safety and no longer knew whom she could trust;
+- Necole Guillory's mother said Necole repeatedly told family she would not live long.
+
+See `FEAR_AND_FOREKNOWLEDGE.md`.
+
+These statements make the theory worth investigating, but do not prove motive.
+
 Variants include:
 - drug-trade knowledge;
 - police-informant activity;
