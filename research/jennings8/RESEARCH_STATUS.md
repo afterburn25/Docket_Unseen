@@ -65,6 +65,8 @@ Completed:
 
 - indexed approximate Chapter 2 Showtime scene windows for Muggy, Crystal, Brittney, task-force formation, Necole, and Brown's entry into the case; timings must be verified against the master;
 
+- added direct 2023/2025 KPLC record of Kyle Miers' campaign promises and active cold-case work, strengthening the bridge to the secondary 2026 re-review report;
+
 ## Primary-record acquisition priority
 - 31st Judicial District Court Patterson docket;
 - Louisiana Board of Ethics Warren Gary matter;
